@@ -2,27 +2,37 @@
 
 using namespace std;
 #define ll long long
-const int maxN = 5009;
+const ll maxN = 5009;
+int n, m;
+vector<int> lines;
+
+int check(double mid) {
+    int num = 0;
+    for (int i = 0; i < n; ++i) {
+        num += lines[i] / mid;
+    }
+    return num >= m;
+}
 
 int main() {
-    int m, n;
-    cin >> m;
-    n = 2 * m - 1;
-    int a[n + 1];
-    int sum[n + 1];
-    sum[0] = 0;
-    for (int i = 1; i <= m; ++i) {
-        cin >> a[i];
-        sum[i] = sum[i - 1] + a[i];
+    cin >> n >> m;
+    lines.resize(n);
+    int rr = INT_MIN;
+    for (int i = 0; i < n; ++i) {
+        cin >> lines[i];
+        rr = max(lines[i], rr);
     }
-    for (int i = m + 1; i <= n; ++i) {
-        a[i] = a[i - m];
-        sum[i] = sum[i - 1] + a[i];
+    double l = 0;
+    double r = rr;
+    double mid;
+    while (r - l > 0.000001) {
+        mid = l + (r - l) / 2;
+        if (check(mid)) {
+            l = mid;
+        } else {
+            r = mid;
+        }
     }
-    int mindp[n+1][n+1];
-    int maxdp[n+1][n+1];
-    for (int i = 0; i < ; ++i) {
-
-    }
+    cout << mid << endl;
     return 0;
 }

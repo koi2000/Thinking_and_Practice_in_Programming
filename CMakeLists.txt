@@ -46,6 +46,11 @@ add_executable(CSP-2-B CSP-2/B.cpp)
 add_executable(CSP-2-C CSP-2/C.cpp)
 add_executable(CSP-2-D CSP-2/D.cpp)
 
+add_executable(CSP-3-A CSP-3/A.cpp)
+add_executable(CSP-3-B CSP-3/B.cpp)
+add_executable(CSP-3-C CSP-3/C.cpp)
+add_executable(CSP-3-D CSP-3/D.cpp)
+
 add_executable(H7-A H7/A.cpp)
 add_executable(H7-B H7/B.cpp)
 add_executable(H7-C H7/C.cpp)
