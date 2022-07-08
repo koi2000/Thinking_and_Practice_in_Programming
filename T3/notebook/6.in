@@ -1,0 +1,4801 @@
+4800
+PRINT
+MOVE End
+PRINT
+MOVE End
+MOVE Left
+REMOVE Del
+REMOVE Backspace
+MOVE Right
+MOVE End
+INSERT Char 5
+REMOVE Del
+REMOVE Backspace
+INSERT Space
+REMOVE Del
+MOVE Right
+INSERT Char 5
+REMOVE Backspace
+MOVE End
+INSERT Char %
+INSERT Char c
+INSERT Char %
+REMOVE Del
+MOVE Right
+INSERT Char k
+INSERT Char c
+REMOVE Del
+INSERT Char c
+MOVE End
+INSERT Char k
+INSERT Char c
+INSERT Space
+PRINT
+INSERT Char k
+INSERT Space
+INSERT Char %
+PRINT
+INSERT Char k
+MOVE Left
+REMOVE Backspace
+INSERT Char 7
+INSERT Char c
+PRINT
+INSERT Char s
+INSERT Char m
+INSERT Char c
+MOVE Left
+INSERT Char s
+PRINT
+MOVE End
+INSERT Char s
+REMOVE Del
+MOVE Right
+MOVE Home
+MOVE Right
+REMOVE Del
+INSERT Char 5
+PRINT
+MOVE End
+REMOVE Backspace
+MOVE Home
+INSERT Char O
+MOVE Home
+REMOVE Del
+MOVE Home
+PRINT
+INSERT Space
+MOVE Left
+REMOVE Del
+INSERT Char m
+REMOVE Del
+REMOVE Del
+PRINT
+INSERT Char s
+PRINT
+INSERT Char 7
+MOVE End
+REMOVE Del
+REMOVE Backspace
+INSERT Space
+MOVE End
+PRINT
+INSERT Char s
+REMOVE Del
+PRINT
+INSERT Space
+REMOVE Del
+INSERT Char O
+INSERT Char c
+MOVE Right
+INSERT Space
+INSERT Char %
+INSERT Char s
+INSERT Char m
+REMOVE Backspace
+INSERT Char c
+REMOVE Backspace
+REMOVE Backspace
+MOVE End
+MOVE Home
+INSERT Char m
+MOVE Home
+INSERT Char 7
+PRINT
+REMOVE Backspace
+INSERT Char k
+PRINT
+MOVE Right
+INSERT Char 7
+REMOVE Backspace
+PRINT
+REMOVE Backspace
+MOVE End
+INSERT Char m
+REMOVE Backspace
+INSERT Space
+INSERT Char c
+INSERT Char k
+MOVE Left
+MOVE Left
+MOVE Home
+INSERT Char 5
+INSERT Char 7
+INSERT Char %
+MOVE End
+INSERT Char 7
+INSERT Char k
+REMOVE Backspace
+MOVE Home
+REMOVE Backspace
+INSERT Space
+INSERT Char 7
+INSERT Char s
+INSERT Char O
+INSERT Char 5
+MOVE End
+MOVE Home
+MOVE Right
+PRINT
+INSERT Space
+INSERT Char 7
+REMOVE Del
+MOVE Left
+INSERT Char c
+REMOVE Backspace
+REMOVE Backspace
+REMOVE Del
+INSERT Char 7
+REMOVE Del
+INSERT Char m
+INSERT Char 5
+PRINT
+INSERT Char 5
+INSERT Char %
+REMOVE Backspace
+PRINT
+INSERT Char k
+REMOVE Del
+PRINT
+INSERT Space
+INSERT Char 7
+REMOVE Del
+REMOVE Backspace
+INSERT Char s
+INSERT Char O
+INSERT Char c
+REMOVE Del
+INSERT Char %
+PRINT
+PRINT
+MOVE Home
+MOVE End
+MOVE End
+INSERT Char O
+REMOVE Del
+INSERT Char 5
+MOVE Home
+MOVE Left
+REMOVE Backspace
+INSERT Space
+REMOVE Del
+MOVE Left
+MOVE End
+REMOVE Backspace
+REMOVE Backspace
+REMOVE Del
+INSERT Char O
+REMOVE Del
+INSERT Char k
+INSERT Char m
+MOVE End
+MOVE Left
+PRINT
+PRINT
+MOVE Home
+INSERT Char c
+MOVE End
+PRINT
+PRINT
+INSERT Char 5
+MOVE End
+INSERT Char %
+REMOVE Del
+INSERT Char O
+PRINT
+INSERT Char k
+INSERT Char 7
+REMOVE Del
+INSERT Char O
+INSERT Char 7
+PRINT
+INSERT Char c
+MOVE Left
+INSERT Char k
+INSERT Char 5
+INSERT Space
+INSERT Char 7
+INSERT Char 7
+INSERT Char s
+REMOVE Backspace
+REMOVE Backspace
+INSERT Char s
+REMOVE Del
+REMOVE Backspace
+INSERT Char O
+INSERT Char k
+REMOVE Del
+INSERT Char O
+REMOVE Del
+INSERT Space
+INSERT Char k
+INSERT Char s
+INSERT Char s
+INSERT Char c
+INSERT Char %
+INSERT Char m
+PRINT
+INSERT Char 5
+REMOVE Backspace
+INSERT Char s
+INSERT Char 5
+INSERT Space
+INSERT Char s
+REMOVE Del
+MOVE End
+REMOVE Del
+INSERT Char %
+INSERT Char %
+PRINT
+INSERT Char %
+INSERT Char s
+INSERT Char m
+PRINT
+INSERT Char m
+MOVE Home
+INSERT Space
+PRINT
+INSERT Char 7
+INSERT Char s
+REMOVE Backspace
+REMOVE Del
+REMOVE Backspace
+MOVE Home
+INSERT Char 7
+INSERT Space
+INSERT Char 5
+PRINT
+REMOVE Backspace
+REMOVE Backspace
+MOVE End
+PRINT
+MOVE End
+INSERT Char k
+INSERT Char m
+MOVE Home
+INSERT Char %
+MOVE Left
+MOVE Left
+PRINT
+INSERT Char m
+REMOVE Backspace
+INSERT Char m
+REMOVE Del
+INSERT Char %
+MOVE Left
+INSERT Char c
+PRINT
+PRINT
+REMOVE Backspace
+REMOVE Backspace
+PRINT
+REMOVE Backspace
+PRINT
+REMOVE Backspace
+REMOVE Backspace
+INSERT Char O
+INSERT Char k
+MOVE Home
+PRINT
+MOVE Right
+PRINT
+REMOVE Backspace
+INSERT Char %
+MOVE Left
+INSERT Char s
+PRINT
+MOVE End
+REMOVE Del
+REMOVE Backspace
+MOVE Right
+REMOVE Del
+INSERT Char c
+INSERT Char s
+INSERT Char k
+MOVE Left
+INSERT Space
+MOVE End
+PRINT
+REMOVE Backspace
+MOVE End
+REMOVE Del
+INSERT Char c
+REMOVE Backspace
+REMOVE Del
+PRINT
+MOVE Right
+REMOVE Del
+MOVE Home
+INSERT Char 7
+REMOVE Del
+INSERT Char 5
+REMOVE Backspace
+PRINT
+MOVE Left
+INSERT Char m
+INSERT Char k
+INSERT Space
+REMOVE Del
+INSERT Char k
+INSERT Char k
+MOVE End
+INSERT Char c
+REMOVE Backspace
+INSERT Char 7
+INSERT Char m
+MOVE Home
+INSERT Char k
+REMOVE Backspace
+INSERT Char O
+INSERT Space
+INSERT Char %
+INSERT Char k
+MOVE End
+REMOVE Backspace
+INSERT Char 5
+REMOVE Backspace
+REMOVE Del
+MOVE Home
+INSERT Char O
+INSERT Char m
+INSERT Char k
+INSERT Char %
+REMOVE Backspace
+INSERT Char 7
+MOVE End
+MOVE Right
+INSERT Char m
+INSERT Char k
+PRINT
+INSERT Char m
+REMOVE Del
+PRINT
+MOVE Home
+INSERT Char O
+INSERT Space
+MOVE Left
+INSERT Char %
+REMOVE Backspace
+INSERT Char c
+INSERT Char m
+INSERT Space
+MOVE Left
+MOVE Home
+INSERT Char s
+REMOVE Del
+MOVE End
+MOVE Right
+INSERT Space
+INSERT Char %
+INSERT Char O
+INSERT Char c
+INSERT Space
+REMOVE Backspace
+MOVE Left
+MOVE Left
+REMOVE Backspace
+INSERT Char c
+REMOVE Backspace
+PRINT
+MOVE Left
+MOVE End
+INSERT Char 5
+REMOVE Backspace
+REMOVE Del
+MOVE Home
+INSERT Char k
+INSERT Char 7
+PRINT
+MOVE Left
+INSERT Space
+REMOVE Del
+REMOVE Backspace
+INSERT Char s
+MOVE Right
+PRINT
+REMOVE Del
+INSERT Char m
+REMOVE Del
+REMOVE Del
+INSERT Char s
+PRINT
+MOVE End
+INSERT Char O
+INSERT Char k
+REMOVE Backspace
+INSERT Char m
+MOVE Home
+INSERT Char c
+INSERT Char k
+INSERT Char %
+INSERT Space
+REMOVE Backspace
+PRINT
+REMOVE Del
+INSERT Char c
+MOVE Home
+MOVE End
+PRINT
+INSERT Char 5
+REMOVE Backspace
+REMOVE Del
+INSERT Char s
+REMOVE Backspace
+INSERT Char %
+PRINT
+INSERT Char m
+MOVE Home
+INSERT Char s
+REMOVE Backspace
+MOVE Home
+INSERT Char s
+PRINT
+REMOVE Backspace
+INSERT Char m
+PRINT
+INSERT Char c
+INSERT Char m
+REMOVE Del
+PRINT
+INSERT Char 5
+INSERT Char k
+REMOVE Del
+REMOVE Backspace
+MOVE Home
+MOVE End
+REMOVE Backspace
+REMOVE Backspace
+INSERT Char m
+PRINT
+INSERT Char 7
+INSERT Char c
+INSERT Space
+INSERT Char %
+REMOVE Del
+INSERT Char s
+REMOVE Backspace
+INSERT Char m
+MOVE Right
+INSERT Space
+INSERT Char s
+PRINT
+INSERT Char %
+MOVE Left
+INSERT Space
+INSERT Char c
+INSERT Char c
+INSERT Char %
+MOVE Home
+MOVE End
+INSERT Char s
+PRINT
+MOVE Left
+REMOVE Del
+MOVE Right
+MOVE Right
+MOVE Right
+REMOVE Del
+REMOVE Backspace
+INSERT Char 5
+PRINT
+INSERT Char c
+MOVE Home
+INSERT Char s
+REMOVE Del
+REMOVE Backspace
+INSERT Char 5
+INSERT Char %
+INSERT Char %
+REMOVE Backspace
+REMOVE Del
+MOVE Right
+MOVE Left
+INSERT Char %
+INSERT Char 7
+INSERT Char %
+REMOVE Backspace
+INSERT Char m
+REMOVE Del
+INSERT Char c
+MOVE Right
+INSERT Char c
+PRINT
+MOVE Right
+MOVE Left
+MOVE End
+PRINT
+PRINT
+INSERT Char 7
+REMOVE Del
+MOVE Home
+PRINT
+INSERT Char c
+MOVE Left
+REMOVE Backspace
+PRINT
+REMOVE Backspace
+MOVE Right
+MOVE Home
+INSERT Char 5
+REMOVE Del
+REMOVE Del
+MOVE Right
+REMOVE Backspace
+MOVE Home
+INSERT Space
+MOVE Right
+INSERT Char k
+REMOVE Backspace
+REMOVE Backspace
+REMOVE Backspace
+INSERT Char O
+INSERT Char O
+MOVE Home
+INSERT Char s
+REMOVE Backspace
+INSERT Char 7
+REMOVE Backspace
+INSERT Char k
+REMOVE Del
+INSERT Char %
+REMOVE Backspace
+REMOVE Del
+MOVE Left
+REMOVE Del
+INSERT Space
+REMOVE Del
+MOVE Right
+INSERT Char c
+REMOVE Backspace
+INSERT Char O
+INSERT Char %
+PRINT
+INSERT Char 5
+INSERT Char 5
+INSERT Char O
+PRINT
+MOVE End
+INSERT Char m
+MOVE Right
+PRINT
+PRINT
+MOVE Home
+INSERT Char s
+INSERT Char k
+INSERT Char m
+INSERT Char s
+REMOVE Del
+REMOVE Backspace
+INSERT Char O
+INSERT Char %
+INSERT Space
+MOVE End
+INSERT Char 5
+PRINT
+REMOVE Backspace
+REMOVE Backspace
+INSERT Char m
+INSERT Char c
+INSERT Char m
+INSERT Char s
+PRINT
+REMOVE Backspace
+PRINT
+MOVE Left
+INSERT Space
+INSERT Char k
+INSERT Char O
+REMOVE Backspace
+PRINT
+MOVE End
+INSERT Char c
+INSERT Char %
+REMOVE Del
+INSERT Char k
+REMOVE Backspace
+INSERT Char 5
+INSERT Space
+PRINT
+REMOVE Del
+INSERT Char m
+INSERT Char s
+PRINT
+REMOVE Backspace
+INSERT Char s
+INSERT Char %
+MOVE Left
+INSERT Char %
+INSERT Char 7
+PRINT
+INSERT Char O
+INSERT Char %
+INSERT Char c
+REMOVE Backspace
+REMOVE Backspace
+REMOVE Del
+INSERT Char %
+REMOVE Backspace
+INSERT Char c
+REMOVE Del
+MOVE Left
+REMOVE Del
+INSERT Char k
+PRINT
+PRINT
+MOVE Left
+INSERT Char k
+INSERT Char 7
+PRINT
+INSERT Char m
+INSERT Char k
+INSERT Char m
+MOVE Left
+INSERT Char m
+INSERT Char O
+MOVE Home
+REMOVE Backspace
+REMOVE Del
+PRINT
+REMOVE Backspace
+REMOVE Backspace
+MOVE Right
+PRINT
+PRINT
+MOVE Right
+INSERT Char s
+MOVE Home
+REMOVE Backspace
+MOVE Home
+INSERT Char m
+REMOVE Del
+MOVE Right
+PRINT
+INSERT Char %
+MOVE Right
+INSERT Char 7
+MOVE Home
+INSERT Char 5
+INSERT Char k
+REMOVE Del
+INSERT Space
+INSERT Char 5
+REMOVE Backspace
+MOVE Home
+REMOVE Backspace
+REMOVE Del
+INSERT Char 7
+REMOVE Del
+MOVE End
+INSERT Char 7
+INSERT Char O
+PRINT
+MOVE End
+MOVE Home
+MOVE End
+REMOVE Del
+INSERT Char 5
+INSERT Char s
+INSERT Char 7
+REMOVE Del
+INSERT Char 5
+INSERT Char O
+REMOVE Del
+MOVE End
+MOVE Right
+PRINT
+INSERT Char 7
+INSERT Space
+REMOVE Del
+PRINT
+INSERT Char s
+REMOVE Del
+MOVE Home
+INSERT Char c
+INSERT Char O
+MOVE Home
+INSERT Char O
+MOVE Right
+PRINT
+INSERT Space
+PRINT
+INSERT Char c
+INSERT Char s
+INSERT Char c
+MOVE End
+MOVE Home
+REMOVE Del
+MOVE Home
+REMOVE Del
+REMOVE Backspace
+INSERT Char 7
+MOVE Right
+PRINT
+INSERT Space
+INSERT Space
+REMOVE Del
+MOVE Left
+INSERT Space
+REMOVE Del
+INSERT Char m
+MOVE End
+INSERT Char c
+INSERT Char 5
+INSERT Space
+INSERT Char 5
+INSERT Char 7
+INSERT Char s
+MOVE Right
+INSERT Char O
+REMOVE Backspace
+MOVE End
+REMOVE Del
+INSERT Char %
+MOVE End
+PRINT
+INSERT Space
+PRINT
+REMOVE Backspace
+INSERT Space
+INSERT Char 7
+INSERT Char k
+MOVE Left
+REMOVE Backspace
+INSERT Char k
+PRINT
+MOVE End
+REMOVE Del
+INSERT Char c
+REMOVE Backspace
+INSERT Char m
+INSERT Char 5
+PRINT
+INSERT Char 7
+INSERT Char 5
+MOVE End
+REMOVE Backspace
+MOVE Home
+INSERT Char s
+MOVE Home
+REMOVE Backspace
+REMOVE Backspace
+INSERT Char %
+REMOVE Backspace
+INSERT Char 7
+INSERT Space
+PRINT
+INSERT Char %
+REMOVE Del
+INSERT Space
+INSERT Char m
+REMOVE Backspace
+PRINT
+INSERT Char 7
+REMOVE Del
+INSERT Char s
+MOVE Right
+INSERT Char s
+INSERT Char %
+INSERT Space
+PRINT
+INSERT Char %
+MOVE Right
+MOVE Left
+PRINT
+REMOVE Backspace
+MOVE Right
+INSERT Char k
+MOVE Home
+INSERT Char 7
+INSERT Char k
+REMOVE Backspace
+INSERT Char m
+INSERT Char %
+REMOVE Backspace
+MOVE Right
+PRINT
+MOVE Right
+INSERT Char 5
+REMOVE Del
+INSERT Char s
+REMOVE Backspace
+INSERT Char c
+MOVE Home
+MOVE Home
+INSERT Char 7
+REMOVE Backspace
+MOVE Left
+REMOVE Del
+INSERT Char %
+MOVE Left
+REMOVE Del
+INSERT Char 5
+INSERT Space
+INSERT Char %
+MOVE Home
+INSERT Char %
+INSERT Char s
+MOVE Home
+PRINT
+INSERT Char c
+REMOVE Backspace
+REMOVE Del
+INSERT Char %
+PRINT
+PRINT
+PRINT
+INSERT Char c
+INSERT Char O
+PRINT
+MOVE Home
+REMOVE Del
+REMOVE Del
+INSERT Char O
+PRINT
+MOVE Right
+INSERT Char 7
+INSERT Space
+MOVE Right
+PRINT
+REMOVE Backspace
+MOVE Right
+INSERT Char c
+MOVE Left
+INSERT Char c
+INSERT Char %
+INSERT Char %
+INSERT Char 5
+MOVE End
+PRINT
+MOVE End
+REMOVE Del
+PRINT
+MOVE End
+INSERT Char s
+INSERT Char k
+INSERT Char 5
+INSERT Char 5
+INSERT Char k
+REMOVE Del
+REMOVE Del
+INSERT Char 5
+PRINT
+MOVE Left
+INSERT Char O
+INSERT Char c
+INSERT Char m
+INSERT Char c
+INSERT Char 5
+REMOVE Backspace
+INSERT Char m
+REMOVE Del
+INSERT Char s
+PRINT
+MOVE End
+MOVE End
+INSERT Space
+INSERT Space
+INSERT Char 5
+INSERT Char O
+INSERT Char O
+PRINT
+MOVE End
+INSERT Char c
+INSERT Char s
+INSERT Char %
+MOVE Left
+MOVE Right
+INSERT Char 5
+MOVE Home
+INSERT Char m
+INSERT Char m
+INSERT Char %
+MOVE Left
+REMOVE Backspace
+INSERT Char k
+REMOVE Del
+MOVE Left
+INSERT Char 5
+INSERT Char k
+MOVE Home
+INSERT Char c
+REMOVE Backspace
+INSERT Char 7
+MOVE End
+INSERT Char c
+REMOVE Backspace
+INSERT Char m
+MOVE Home
+INSERT Space
+INSERT Char k
+REMOVE Backspace
+MOVE End
+INSERT Char k
+PRINT
+MOVE Home
+PRINT
+PRINT
+REMOVE Del
+PRINT
+MOVE Home
+MOVE Home
+INSERT Char 5
+REMOVE Backspace
+INSERT Char k
+INSERT Char m
+INSERT Char 5
+REMOVE Del
+MOVE Right
+INSERT Char m
+PRINT
+INSERT Char m
+REMOVE Del
+REMOVE Backspace
+PRINT
+INSERT Char c
+INSERT Char m
+MOVE Right
+MOVE Right
+INSERT Char k
+PRINT
+INSERT Char m
+INSERT Space
+PRINT
+MOVE Right
+INSERT Space
+REMOVE Del
+MOVE Home
+PRINT
+INSERT Char O
+INSERT Char O
+MOVE Left
+REMOVE Backspace
+INSERT Char m
+INSERT Char s
+INSERT Char 7
+INSERT Char c
+INSERT Char c
+INSERT Char O
+INSERT Char 7
+MOVE Right
+REMOVE Del
+MOVE End
+INSERT Char 5
+PRINT
+PRINT
+INSERT Space
+REMOVE Del
+INSERT Char 7
+REMOVE Backspace
+INSERT Char 7
+MOVE Right
+PRINT
+INSERT Char s
+INSERT Space
+MOVE Home
+INSERT Char 5
+INSERT Space
+INSERT Char 5
+INSERT Char k
+MOVE Left
+INSERT Char 5
+PRINT
+INSERT Char 5
+INSERT Char 5
+REMOVE Backspace
+PRINT
+MOVE End
+MOVE Right
+INSERT Char k
+INSERT Char m
+MOVE Home
+INSERT Char s
+MOVE Home
+INSERT Char m
+MOVE Home
+INSERT Char 7
+INSERT Char c
+REMOVE Backspace
+MOVE End
+INSERT Char O
+REMOVE Del
+INSERT Char m
+PRINT
+REMOVE Del
+REMOVE Backspace
+MOVE Left
+MOVE Left
+INSERT Char 5
+INSERT Space
+REMOVE Backspace
+MOVE End
+INSERT Space
+REMOVE Del
+INSERT Char c
+INSERT Char c
+REMOVE Backspace
+INSERT Char k
+MOVE Right
+INSERT Char 7
+INSERT Char 5
+REMOVE Backspace
+INSERT Char 7
+REMOVE Backspace
+INSERT Char 7
+REMOVE Del
+REMOVE Backspace
+MOVE Right
+INSERT Char O
+PRINT
+INSERT Char k
+MOVE Home
+INSERT Char m
+INSERT Char k
+INSERT Char O
+MOVE Right
+INSERT Space
+PRINT
+INSERT Char 7
+INSERT Space
+INSERT Char 5
+INSERT Space
+REMOVE Del
+MOVE Left
+INSERT Char m
+INSERT Char m
+INSERT Char s
+REMOVE Backspace
+REMOVE Backspace
+MOVE Home
+PRINT
+REMOVE Del
+MOVE Home
+INSERT Char s
+INSERT Char k
+INSERT Char %
+INSERT Space
+REMOVE Backspace
+INSERT Char s
+MOVE Home
+MOVE Left
+INSERT Char 5
+INSERT Char 5
+INSERT Char m
+REMOVE Backspace
+INSERT Char c
+INSERT Char s
+REMOVE Del
+REMOVE Backspace
+PRINT
+MOVE Home
+INSERT Char c
+PRINT
+INSERT Char s
+PRINT
+REMOVE Del
+REMOVE Backspace
+PRINT
+REMOVE Backspace
+INSERT Char 7
+REMOVE Backspace
+INSERT Char s
+REMOVE Del
+PRINT
+MOVE End
+INSERT Char k
+INSERT Char %
+INSERT Char c
+INSERT Char 7
+INSERT Char k
+INSERT Char O
+MOVE End
+INSERT Char 5
+PRINT
+INSERT Char O
+INSERT Char O
+PRINT
+INSERT Char %
+MOVE Home
+PRINT
+MOVE End
+REMOVE Del
+REMOVE Del
+INSERT Char %
+INSERT Char 7
+REMOVE Del
+INSERT Char c
+INSERT Char 5
+REMOVE Backspace
+MOVE End
+INSERT Char 7
+REMOVE Backspace
+INSERT Space
+INSERT Char m
+REMOVE Backspace
+REMOVE Backspace
+REMOVE Backspace
+REMOVE Del
+INSERT Char O
+REMOVE Backspace
+REMOVE Del
+MOVE Home
+INSERT Char s
+MOVE Home
+REMOVE Del
+REMOVE Del
+INSERT Char 7
+INSERT Char 5
+MOVE Left
+INSERT Char k
+REMOVE Backspace
+MOVE Right
+REMOVE Del
+MOVE End
+INSERT Char 5
+INSERT Char O
+REMOVE Backspace
+MOVE Right
+REMOVE Backspace
+PRINT
+REMOVE Del
+MOVE Home
+INSERT Char 7
+INSERT Space
+INSERT Char O
+REMOVE Backspace
+REMOVE Del
+PRINT
+INSERT Char k
+REMOVE Del
+INSERT Space
+MOVE Right
+REMOVE Del
+INSERT Char s
+INSERT Char s
+INSERT Space
+MOVE Left
+REMOVE Del
+INSERT Space
+INSERT Char O
+REMOVE Backspace
+INSERT Char k
+INSERT Char %
+MOVE Left
+INSERT Char %
+REMOVE Backspace
+INSERT Char %
+REMOVE Del
+INSERT Char c
+INSERT Char 7
+INSERT Char O
+INSERT Char O
+REMOVE Del
+MOVE Left
+INSERT Char O
+INSERT Char %
+INSERT Char 7
+INSERT Char c
+REMOVE Backspace
+INSERT Char 7
+INSERT Char m
+INSERT Space
+REMOVE Del
+REMOVE Del
+INSERT Char c
+MOVE End
+REMOVE Backspace
+INSERT Char %
+INSERT Char %
+INSERT Char s
+MOVE Right
+INSERT Char k
+REMOVE Del
+INSERT Char 7
+REMOVE Del
+PRINT
+REMOVE Backspace
+REMOVE Backspace
+INSERT Char m
+INSERT Char %
+REMOVE Backspace
+REMOVE Del
+INSERT Char O
+INSERT Char m
+INSERT Space
+REMOVE Backspace
+REMOVE Backspace
+INSERT Char s
+REMOVE Del
+INSERT Char k
+PRINT
+PRINT
+MOVE Home
+INSERT Char O
+REMOVE Del
+INSERT Char O
+INSERT Char c
+MOVE Home
+INSERT Char %
+INSERT Char O
+INSERT Char O
+MOVE Left
+PRINT
+MOVE End
+INSERT Char k
+INSERT Char 5
+MOVE Home
+MOVE End
+REMOVE Backspace
+REMOVE Backspace
+INSERT Char 5
+INSERT Char c
+INSERT Char 5
+MOVE Right
+INSERT Char 7
+INSERT Space
+INSERT Char O
+REMOVE Backspace
+INSERT Char c
+REMOVE Del
+INSERT Char O
+MOVE Right
+INSERT Char s
+REMOVE Backspace
+REMOVE Del
+REMOVE Del
+INSERT Char O
+REMOVE Backspace
+INSERT Char O
+MOVE Left
+REMOVE Del
+MOVE Left
+INSERT Char m
+REMOVE Backspace
+PRINT
+MOVE End
+REMOVE Del
+INSERT Char k
+PRINT
+INSERT Char O
+REMOVE Backspace
+MOVE End
+MOVE Right
+MOVE Home
+REMOVE Backspace
+INSERT Char m
+REMOVE Del
+PRINT
+MOVE Right
+REMOVE Backspace
+MOVE Left
+INSERT Char %
+INSERT Char k
+REMOVE Backspace
+INSERT Char 7
+MOVE Home
+INSERT Space
+REMOVE Backspace
+INSERT Char 7
+REMOVE Backspace
+INSERT Char %
+INSERT Char s
+INSERT Space
+REMOVE Backspace
+INSERT Space
+MOVE Right
+REMOVE Del
+MOVE Left
+INSERT Char k
+INSERT Char s
+MOVE End
+REMOVE Backspace
+INSERT Char c
+INSERT Char c
+PRINT
+MOVE Right
+MOVE Home
+INSERT Char m
+INSERT Space
+INSERT Char m
+REMOVE Del
+PRINT
+MOVE End
+INSERT Char %
+REMOVE Del
+MOVE End
+INSERT Char c
+PRINT
+INSERT Char k
+INSERT Char 5
+MOVE Home
+MOVE Home
+INSERT Char 7
+MOVE Home
+REMOVE Backspace
+INSERT Char s
+MOVE End
+MOVE Home
+REMOVE Backspace
+INSERT Char m
+MOVE Home
+REMOVE Del
+REMOVE Del
+INSERT Char 5
+INSERT Char s
+INSERT Char k
+INSERT Space
+INSERT Char s
+MOVE Home
+INSERT Char 5
+REMOVE Del
+INSERT Char %
+MOVE Home
+INSERT Char O
+INSERT Char 5
+REMOVE Del
+INSERT Char 5
+INSERT Char c
+REMOVE Backspace
+MOVE Home
+MOVE Left
+INSERT Char c
+REMOVE Backspace
+PRINT
+INSERT Char s
+REMOVE Del
+PRINT
+INSERT Char %
+REMOVE Del
+INSERT Char s
+MOVE Left
+REMOVE Backspace
+INSERT Char %
+INSERT Char 5
+INSERT Char k
+REMOVE Del
+INSERT Char m
+INSERT Char 5
+REMOVE Backspace
+PRINT
+INSERT Char %
+INSERT Space
+INSERT Char k
+MOVE Home
+REMOVE Del
+INSERT Char s
+INSERT Char k
+MOVE Home
+PRINT
+INSERT Char 7
+MOVE Right
+MOVE Home
+INSERT Char m
+INSERT Char %
+MOVE End
+INSERT Char %
+REMOVE Backspace
+INSERT Space
+PRINT
+INSERT Char %
+INSERT Space
+MOVE Right
+REMOVE Backspace
+MOVE Right
+INSERT Char k
+INSERT Char %
+INSERT Char s
+INSERT Char 5
+INSERT Char c
+REMOVE Del
+PRINT
+MOVE Right
+INSERT Char 5
+PRINT
+INSERT Space
+REMOVE Backspace
+INSERT Char O
+INSERT Char k
+REMOVE Backspace
+MOVE Home
+MOVE Home
+INSERT Char m
+INSERT Char k
+REMOVE Backspace
+REMOVE Backspace
+MOVE End
+PRINT
+INSERT Char k
+PRINT
+INSERT Char c
+INSERT Char 5
+INSERT Char s
+INSERT Char %
+INSERT Char k
+MOVE Right
+INSERT Char 7
+INSERT Char %
+PRINT
+REMOVE Del
+MOVE Left
+PRINT
+REMOVE Backspace
+MOVE End
+MOVE Left
+INSERT Char m
+MOVE Home
+PRINT
+INSERT Char s
+PRINT
+MOVE End
+REMOVE Backspace
+INSERT Char k
+REMOVE Del
+REMOVE Backspace
+PRINT
+INSERT Char 7
+INSERT Char O
+REMOVE Backspace
+REMOVE Backspace
+REMOVE Backspace
+MOVE Left
+MOVE End
+INSERT Char s
+INSERT Char s
+INSERT Char m
+INSERT Char m
+PRINT
+MOVE Home
+INSERT Char 7
+INSERT Char O
+MOVE Left
+INSERT Char 5
+PRINT
+MOVE Right
+MOVE Home
+MOVE End
+MOVE End
+MOVE Left
+REMOVE Backspace
+INSERT Char 5
+INSERT Char %
+MOVE End
+INSERT Char 5
+INSERT Space
+MOVE Home
+INSERT Char s
+MOVE End
+INSERT Space
+INSERT Char O
+PRINT
+INSERT Char O
+MOVE End
+INSERT Char c
+REMOVE Backspace
+INSERT Char k
+MOVE Right
+PRINT
+MOVE Home
+MOVE Left
+INSERT Char 7
+REMOVE Backspace
+MOVE Left
+REMOVE Backspace
+INSERT Char O
+MOVE Left
+INSERT Char k
+PRINT
+PRINT
+INSERT Char c
+INSERT Char c
+INSERT Char c
+MOVE End
+MOVE Left
+REMOVE Backspace
+MOVE Left
+INSERT Char m
+REMOVE Backspace
+MOVE Home
+INSERT Char c
+INSERT Char %
+REMOVE Del
+MOVE Left
+INSERT Space
+INSERT Space
+INSERT Char 5
+REMOVE Del
+REMOVE Backspace
+REMOVE Backspace
+INSERT Char k
+REMOVE Backspace
+REMOVE Backspace
+INSERT Char k
+INSERT Char m
+REMOVE Del
+REMOVE Del
+INSERT Char k
+INSERT Char 5
+INSERT Char 7
+PRINT
+INSERT Char 7
+MOVE Right
+INSERT Space
+INSERT Char %
+REMOVE Backspace
+INSERT Char 5
+MOVE Right
+INSERT Char O
+REMOVE Backspace
+INSERT Char s
+INSERT Char c
+MOVE Left
+MOVE Home
+INSERT Char c
+INSERT Char 5
+PRINT
+PRINT
+INSERT Char O
+PRINT
+INSERT Char m
+INSERT Char c
+PRINT
+INSERT Char s
+MOVE Right
+INSERT Char c
+MOVE End
+PRINT
+INSERT Char O
+INSERT Char 7
+INSERT Char m
+INSERT Char s
+REMOVE Backspace
+INSERT Char c
+REMOVE Backspace
+MOVE Left
+INSERT Char c
+INSERT Char c
+INSERT Char c
+INSERT Space
+MOVE Right
+MOVE Home
+INSERT Char 5
+MOVE Home
+REMOVE Backspace
+INSERT Char 7
+MOVE Right
+MOVE Right
+INSERT Char O
+MOVE Left
+INSERT Char 7
+REMOVE Backspace
+INSERT Char k
+REMOVE Del
+INSERT Char 7
+INSERT Space
+INSERT Char 7
+PRINT
+PRINT
+INSERT Char %
+REMOVE Backspace
+INSERT Char k
+MOVE End
+MOVE Right
+INSERT Char 5
+INSERT Char 7
+INSERT Char %
+PRINT
+REMOVE Backspace
+INSERT Space
+INSERT Char 5
+INSERT Char m
+MOVE End
+REMOVE Backspace
+INSERT Char 5
+MOVE Right
+INSERT Char %
+INSERT Char O
+INSERT Char m
+INSERT Char 7
+REMOVE Backspace
+INSERT Space
+INSERT Char m
+REMOVE Backspace
+INSERT Char k
+REMOVE Backspace
+REMOVE Del
+INSERT Char k
+REMOVE Del
+MOVE Left
+REMOVE Del
+PRINT
+PRINT
+MOVE Home
+REMOVE Del
+INSERT Char k
+INSERT Char c
+INSERT Char s
+INSERT Char 7
+INSERT Char 7
+REMOVE Backspace
+PRINT
+REMOVE Del
+PRINT
+REMOVE Del
+PRINT
+INSERT Char %
+MOVE Right
+REMOVE Del
+INSERT Char c
+MOVE End
+INSERT Char s
+REMOVE Del
+INSERT Char 5
+INSERT Char c
+MOVE Right
+REMOVE Backspace
+INSERT Char m
+INSERT Char c
+INSERT Char c
+INSERT Char 5
+INSERT Char s
+REMOVE Backspace
+REMOVE Backspace
+REMOVE Backspace
+INSERT Char c
+REMOVE Del
+INSERT Char O
+INSERT Char 5
+REMOVE Del
+MOVE Right
+MOVE Right
+PRINT
+INSERT Char k
+INSERT Char 5
+INSERT Char O
+PRINT
+MOVE Left
+REMOVE Del
+REMOVE Del
+MOVE Right
+PRINT
+REMOVE Backspace
+PRINT
+PRINT
+REMOVE Backspace
+INSERT Char c
+MOVE End
+INSERT Space
+INSERT Char %
+REMOVE Del
+REMOVE Backspace
+REMOVE Backspace
+MOVE Home
+MOVE Left
+INSERT Char 7
+PRINT
+REMOVE Backspace
+MOVE Left
+INSERT Space
+INSERT Char s
+REMOVE Del
+MOVE End
+INSERT Char k
+PRINT
+REMOVE Backspace
+INSERT Space
+MOVE Right
+PRINT
+MOVE Right
+PRINT
+REMOVE Backspace
+INSERT Space
+INSERT Space
+INSERT Char k
+INSERT Char s
+MOVE Left
+PRINT
+MOVE Right
+PRINT
+REMOVE Del
+INSERT Char %
+INSERT Char k
+REMOVE Backspace
+MOVE End
+PRINT
+INSERT Char m
+INSERT Space
+MOVE Home
+PRINT
+INSERT Char k
+PRINT
+PRINT
+REMOVE Del
+REMOVE Del
+INSERT Char m
+INSERT Char 5
+INSERT Char s
+MOVE Home
+INSERT Char 7
+REMOVE Del
+REMOVE Backspace
+MOVE Home
+REMOVE Backspace
+INSERT Char %
+REMOVE Del
+INSERT Char 7
+REMOVE Del
+REMOVE Backspace
+REMOVE Del
+PRINT
+REMOVE Backspace
+MOVE Home
+REMOVE Backspace
+PRINT
+INSERT Char s
+INSERT Char %
+INSERT Char 5
+INSERT Char m
+MOVE Right
+INSERT Char %
+REMOVE Backspace
+MOVE Home
+REMOVE Backspace
+REMOVE Del
+REMOVE Del
+MOVE Right
+MOVE Home
+REMOVE Backspace
+INSERT Char m
+INSERT Char s
+INSERT Char O
+MOVE Right
+INSERT Char c
+INSERT Char O
+MOVE Home
+REMOVE Backspace
+INSERT Char O
+MOVE Right
+MOVE End
+REMOVE Backspace
+INSERT Char k
+INSERT Char s
+INSERT Char s
+INSERT Char %
+PRINT
+INSERT Char 5
+INSERT Char c
+INSERT Char O
+INSERT Char c
+REMOVE Backspace
+INSERT Char m
+INSERT Char O
+PRINT
+INSERT Char %
+INSERT Char %
+PRINT
+MOVE Home
+INSERT Char m
+INSERT Char m
+INSERT Char 7
+REMOVE Backspace
+INSERT Char O
+MOVE Right
+MOVE Left
+INSERT Space
+INSERT Char m
+INSERT Char %
+PRINT
+INSERT Space
+MOVE Home
+INSERT Char s
+MOVE End
+MOVE End
+PRINT
+MOVE Right
+INSERT Char O
+INSERT Space
+MOVE End
+INSERT Char k
+INSERT Char m
+INSERT Char 5
+MOVE Left
+MOVE End
+REMOVE Backspace
+MOVE Right
+INSERT Char s
+INSERT Char %
+REMOVE Backspace
+INSERT Char c
+INSERT Space
+MOVE Left
+MOVE Right
+INSERT Space
+INSERT Space
+MOVE Right
+MOVE Right
+INSERT Char O
+INSERT Char s
+REMOVE Backspace
+INSERT Char k
+INSERT Space
+REMOVE Backspace
+INSERT Char k
+INSERT Char m
+INSERT Char c
+MOVE End
+REMOVE Del
+MOVE Right
+REMOVE Del
+INSERT Char s
+INSERT Char %
+REMOVE Backspace
+PRINT
+INSERT Char %
+REMOVE Backspace
+REMOVE Del
+MOVE Home
+PRINT
+INSERT Char c
+MOVE Home
+INSERT Char %
+MOVE Left
+INSERT Char s
+INSERT Char c
+REMOVE Del
+INSERT Char s
+MOVE Home
+MOVE Right
+INSERT Char m
+PRINT
+INSERT Char c
+PRINT
+REMOVE Del
+REMOVE Backspace
+MOVE End
+REMOVE Del
+PRINT
+INSERT Char c
+MOVE Home
+INSERT Char m
+REMOVE Backspace
+REMOVE Backspace
+REMOVE Backspace
+PRINT
+INSERT Char 5
+REMOVE Backspace
+PRINT
+REMOVE Backspace
+MOVE End
+INSERT Char 5
+PRINT
+REMOVE Del
+INSERT Char c
+REMOVE Backspace
+INSERT Char 5
+REMOVE Del
+MOVE Home
+PRINT
+INSERT Char k
+REMOVE Backspace
+INSERT Char c
+MOVE Home
+INSERT Char s
+REMOVE Backspace
+MOVE Right
+INSERT Char m
+REMOVE Del
+MOVE Right
+MOVE Right
+INSERT Char %
+INSERT Char %
+INSERT Char c
+PRINT
+REMOVE Del
+REMOVE Del
+MOVE Home
+REMOVE Del
+INSERT Char 7
+INSERT Char O
+PRINT
+INSERT Char c
+PRINT
+MOVE Left
+MOVE End
+INSERT Char k
+REMOVE Del
+MOVE End
+MOVE End
+MOVE End
+REMOVE Backspace
+PRINT
+REMOVE Del
+INSERT Char m
+REMOVE Backspace
+REMOVE Backspace
+MOVE Home
+MOVE End
+INSERT Char s
+INSERT Char 5
+PRINT
+PRINT
+INSERT Space
+REMOVE Del
+REMOVE Del
+MOVE End
+INSERT Char s
+REMOVE Backspace
+REMOVE Del
+INSERT Space
+PRINT
+PRINT
+REMOVE Del
+INSERT Space
+MOVE Right
+INSERT Char c
+MOVE End
+INSERT Char c
+INSERT Space
+INSERT Char O
+INSERT Char c
+MOVE Left
+REMOVE Backspace
+REMOVE Backspace
+REMOVE Del
+PRINT
+REMOVE Del
+INSERT Char 5
+MOVE Left
+INSERT Space
+REMOVE Backspace
+MOVE Home
+INSERT Char m
+INSERT Char k
+MOVE End
+MOVE End
+INSERT Char m
+MOVE Home
+INSERT Char 5
+REMOVE Backspace
+MOVE End
+PRINT
+INSERT Char s
+INSERT Char k
+INSERT Char c
+MOVE Home
+INSERT Char m
+MOVE Left
+INSERT Space
+INSERT Char 7
+PRINT
+REMOVE Backspace
+REMOVE Backspace
+MOVE Left
+INSERT Char s
+REMOVE Del
+PRINT
+INSERT Char m
+INSERT Space
+REMOVE Backspace
+INSERT Space
+PRINT
+INSERT Char 7
+INSERT Char k
+INSERT Char 7
+MOVE Left
+INSERT Char O
+INSERT Char k
+REMOVE Backspace
+INSERT Char k
+INSERT Char s
+REMOVE Del
+MOVE Home
+REMOVE Backspace
+MOVE Left
+INSERT Space
+MOVE End
+INSERT Char O
+MOVE Home
+MOVE Home
+REMOVE Del
+INSERT Char c
+PRINT
+INSERT Char 7
+INSERT Char %
+REMOVE Del
+PRINT
+INSERT Char k
+INSERT Char k
+MOVE End
+MOVE Left
+INSERT Char m
+MOVE End
+REMOVE Backspace
+REMOVE Backspace
+INSERT Char O
+INSERT Char k
+REMOVE Del
+INSERT Char c
+MOVE Home
+INSERT Char O
+INSERT Char O
+MOVE Right
+INSERT Char 5
+INSERT Char s
+REMOVE Del
+REMOVE Backspace
+INSERT Char s
+REMOVE Backspace
+MOVE Home
+INSERT Char 7
+REMOVE Del
+INSERT Char c
+INSERT Char O
+PRINT
+PRINT
+PRINT
+INSERT Char 5
+INSERT Char O
+INSERT Char m
+INSERT Char 7
+INSERT Char s
+MOVE Home
+PRINT
+MOVE Home
+PRINT
+REMOVE Backspace
+INSERT Char 7
+PRINT
+REMOVE Backspace
+INSERT Char k
+PRINT
+INSERT Char 7
+INSERT Char 7
+REMOVE Backspace
+INSERT Char O
+REMOVE Del
+INSERT Char 7
+REMOVE Del
+REMOVE Del
+PRINT
+INSERT Char s
+INSERT Char k
+INSERT Char 7
+MOVE Left
+MOVE Right
+REMOVE Del
+PRINT
+INSERT Char O
+INSERT Char c
+INSERT Char c
+PRINT
+MOVE Left
+INSERT Char m
+MOVE End
+INSERT Char %
+INSERT Char m
+PRINT
+INSERT Char m
+INSERT Char s
+MOVE End
+MOVE End
+INSERT Char m
+INSERT Char s
+INSERT Char O
+MOVE Right
+INSERT Char k
+REMOVE Backspace
+INSERT Space
+PRINT
+REMOVE Backspace
+REMOVE Del
+MOVE Right
+INSERT Char m
+INSERT Char s
+PRINT
+MOVE Left
+MOVE Home
+PRINT
+INSERT Char m
+REMOVE Del
+PRINT
+INSERT Char m
+MOVE Home
+REMOVE Del
+INSERT Char m
+MOVE Home
+MOVE Home
+REMOVE Del
+INSERT Char s
+INSERT Char 5
+INSERT Char k
+MOVE End
+INSERT Char 7
+PRINT
+PRINT
+INSERT Char 7
+REMOVE Del
+MOVE End
+MOVE Home
+REMOVE Del
+MOVE Right
+INSERT Char k
+MOVE Left
+INSERT Char 7
+INSERT Char c
+INSERT Char %
+PRINT
+REMOVE Del
+MOVE Left
+MOVE End
+MOVE Right
+INSERT Char 7
+REMOVE Backspace
+INSERT Char %
+INSERT Char c
+REMOVE Del
+INSERT Space
+INSERT Char %
+INSERT Char m
+INSERT Char %
+INSERT Space
+INSERT Char 5
+INSERT Char m
+INSERT Char O
+INSERT Char %
+PRINT
+PRINT
+INSERT Char m
+INSERT Char %
+MOVE Right
+INSERT Char 5
+PRINT
+REMOVE Del
+INSERT Char m
+INSERT Char c
+INSERT Char %
+REMOVE Backspace
+REMOVE Backspace
+REMOVE Backspace
+MOVE End
+PRINT
+REMOVE Backspace
+INSERT Char %
+MOVE Left
+MOVE Left
+INSERT Char m
+INSERT Char c
+MOVE Right
+REMOVE Del
+REMOVE Backspace
+PRINT
+INSERT Space
+INSERT Char c
+INSERT Space
+INSERT Char c
+MOVE Home
+INSERT Char m
+INSERT Char s
+INSERT Char m
+MOVE Left
+INSERT Char k
+MOVE End
+MOVE Left
+INSERT Char 7
+INSERT Char k
+INSERT Char O
+REMOVE Backspace
+MOVE Right
+MOVE Right
+INSERT Char m
+INSERT Char s
+REMOVE Del
+INSERT Char 7
+INSERT Char k
+REMOVE Del
+INSERT Char m
+MOVE Right
+REMOVE Backspace
+MOVE Right
+MOVE Right
+MOVE Right
+REMOVE Del
+INSERT Space
+INSERT Char 7
+MOVE End
+REMOVE Backspace
+REMOVE Del
+PRINT
+MOVE End
+REMOVE Del
+REMOVE Backspace
+MOVE Left
+REMOVE Del
+MOVE End
+REMOVE Del
+MOVE End
+INSERT Char %
+INSERT Char c
+INSERT Char 7
+INSERT Char k
+INSERT Char %
+INSERT Char m
+MOVE Home
+INSERT Char m
+INSERT Char k
+INSERT Space
+INSERT Char c
+INSERT Char s
+INSERT Char s
+MOVE Right
+MOVE Left
+INSERT Char m
+PRINT
+INSERT Char k
+INSERT Char O
+REMOVE Del
+MOVE Home
+REMOVE Backspace
+INSERT Char 7
+MOVE Right
+INSERT Char %
+INSERT Char c
+MOVE Home
+INSERT Space
+MOVE Left
+INSERT Char c
+PRINT
+REMOVE Del
+INSERT Char O
+REMOVE Backspace
+MOVE Left
+REMOVE Backspace
+REMOVE Backspace
+REMOVE Del
+PRINT
+INSERT Char k
+MOVE Left
+INSERT Char 7
+INSERT Space
+REMOVE Del
+MOVE Left
+REMOVE Backspace
+REMOVE Backspace
+MOVE End
+INSERT Char s
+MOVE Left
+REMOVE Del
+REMOVE Del
+MOVE Home
+INSERT Char %
+INSERT Char c
+INSERT Char 5
+INSERT Char 7
+REMOVE Backspace
+MOVE End
+INSERT Char O
+INSERT Char %
+REMOVE Backspace
+INSERT Char k
+INSERT Char s
+INSERT Char s
+INSERT Char %
+MOVE End
+INSERT Char m
+PRINT
+MOVE Right
+INSERT Char k
+REMOVE Backspace
+REMOVE Del
+MOVE Left
+REMOVE Del
+INSERT Char O
+MOVE Home
+REMOVE Del
+INSERT Char O
+INSERT Char O
+MOVE Right
+MOVE Right
+REMOVE Del
+REMOVE Backspace
+INSERT Char 5
+INSERT Char %
+MOVE End
+MOVE Right
+INSERT Char 5
+INSERT Space
+MOVE Right
+INSERT Char O
+INSERT Char s
+REMOVE Del
+INSERT Space
+PRINT
+REMOVE Del
+INSERT Char c
+PRINT
+REMOVE Backspace
+MOVE Left
+INSERT Char O
+INSERT Char 7
+INSERT Char s
+INSERT Char s
+INSERT Char m
+MOVE Home
+INSERT Char 7
+INSERT Char m
+MOVE End
+REMOVE Backspace
+INSERT Char m
+INSERT Char %
+INSERT Char m
+MOVE Home
+INSERT Char c
+INSERT Char m
+INSERT Char k
+PRINT
+INSERT Char s
+INSERT Char 5
+INSERT Char 5
+PRINT
+INSERT Char m
+INSERT Space
+REMOVE Backspace
+MOVE Home
+PRINT
+INSERT Char s
+PRINT
+MOVE End
+REMOVE Backspace
+PRINT
+MOVE Left
+INSERT Char 5
+INSERT Space
+REMOVE Backspace
+REMOVE Backspace
+REMOVE Del
+REMOVE Backspace
+REMOVE Backspace
+MOVE Left
+MOVE End
+REMOVE Del
+REMOVE Backspace
+INSERT Char 5
+INSERT Char O
+INSERT Char 7
+MOVE Right
+INSERT Char 7
+MOVE Home
+INSERT Char O
+REMOVE Backspace
+INSERT Char m
+INSERT Char O
+INSERT Char 7
+INSERT Char s
+MOVE Right
+INSERT Char O
+INSERT Char O
+REMOVE Del
+INSERT Char m
+INSERT Char 5
+INSERT Char s
+MOVE End
+MOVE Right
+REMOVE Backspace
+MOVE Home
+MOVE Home
+MOVE Right
+INSERT Char O
+INSERT Char c
+REMOVE Del
+INSERT Space
+MOVE End
+INSERT Char 5
+REMOVE Backspace
+INSERT Char k
+INSERT Char 7
+MOVE Left
+INSERT Char 5
+INSERT Char O
+INSERT Char O
+INSERT Char m
+REMOVE Backspace
+INSERT Space
+INSERT Char m
+INSERT Char O
+REMOVE Del
+REMOVE Backspace
+MOVE Home
+INSERT Char O
+REMOVE Del
+MOVE End
+PRINT
+MOVE Right
+PRINT
+REMOVE Backspace
+INSERT Space
+INSERT Char c
+MOVE Left
+MOVE Right
+REMOVE Del
+INSERT Char 7
+MOVE Left
+REMOVE Del
+INSERT Char 5
+REMOVE Del
+INSERT Char 7
+REMOVE Backspace
+INSERT Space
+REMOVE Del
+REMOVE Del
+REMOVE Backspace
+INSERT Char %
+INSERT Space
+MOVE End
+INSERT Char %
+INSERT Char O
+MOVE End
+MOVE Home
+PRINT
+MOVE Home
+MOVE End
+MOVE Home
+MOVE Home
+INSERT Char %
+INSERT Char %
+INSERT Char 7
+MOVE End
+PRINT
+MOVE Right
+REMOVE Backspace
+INSERT Char %
+INSERT Char 7
+INSERT Char 5
+INSERT Char c
+INSERT Space
+INSERT Char 5
+INSERT Char O
+REMOVE Backspace
+MOVE End
+INSERT Char O
+REMOVE Del
+INSERT Char 7
+MOVE Home
+INSERT Char %
+INSERT Char 5
+REMOVE Backspace
+INSERT Char m
+REMOVE Backspace
+MOVE Left
+INSERT Space
+MOVE Home
+REMOVE Del
+INSERT Char k
+INSERT Char 5
+REMOVE Del
+INSERT Char %
+INSERT Char k
+INSERT Char 5
+INSERT Char s
+INSERT Char s
+INSERT Char s
+PRINT
+PRINT
+MOVE End
+REMOVE Backspace
+MOVE Left
+MOVE End
+INSERT Space
+INSERT Char m
+INSERT Char c
+INSERT Char c
+MOVE Right
+MOVE End
+REMOVE Del
+REMOVE Del
+INSERT Char 7
+REMOVE Backspace
+PRINT
+MOVE Home
+MOVE Right
+INSERT Char 7
+REMOVE Del
+INSERT Char s
+REMOVE Del
+REMOVE Del
+PRINT
+MOVE Right
+PRINT
+REMOVE Del
+MOVE Left
+REMOVE Backspace
+INSERT Char %
+PRINT
+REMOVE Del
+INSERT Char s
+INSERT Char s
+MOVE Home
+INSERT Char k
+REMOVE Del
+INSERT Char %
+MOVE Home
+MOVE Home
+PRINT
+PRINT
+INSERT Char 7
+INSERT Char O
+REMOVE Del
+INSERT Char O
+MOVE Home
+INSERT Char c
+INSERT Char %
+INSERT Char %
+REMOVE Del
+PRINT
+INSERT Space
+INSERT Char O
+MOVE Right
+INSERT Char 5
+MOVE Right
+REMOVE Backspace
+MOVE End
+INSERT Char c
+PRINT
+MOVE Right
+INSERT Char c
+MOVE Right
+MOVE Home
+PRINT
+PRINT
+REMOVE Backspace
+INSERT Char %
+INSERT Char c
+REMOVE Backspace
+REMOVE Backspace
+MOVE Left
+PRINT
+REMOVE Del
+INSERT Char %
+PRINT
+INSERT Space
+MOVE Right
+INSERT Char s
+MOVE Home
+MOVE End
+INSERT Char 5
+REMOVE Backspace
+PRINT
+MOVE Right
+REMOVE Del
+PRINT
+INSERT Char 5
+REMOVE Backspace
+INSERT Char k
+MOVE End
+INSERT Char 5
+MOVE Left
+MOVE Left
+REMOVE Backspace
+INSERT Char s
+INSERT Char 5
+REMOVE Del
+MOVE End
+REMOVE Del
+REMOVE Del
+REMOVE Del
+REMOVE Backspace
+INSERT Char 7
+MOVE Right
+MOVE Right
+INSERT Char k
+INSERT Char k
+MOVE Home
+REMOVE Del
+INSERT Char m
+INSERT Char 5
+REMOVE Backspace
+MOVE Left
+REMOVE Backspace
+INSERT Char %
+PRINT
+PRINT
+MOVE Home
+REMOVE Backspace
+MOVE End
+INSERT Char s
+MOVE End
+MOVE Right
+REMOVE Del
+REMOVE Backspace
+INSERT Char O
+REMOVE Del
+MOVE Home
+INSERT Char %
+INSERT Char O
+MOVE Left
+INSERT Char c
+INSERT Space
+PRINT
+REMOVE Backspace
+INSERT Char s
+PRINT
+INSERT Char 5
+INSERT Char s
+MOVE Left
+REMOVE Del
+MOVE Home
+INSERT Space
+MOVE End
+MOVE End
+MOVE Home
+MOVE Right
+PRINT
+MOVE Home
+INSERT Char k
+REMOVE Backspace
+MOVE Left
+INSERT Char 5
+INSERT Char k
+INSERT Char s
+INSERT Char k
+INSERT Char c
+REMOVE Backspace
+PRINT
+PRINT
+INSERT Char c
+INSERT Char O
+INSERT Char k
+INSERT Space
+INSERT Char c
+INSERT Char 5
+REMOVE Backspace
+INSERT Char O
+REMOVE Del
+PRINT
+INSERT Char k
+REMOVE Del
+PRINT
+INSERT Char 5
+INSERT Char s
+MOVE End
+INSERT Char k
+MOVE Home
+INSERT Char 7
+INSERT Char %
+INSERT Space
+REMOVE Del
+PRINT
+INSERT Char m
+REMOVE Del
+REMOVE Backspace
+REMOVE Del
+MOVE End
+INSERT Char c
+INSERT Char k
+INSERT Char O
+INSERT Char 5
+INSERT Char %
+REMOVE Del
+INSERT Char m
+INSERT Char O
+INSERT Space
+REMOVE Del
+MOVE Left
+INSERT Char s
+REMOVE Backspace
+REMOVE Backspace
+REMOVE Del
+INSERT Char 7
+INSERT Space
+INSERT Space
+REMOVE Del
+REMOVE Backspace
+MOVE Home
+INSERT Char m
+PRINT
+REMOVE Backspace
+INSERT Space
+REMOVE Backspace
+PRINT
+INSERT Char c
+REMOVE Del
+PRINT
+REMOVE Backspace
+MOVE Right
+INSERT Char k
+REMOVE Del
+REMOVE Del
+INSERT Char m
+PRINT
+PRINT
+PRINT
+INSERT Char 7
+INSERT Char c
+INSERT Char 5
+INSERT Char k
+REMOVE Del
+MOVE Left
+INSERT Char 5
+MOVE Home
+MOVE Left
+PRINT
+INSERT Char m
+REMOVE Del
+PRINT
+MOVE Home
+REMOVE Backspace
+INSERT Char O
+INSERT Char 5
+MOVE Home
+MOVE Left
+PRINT
+INSERT Char c
+INSERT Char c
+INSERT Char O
+PRINT
+REMOVE Del
+INSERT Char c
+REMOVE Del
+PRINT
+REMOVE Backspace
+REMOVE Backspace
+INSERT Char O
+INSERT Space
+MOVE Left
+INSERT Char k
+REMOVE Backspace
+INSERT Char O
+REMOVE Backspace
+MOVE Left
+INSERT Char 7
+PRINT
+INSERT Char m
+MOVE Home
+MOVE Left
+INSERT Char %
+MOVE Home
+INSERT Char 5
+MOVE Right
+MOVE Home
+MOVE End
+INSERT Char %
+REMOVE Backspace
+REMOVE Backspace
+INSERT Char s
+MOVE Left
+INSERT Char 7
+INSERT Char 7
+INSERT Char k
+INSERT Char 7
+INSERT Char k
+MOVE Home
+INSERT Char %
+INSERT Char O
+INSERT Char s
+INSERT Space
+INSERT Char s
+INSERT Char 7
+INSERT Char m
+PRINT
+INSERT Char c
+INSERT Space
+INSERT Char m
+INSERT Char m
+INSERT Char O
+INSERT Char 7
+MOVE End
+REMOVE Del
+MOVE End
+REMOVE Backspace
+INSERT Space
+REMOVE Del
+PRINT
+MOVE Right
+INSERT Char 5
+INSERT Char 7
+PRINT
+PRINT
+REMOVE Del
+PRINT
+INSERT Char 5
+INSERT Char m
+INSERT Char O
+REMOVE Del
+INSERT Char 7
+REMOVE Backspace
+INSERT Char s
+INSERT Char s
+INSERT Char O
+PRINT
+INSERT Char c
+MOVE Left
+INSERT Char O
+PRINT
+INSERT Char m
+MOVE End
+INSERT Space
+INSERT Char k
+REMOVE Backspace
+MOVE Left
+REMOVE Del
+REMOVE Del
+INSERT Char %
+REMOVE Del
+INSERT Char m
+INSERT Char %
+PRINT
+INSERT Char 5
+REMOVE Del
+INSERT Char %
+MOVE Right
+INSERT Char c
+INSERT Char 5
+INSERT Char %
+PRINT
+INSERT Char k
+INSERT Char 7
+PRINT
+MOVE Home
+INSERT Char %
+MOVE End
+MOVE Left
+INSERT Char k
+REMOVE Backspace
+INSERT Char %
+INSERT Char s
+MOVE Home
+REMOVE Del
+MOVE End
+REMOVE Del
+INSERT Char s
+REMOVE Backspace
+MOVE End
+REMOVE Del
+MOVE Home
+REMOVE Del
+INSERT Char %
+REMOVE Backspace
+REMOVE Backspace
+INSERT Char 7
+MOVE Right
+INSERT Char m
+REMOVE Del
+INSERT Char k
+REMOVE Backspace
+MOVE Left
+PRINT
+INSERT Char c
+REMOVE Del
+INSERT Space
+REMOVE Backspace
+INSERT Char O
+MOVE Left
+INSERT Char 7
+MOVE Home
+REMOVE Backspace
+INSERT Char s
+INSERT Char 7
+MOVE End
+REMOVE Backspace
+INSERT Char m
+INSERT Char 5
+MOVE Left
+REMOVE Backspace
+INSERT Char s
+PRINT
+INSERT Char 7
+INSERT Char 7
+REMOVE Backspace
+INSERT Char O
+INSERT Char 7
+REMOVE Del
+REMOVE Del
+MOVE Home
+INSERT Space
+PRINT
+REMOVE Del
+INSERT Char 5
+MOVE Right
+INSERT Char 5
+MOVE Right
+REMOVE Backspace
+PRINT
+INSERT Char k
+INSERT Char 7
+INSERT Char 7
+INSERT Char m
+REMOVE Del
+INSERT Char c
+MOVE Home
+MOVE Home
+PRINT
+INSERT Char 5
+REMOVE Del
+MOVE Home
+INSERT Char c
+INSERT Char c
+REMOVE Del
+INSERT Char s
+MOVE Right
+REMOVE Del
+REMOVE Backspace
+INSERT Space
+INSERT Char 5
+MOVE Home
+REMOVE Del
+MOVE Left
+REMOVE Del
+MOVE Home
+INSERT Char k
+MOVE End
+INSERT Space
+INSERT Char s
+REMOVE Backspace
+PRINT
+MOVE Home
+PRINT
+MOVE Right
+REMOVE Backspace
+MOVE Left
+INSERT Char 5
+INSERT Char 7
+REMOVE Del
+MOVE Left
+REMOVE Del
+MOVE End
+INSERT Char O
+INSERT Char c
+PRINT
+REMOVE Backspace
+MOVE Home
+PRINT
+MOVE Home
+REMOVE Backspace
+REMOVE Del
+REMOVE Backspace
+INSERT Char k
+MOVE Home
+INSERT Char O
+INSERT Char c
+MOVE Home
+INSERT Char s
+INSERT Char c
+INSERT Char %
+REMOVE Backspace
+MOVE Right
+PRINT
+MOVE End
+MOVE End
+REMOVE Del
+INSERT Char O
+INSERT Char 7
+INSERT Space
+MOVE Right
+MOVE Left
+REMOVE Del
+MOVE Home
+REMOVE Backspace
+REMOVE Backspace
+REMOVE Backspace
+REMOVE Backspace
+REMOVE Del
+PRINT
+INSERT Char c
+INSERT Char k
+PRINT
+MOVE End
+PRINT
+PRINT
+REMOVE Del
+INSERT Space
+MOVE Right
+REMOVE Backspace
+MOVE Left
+MOVE Left
+MOVE Home
+INSERT Char c
+MOVE End
+INSERT Char 7
+MOVE Left
+INSERT Char 5
+INSERT Char s
+PRINT
+REMOVE Del
+INSERT Char c
+REMOVE Del
+PRINT
+INSERT Char k
+REMOVE Backspace
+PRINT
+MOVE Home
+MOVE Home
+MOVE End
+MOVE Home
+MOVE Left
+REMOVE Backspace
+INSERT Char O
+INSERT Char %
+MOVE Left
+MOVE Home
+INSERT Space
+MOVE Left
+REMOVE Del
+INSERT Char %
+REMOVE Del
+INSERT Char %
+MOVE Right
+INSERT Char 5
+PRINT
+INSERT Char 7
+INSERT Char 5
+PRINT
+INSERT Char 7
+INSERT Char k
+INSERT Char 5
+REMOVE Backspace
+REMOVE Del
+PRINT
+INSERT Char m
+REMOVE Backspace
+INSERT Char k
+INSERT Space
+REMOVE Backspace
+INSERT Char O
+PRINT
+INSERT Char k
+INSERT Char O
+MOVE Right
+MOVE Left
+MOVE Left
+INSERT Char m
+REMOVE Backspace
+REMOVE Del
+REMOVE Del
+INSERT Char m
+INSERT Char O
+INSERT Char k
+REMOVE Del
+INSERT Char 7
+INSERT Char k
+INSERT Char O
+INSERT Char %
+INSERT Char k
+INSERT Char c
+INSERT Char O
+MOVE Right
+MOVE Home
+INSERT Char m
+INSERT Space
+INSERT Char m
+INSERT Char k
+INSERT Char s
+INSERT Space
+REMOVE Backspace
+INSERT Char c
+PRINT
+REMOVE Backspace
+INSERT Char c
+INSERT Char %
+INSERT Char 7
+MOVE End
+REMOVE Del
+INSERT Char O
+INSERT Space
+MOVE Home
+PRINT
+MOVE Left
+REMOVE Backspace
+INSERT Char %
+INSERT Char 5
+INSERT Char 7
+PRINT
+PRINT
+INSERT Char %
+MOVE Right
+INSERT Char O
+INSERT Char k
+MOVE Left
+INSERT Char O
+INSERT Char 7
+INSERT Char %
+MOVE Home
+REMOVE Del
+INSERT Space
+REMOVE Backspace
+MOVE Home
+MOVE End
+REMOVE Backspace
+INSERT Char %
+REMOVE Del
+MOVE End
+PRINT
+REMOVE Del
+INSERT Char m
+INSERT Char %
+INSERT Space
+REMOVE Del
+MOVE End
+MOVE Left
+MOVE Left
+INSERT Char O
+MOVE Right
+PRINT
+INSERT Char 7
+INSERT Space
+MOVE Left
+INSERT Char m
+REMOVE Del
+INSERT Space
+REMOVE Del
+MOVE Home
+MOVE Right
+PRINT
+REMOVE Backspace
+MOVE Left
+PRINT
+INSERT Char c
+MOVE Right
+INSERT Char c
+MOVE Right
+INSERT Char 5
+MOVE Left
+INSERT Char 5
+INSERT Char s
+REMOVE Del
+MOVE End
+INSERT Char m
+REMOVE Backspace
+INSERT Char O
+INSERT Char %
+INSERT Char O
+INSERT Space
+REMOVE Del
+REMOVE Del
+PRINT
+INSERT Char 7
+INSERT Space
+PRINT
+MOVE End
+REMOVE Del
+PRINT
+REMOVE Backspace
+MOVE Right
+INSERT Char O
+PRINT
+MOVE Left
+REMOVE Backspace
+REMOVE Backspace
+MOVE Left
+INSERT Char %
+MOVE End
+INSERT Char m
+INSERT Char 5
+MOVE End
+PRINT
+REMOVE Del
+PRINT
+MOVE End
+MOVE Home
+REMOVE Del
+REMOVE Del
+INSERT Char 7
+MOVE End
+MOVE Right
+REMOVE Del
+REMOVE Del
+REMOVE Del
+REMOVE Backspace
+MOVE Left
+REMOVE Backspace
+INSERT Char c
+REMOVE Del
+MOVE Home
+MOVE Right
+INSERT Char %
+INSERT Char O
+REMOVE Backspace
+REMOVE Backspace
+MOVE Left
+PRINT
+REMOVE Del
+PRINT
+REMOVE Del
+MOVE Left
+INSERT Char s
+REMOVE Backspace
+PRINT
+MOVE End
+INSERT Char %
+INSERT Char s
+MOVE Right
+INSERT Space
+INSERT Char c
+PRINT
+INSERT Space
+INSERT Char 5
+MOVE Right
+MOVE Left
+PRINT
+MOVE Right
+MOVE Left
+INSERT Char %
+PRINT
+INSERT Char c
+INSERT Space
+INSERT Char O
+MOVE End
+REMOVE Backspace
+PRINT
+MOVE Left
+INSERT Char s
+PRINT
+INSERT Char m
+REMOVE Del
+INSERT Char m
+INSERT Char k
+REMOVE Backspace
+MOVE Left
+INSERT Char %
+INSERT Char c
+INSERT Char k
+MOVE End
+MOVE Home
+INSERT Char O
+REMOVE Del
+INSERT Char 5
+REMOVE Backspace
+PRINT
+MOVE End
+REMOVE Del
+REMOVE Backspace
+MOVE Right
+INSERT Char 7
+INSERT Char 7
+INSERT Char O
+INSERT Char m
+INSERT Char c
+MOVE Home
+INSERT Char c
+PRINT
+REMOVE Del
+INSERT Char O
+INSERT Char s
+REMOVE Backspace
+INSERT Char k
+INSERT Char %
+MOVE Home
+INSERT Char m
+REMOVE Backspace
+INSERT Space
+INSERT Char 7
+INSERT Char s
+INSERT Char %
+INSERT Char k
+INSERT Space
+INSERT Char 5
+INSERT Char m
+REMOVE Backspace
+INSERT Char 7
+INSERT Char O
+MOVE End
+MOVE Home
+INSERT Char k
+INSERT Char s
+PRINT
+INSERT Char m
+INSERT Char 5
+INSERT Char m
+MOVE Right
+MOVE Home
+MOVE Right
+INSERT Space
+INSERT Char 7
+INSERT Char %
+INSERT Char %
+MOVE Left
+PRINT
+INSERT Char %
+INSERT Char 5
+REMOVE Backspace
+PRINT
+INSERT Char 7
+REMOVE Backspace
+PRINT
+INSERT Char %
+INSERT Char c
+REMOVE Backspace
+REMOVE Del
+INSERT Char k
+INSERT Char 5
+PRINT
+INSERT Char k
+INSERT Char k
+INSERT Space
+MOVE Home
+INSERT Char %
+INSERT Char s
+MOVE End
+INSERT Char m
+INSERT Char O
+REMOVE Backspace
+PRINT
+REMOVE Del
+REMOVE Backspace
+INSERT Char %
+INSERT Char m
+MOVE Home
+REMOVE Backspace
+REMOVE Del
+MOVE Home
+MOVE Left
+INSERT Space
+INSERT Space
+INSERT Char c
+PRINT
+INSERT Char c
+INSERT Space
+INSERT Space
+PRINT
+INSERT Space
+INSERT Char O
+MOVE Home
+PRINT
+INSERT Char m
+INSERT Char s
+INSERT Char s
+INSERT Char k
+INSERT Space
+MOVE End
+INSERT Space
+REMOVE Backspace
+INSERT Char O
+INSERT Char c
+REMOVE Backspace
+INSERT Char 7
+REMOVE Backspace
+INSERT Char s
+MOVE Right
+PRINT
+INSERT Char 5
+INSERT Char 7
+PRINT
+REMOVE Del
+INSERT Char s
+INSERT Char k
+REMOVE Del
+INSERT Char 7
+PRINT
+INSERT Char m
+MOVE Right
+INSERT Char %
+INSERT Char s
+INSERT Space
+MOVE Home
+INSERT Char c
+REMOVE Backspace
+PRINT
+REMOVE Backspace
+INSERT Char 7
+MOVE Left
+INSERT Char s
+INSERT Char 5
+MOVE Right
+PRINT
+INSERT Char m
+INSERT Char O
+INSERT Space
+REMOVE Backspace
+INSERT Char m
+REMOVE Backspace
+INSERT Char 7
+MOVE End
+INSERT Char k
+INSERT Char %
+INSERT Char k
+REMOVE Del
+PRINT
+MOVE Home
+INSERT Space
+REMOVE Del
+INSERT Char k
+INSERT Char c
+INSERT Char 5
+INSERT Char c
+MOVE Home
+INSERT Char m
+INSERT Char c
+INSERT Char k
+MOVE End
+INSERT Char 7
+INSERT Char k
+REMOVE Del
+INSERT Char s
+MOVE Home
+INSERT Char s
+REMOVE Backspace
+INSERT Char 7
+INSERT Space
+INSERT Char m
+INSERT Char s
+REMOVE Del
+INSERT Char %
+INSERT Char s
+INSERT Char m
+MOVE Home
+REMOVE Del
+INSERT Char s
+INSERT Char c
+MOVE Home
+REMOVE Backspace
+MOVE Left
+REMOVE Del
+MOVE End
+MOVE Left
+MOVE Right
+MOVE Right
+REMOVE Del
+MOVE Home
+REMOVE Del
+PRINT
+INSERT Char O
+INSERT Char s
+INSERT Char k
+INSERT Char k
+MOVE End
+MOVE End
+PRINT
+INSERT Char m
+MOVE Home
+INSERT Char O
+REMOVE Del
+PRINT
+INSERT Char k
+INSERT Char k
+INSERT Char c
+MOVE Right
+MOVE Home
+MOVE Left
+INSERT Char O
+MOVE Home
+INSERT Char %
+INSERT Char 7
+INSERT Char %
+INSERT Char O
+MOVE Right
+INSERT Char s
+REMOVE Del
+INSERT Char 7
+REMOVE Backspace
+INSERT Char s
+INSERT Space
+MOVE Home
+INSERT Char 5
+REMOVE Backspace
+PRINT
+INSERT Char c
+INSERT Char m
+MOVE Left
+INSERT Char c
+MOVE End
+INSERT Char c
+PRINT
+MOVE Left
+INSERT Char m
+INSERT Char s
+INSERT Char c
+INSERT Char 5
+MOVE Home
+MOVE Home
+MOVE Left
+MOVE Home
+MOVE Home
+REMOVE Del
+INSERT Char s
+MOVE Left
+INSERT Char %
+INSERT Space
+INSERT Char O
+MOVE Left
+INSERT Char k
+PRINT
+REMOVE Del
+INSERT Char 7
+INSERT Char O
+INSERT Char %
+REMOVE Del
+PRINT
+INSERT Char 7
+INSERT Char c
+REMOVE Del
+MOVE Right
+INSERT Char c
+INSERT Char k
+MOVE Right
+INSERT Char m
+MOVE Home
+REMOVE Del
+INSERT Space
+INSERT Space
+INSERT Char %
+INSERT Char k
+REMOVE Del
+MOVE Left
+INSERT Space
+PRINT
+INSERT Char O
+INSERT Char %
+REMOVE Del
+PRINT
+INSERT Char %
+PRINT
+MOVE Right
+REMOVE Backspace
+INSERT Char s
+INSERT Char s
+REMOVE Backspace
+REMOVE Backspace
+REMOVE Del
+INSERT Char m
+MOVE Right
+MOVE Right
+REMOVE Backspace
+PRINT
+MOVE Right
+INSERT Char s
+REMOVE Backspace
+PRINT
+INSERT Char 7
+PRINT
+MOVE Right
+REMOVE Del
+PRINT
+MOVE Home
+INSERT Char m
+MOVE Home
+INSERT Char 7
+PRINT
+INSERT Space
+REMOVE Del
+MOVE Left
+REMOVE Del
+INSERT Char k
+REMOVE Del
+REMOVE Del
+REMOVE Del
+REMOVE Del
+MOVE Left
+INSERT Char O
+REMOVE Backspace
+INSERT Char %
+INSERT Char O
+INSERT Char k
+INSERT Char c
+INSERT Char O
+INSERT Char s
+REMOVE Backspace
+INSERT Char %
+REMOVE Backspace
+INSERT Char 7
+MOVE Left
+INSERT Char %
+INSERT Char %
+MOVE Right
+MOVE End
+MOVE End
+INSERT Char k
+MOVE End
+INSERT Char m
+INSERT Char 7
+MOVE Right
+INSERT Char 7
+MOVE Home
+INSERT Char 5
+INSERT Char s
+PRINT
+MOVE Right
+INSERT Char 7
+REMOVE Backspace
+INSERT Char s
+MOVE End
+REMOVE Backspace
+MOVE Left
+INSERT Char k
+INSERT Char O
+INSERT Char m
+REMOVE Del
+INSERT Char c
+INSERT Char %
+PRINT
+MOVE Left
+INSERT Char 5
+INSERT Char 5
+INSERT Char 7
+INSERT Char %
+INSERT Char c
+REMOVE Del
+PRINT
+PRINT
+INSERT Char 5
+INSERT Char k
+REMOVE Del
+INSERT Char s
+INSERT Char 7
+INSERT Space
+INSERT Char c
+INSERT Char s
+INSERT Char 7
+INSERT Char s
+INSERT Char O
+MOVE Home
+MOVE Home
+INSERT Char 7
+MOVE Right
+REMOVE Del
+INSERT Char O
+INSERT Char %
+INSERT Char 5
+PRINT
+MOVE Left
+REMOVE Backspace
+INSERT Char s
+REMOVE Del
+MOVE Home
+INSERT Char c
+INSERT Char k
+REMOVE Del
+INSERT Char k
+REMOVE Backspace
+INSERT Char 7
+INSERT Char O
+INSERT Char s
+REMOVE Backspace
+REMOVE Backspace
+PRINT
+INSERT Char s
+INSERT Char k
+INSERT Char 7
+INSERT Space
+REMOVE Backspace
+MOVE Left
+INSERT Char s
+MOVE Right
+INSERT Char m
+MOVE Left
+INSERT Char s
+INSERT Char 7
+REMOVE Del
+MOVE Left
+INSERT Char 5
+MOVE Left
+REMOVE Backspace
+MOVE Home
+INSERT Char c
+PRINT
+INSERT Char m
+REMOVE Del
+INSERT Char k
+MOVE Home
+REMOVE Del
+MOVE End
+INSERT Space
+MOVE Home
+INSERT Char 5
+MOVE Home
+INSERT Space
+REMOVE Backspace
+INSERT Char m
+INSERT Char c
+INSERT Char s
+MOVE Right
+MOVE Left
+REMOVE Backspace
+REMOVE Backspace
+INSERT Char m
+INSERT Char k
+PRINT
+INSERT Char c
+REMOVE Backspace
+INSERT Char m
+PRINT
+REMOVE Backspace
+INSERT Char c
+INSERT Char %
+INSERT Char c
+MOVE End
+INSERT Char 5
+INSERT Char c
+INSERT Char m
+INSERT Char k
+INSERT Char %
+REMOVE Backspace
+INSERT Char %
+PRINT
+INSERT Space
+REMOVE Del
+INSERT Char k
+PRINT
+INSERT Char m
+REMOVE Backspace
+PRINT
+REMOVE Backspace
+INSERT Char c
+REMOVE Del
+INSERT Char 5
+REMOVE Del
+MOVE Right
+INSERT Space
+PRINT
+INSERT Char %
+MOVE Home
+REMOVE Del
+MOVE Home
+MOVE Home
+INSERT Char O
+INSERT Char m
+INSERT Char 5
+REMOVE Del
+INSERT Char s
+INSERT Char 7
+PRINT
+REMOVE Del
+MOVE End
+MOVE Right
+INSERT Char 7
+PRINT
+INSERT Char s
+MOVE Home
+PRINT
+INSERT Space
+REMOVE Backspace
+INSERT Char 5
+PRINT
+INSERT Char O
+MOVE Home
+INSERT Char k
+MOVE End
+MOVE Home
+PRINT
+INSERT Char %
+REMOVE Del
+INSERT Char m
+MOVE Right
+MOVE Home
+REMOVE Backspace
+INSERT Char O
+REMOVE Del
+REMOVE Backspace
+PRINT
+MOVE End
+INSERT Char m
+INSERT Char m
+INSERT Char 5
+INSERT Space
+REMOVE Del
+PRINT
+REMOVE Backspace
+REMOVE Del
+REMOVE Del
+PRINT
+INSERT Char 7
+INSERT Char m
+MOVE Right
+REMOVE Del
+MOVE Right
+PRINT
+MOVE Right
+MOVE Right
+PRINT
+INSERT Char s
+INSERT Char O
+MOVE Home
+INSERT Space
+MOVE End
+INSERT Char c
+INSERT Char k
+INSERT Space
+REMOVE Backspace
+INSERT Char 7
+INSERT Space
+MOVE Left
+REMOVE Backspace
+REMOVE Del
+REMOVE Del
+REMOVE Del
+PRINT
+INSERT Space
+REMOVE Del
+INSERT Space
+INSERT Char %
+INSERT Char 7
+MOVE Home
+INSERT Char 5
+INSERT Space
+MOVE Left
+INSERT Char m
+PRINT
+INSERT Char k
+INSERT Space
+REMOVE Del
+INSERT Char m
+INSERT Char 7
+REMOVE Backspace
+INSERT Char s
+INSERT Char s
+INSERT Char s
+INSERT Char 7
+REMOVE Del
+MOVE Right
+INSERT Char m
+REMOVE Del
+REMOVE Backspace
+REMOVE Backspace
+REMOVE Del
+MOVE Right
+REMOVE Del
+INSERT Char 7
+MOVE Right
+INSERT Char O
+REMOVE Del
+PRINT
+MOVE Left
+INSERT Char O
+MOVE Left
+INSERT Char 5
+MOVE End
+INSERT Char 7
+MOVE Left
+INSERT Char %
+INSERT Char 5
+REMOVE Backspace
+INSERT Space
+INSERT Char O
+INSERT Char O
+MOVE End
+REMOVE Del
+INSERT Char m
+REMOVE Del
+INSERT Char s
+INSERT Char s
+PRINT
+MOVE Home
+PRINT
+REMOVE Backspace
+INSERT Char m
+INSERT Char m
+INSERT Char k
+INSERT Char 5
+REMOVE Backspace
+INSERT Char O
+INSERT Char %
+REMOVE Backspace
+REMOVE Del
+INSERT Char %
+MOVE Home
+MOVE Right
+PRINT
+INSERT Space
+REMOVE Del
+INSERT Char k
+MOVE Right
+PRINT
+REMOVE Del
+MOVE End
+INSERT Char m
+INSERT Char %
+REMOVE Del
+INSERT Space
+REMOVE Del
+REMOVE Del
+INSERT Char %
+INSERT Char m
+REMOVE Del
+INSERT Char O
+INSERT Char s
+REMOVE Del
+REMOVE Backspace
+PRINT
+INSERT Char 7
+MOVE Home
+MOVE Right
+INSERT Char k
+REMOVE Del
+PRINT
+INSERT Space
+INSERT Space
+MOVE End
+MOVE End
+INSERT Char O
+INSERT Char 7
+PRINT
+REMOVE Backspace
+INSERT Char c
+PRINT
+REMOVE Del
+MOVE Home
+MOVE End
+INSERT Char O
+PRINT
+INSERT Char k
+INSERT Char 5
+PRINT
+REMOVE Backspace
+MOVE Right
+INSERT Char 7
+MOVE Right
+INSERT Char k
+INSERT Char m
+INSERT Char k
+INSERT Char %
+MOVE Right
+MOVE End
+INSERT Char k
+INSERT Char O
+MOVE Left
+INSERT Char s
+MOVE Home
+REMOVE Backspace
+MOVE Home
+INSERT Char m
+INSERT Char m
+INSERT Char %
+MOVE Right
+REMOVE Del
+REMOVE Backspace
+INSERT Space
+INSERT Char O
+PRINT
+INSERT Space
+INSERT Char m
+INSERT Char s
+INSERT Char m
+MOVE Left
+INSERT Char c
+INSERT Char c
+INSERT Char 5
+REMOVE Backspace
+INSERT Space
+REMOVE Backspace
+REMOVE Backspace
+INSERT Char k
+INSERT Char %
+REMOVE Backspace
+INSERT Char 7
+INSERT Char m
+INSERT Char s
+MOVE Home
+REMOVE Del
+INSERT Char c
+MOVE End
+INSERT Char %
+INSERT Char %
+PRINT
+INSERT Space
+MOVE Right
+INSERT Char m
+INSERT Char k
+INSERT Char s
+REMOVE Backspace
+MOVE Left
+REMOVE Del
+INSERT Char 7
+INSERT Char k
+INSERT Space
+PRINT
+PRINT
+INSERT Char %
+INSERT Char c
+INSERT Char k
+INSERT Char %
+INSERT Char 5
+INSERT Char %
+INSERT Char s
+MOVE Home
+PRINT
+INSERT Char s
+MOVE Left
+INSERT Char m
+MOVE Left
+INSERT Char O
+MOVE Left
+INSERT Char O
+REMOVE Backspace
+INSERT Char %
+INSERT Char 7
+REMOVE Backspace
+REMOVE Backspace
+INSERT Char k
+INSERT Char 7
+INSERT Char 7
+INSERT Char s
+MOVE Home
+REMOVE Backspace
+INSERT Char c
+MOVE Left
+PRINT
+INSERT Char m
+REMOVE Del
+REMOVE Del
+INSERT Char m
+INSERT Char 5
+PRINT
+REMOVE Backspace
+MOVE Left
+INSERT Char k
+INSERT Char 7
+INSERT Char k
+INSERT Char O
+REMOVE Del
+PRINT
+INSERT Char k
+MOVE Right
+PRINT
+INSERT Char c
+MOVE Right
+REMOVE Backspace
+REMOVE Backspace
+INSERT Char 5
+INSERT Char 5
+PRINT
+PRINT
+MOVE Left
+INSERT Char k
+MOVE End
+INSERT Char m
+INSERT Char 7
+MOVE Left
+MOVE End
+INSERT Char O
+MOVE Home
+MOVE Left
+INSERT Char k
+MOVE End
+MOVE Left
+INSERT Char %
+REMOVE Backspace
+MOVE End
+INSERT Char O
+INSERT Char O
+MOVE End
+PRINT
+PRINT
+PRINT
+REMOVE Del
+MOVE Right
+MOVE Home
+REMOVE Del
+INSERT Char m
+PRINT
+MOVE Right
+MOVE Home
+INSERT Char O
+INSERT Char s
+REMOVE Del
+PRINT
+PRINT
+INSERT Char m
+INSERT Space
+REMOVE Del
+MOVE Left
+INSERT Char c
+MOVE End
+PRINT
+REMOVE Del
+INSERT Char k
+INSERT Char c
+INSERT Char %
+INSERT Space
+INSERT Char c
+PRINT
+REMOVE Del
+PRINT
+REMOVE Backspace
+INSERT Char 7
+REMOVE Backspace
+PRINT
+INSERT Char 7
+INSERT Char k
+INSERT Char %
+MOVE Home
+INSERT Char s
+INSERT Char k
+MOVE End
+PRINT
+INSERT Space
+INSERT Char 5
+REMOVE Del
+PRINT
+REMOVE Del
+PRINT
+INSERT Char c
+MOVE End
+MOVE Right
+INSERT Char m
+INSERT Char 5
+PRINT
+INSERT Char O
+INSERT Char O
+MOVE Left
+INSERT Char s
+INSERT Char k
+INSERT Char 7
+INSERT Char k
+MOVE Left
+INSERT Char O
+MOVE End
+MOVE Home
+INSERT Char k
+PRINT
+INSERT Char k
+INSERT Space
+MOVE Right
+REMOVE Del
+MOVE Right
+INSERT Space
+REMOVE Backspace
+INSERT Char 7
+MOVE Home
+INSERT Char %
+PRINT
+INSERT Char 7
+INSERT Char m
+PRINT
+REMOVE Backspace
+INSERT Space
+INSERT Char m
+INSERT Char c
+INSERT Char %
+PRINT
+INSERT Char O
+INSERT Char m
+REMOVE Del
+INSERT Char m
+INSERT Space
+INSERT Char 7
+INSERT Char k
+INSERT Char s
+INSERT Char k
+REMOVE Backspace
+INSERT Char s
+INSERT Char c
+REMOVE Del
+REMOVE Backspace
+REMOVE Backspace
+MOVE Left
+INSERT Char s
+REMOVE Backspace
+MOVE End
+REMOVE Backspace
+MOVE Left
+MOVE End
+MOVE Left
+REMOVE Backspace
+MOVE End
+INSERT Char 5
+INSERT Char s
+INSERT Char 7
+MOVE Left
+INSERT Char %
+REMOVE Backspace
+REMOVE Backspace
+MOVE End
+MOVE Right
+INSERT Space
+REMOVE Backspace
+INSERT Char 7
+MOVE End
+INSERT Char s
+REMOVE Del
+MOVE Right
+INSERT Char 5
+REMOVE Del
+INSERT Char 7
+REMOVE Backspace
+INSERT Char 7
+PRINT
+REMOVE Del
+INSERT Char O
+PRINT
+REMOVE Backspace
+PRINT
+PRINT
+INSERT Char 7
+INSERT Char s
+MOVE End
+MOVE Right
+REMOVE Del
+REMOVE Backspace
+INSERT Char O
+MOVE End
+PRINT
+REMOVE Backspace
+INSERT Char 7
+REMOVE Backspace
+MOVE Left
+INSERT Char O
+INSERT Space
+REMOVE Backspace
+REMOVE Del
+INSERT Char O
+INSERT Char 7
+INSERT Char 7
+INSERT Char %
+INSERT Char k
+INSERT Char k
+MOVE Home
+PRINT
+MOVE End
+INSERT Char %
+INSERT Char O
+MOVE Left
+INSERT Char %
+MOVE Right
+INSERT Char %
+INSERT Char O
+INSERT Char s
+INSERT Char m
+INSERT Char m
+MOVE Home
+REMOVE Backspace
+PRINT
+INSERT Char k
+REMOVE Backspace
+PRINT
+REMOVE Del
+REMOVE Backspace
+INSERT Char 7
+MOVE Left
+INSERT Space
+REMOVE Backspace
+REMOVE Del
+MOVE End
+MOVE Home
+MOVE Left
+INSERT Space
+INSERT Space
+REMOVE Del
+REMOVE Backspace
+PRINT
+INSERT Char s
+REMOVE Del
+INSERT Char s
+PRINT
+INSERT Char 5
+REMOVE Backspace
+INSERT Char %
+INSERT Char O
+INSERT Char 5
+MOVE Right
+INSERT Char %
+INSERT Char m
+INSERT Char c
+MOVE End
+INSERT Space
+REMOVE Del
+PRINT
+INSERT Char 7
+MOVE Left
+REMOVE Backspace
+MOVE Left
+INSERT Char c
+INSERT Char 5
+INSERT Char %
+REMOVE Backspace
+MOVE Home
+MOVE Right
+MOVE Right
+INSERT Char k
+MOVE Left
+INSERT Char m
+MOVE End
+REMOVE Backspace
+INSERT Char c
+REMOVE Del
+INSERT Char %
+INSERT Char c
+MOVE Right
+PRINT
+PRINT
+REMOVE Backspace
+INSERT Char m
+MOVE Home
+REMOVE Del
+INSERT Char 7
+MOVE End
+INSERT Char %
+PRINT
+REMOVE Backspace
+INSERT Char %
+PRINT
+INSERT Space
+REMOVE Del
+PRINT
+MOVE End
+REMOVE Backspace
+INSERT Char s
+PRINT
+MOVE Home
+INSERT Char k
+REMOVE Backspace
+INSERT Char %
+REMOVE Del
+INSERT Char m
+PRINT
+INSERT Char c
+MOVE Right
+REMOVE Backspace
+INSERT Char %
+PRINT
+INSERT Char 7
+INSERT Char c
+REMOVE Backspace
+INSERT Space
+PRINT
+REMOVE Del
+MOVE Left
+MOVE Right
+INSERT Char O
+INSERT Space
+MOVE Left
+INSERT Char k
+INSERT Space
+INSERT Char O
+INSERT Char k
+INSERT Char m
+PRINT
+INSERT Char s
+INSERT Space
+INSERT Char %
+REMOVE Del
+MOVE End
+INSERT Char c
+REMOVE Backspace
+REMOVE Del
+INSERT Char c
+REMOVE Del
+INSERT Char s
+INSERT Char m
+INSERT Char c
+REMOVE Del
+MOVE Right
+MOVE Left
+MOVE Right
+INSERT Char k
+MOVE End
+INSERT Space
+PRINT
+MOVE Right
+INSERT Char 5
+REMOVE Del
+MOVE Right
+PRINT
+MOVE Right
+INSERT Char s
+INSERT Char c
+INSERT Char m
+INSERT Char 5
+PRINT
+INSERT Char %
+INSERT Char m
+REMOVE Del
+REMOVE Del
+INSERT Space
+INSERT Space
+INSERT Char %
+MOVE Home
+REMOVE Backspace
+MOVE End
+INSERT Char O
+MOVE Home
+REMOVE Del
+REMOVE Backspace
+REMOVE Backspace
+INSERT Char 5
+INSERT Char %
+REMOVE Del
+MOVE End
+INSERT Space
+INSERT Char c
+INSERT Space
+MOVE Left
+INSERT Char 5
+PRINT
+REMOVE Del
+INSERT Char c
+REMOVE Del
+PRINT
+MOVE Home
+PRINT
+REMOVE Del
+INSERT Char c
+INSERT Char 7
+INSERT Char c
+INSERT Space
+MOVE Right
+INSERT Char s
+REMOVE Del
+INSERT Char m
+REMOVE Backspace
+INSERT Char O
+INSERT Space
+MOVE Home
+INSERT Char k
+REMOVE Del
+MOVE Left
+INSERT Char k
+INSERT Char s
+INSERT Char k
+INSERT Char 7
+MOVE Right
+INSERT Char s
+MOVE Left
+PRINT
+INSERT Char s
+REMOVE Del
+INSERT Char 5
+INSERT Char s
+REMOVE Del
+REMOVE Backspace
+INSERT Space
+REMOVE Backspace
+INSERT Char c
+REMOVE Del
+MOVE Left
+REMOVE Backspace
+INSERT Space
+INSERT Space
+INSERT Char c
+PRINT
+INSERT Char s
+MOVE Home
+INSERT Space
+INSERT Char %
+INSERT Char k
+MOVE Left
+PRINT
+MOVE End
+INSERT Char %
+INSERT Char 7
+REMOVE Del
+REMOVE Del
+INSERT Char m
+PRINT
+INSERT Space
+INSERT Char m
+MOVE Right
+REMOVE Del
+PRINT
+INSERT Char s
+MOVE Left
+PRINT
+REMOVE Del
+REMOVE Del
+REMOVE Del
+REMOVE Del
+REMOVE Del
+INSERT Char 7
+MOVE End
+INSERT Char k
+INSERT Char %
+INSERT Char 7
+INSERT Space
+MOVE End
+PRINT
+REMOVE Backspace
+MOVE Home
+REMOVE Backspace
+REMOVE Backspace
+INSERT Char 5
+PRINT
+MOVE End
+PRINT
+INSERT Char c
+MOVE Home
+INSERT Char c
+REMOVE Del
+REMOVE Backspace
+REMOVE Del
+INSERT Char k
+INSERT Char c
+REMOVE Backspace
+PRINT
+MOVE Left
+INSERT Char O
+INSERT Char m
+MOVE Right
+MOVE Right
+REMOVE Del
+PRINT
+MOVE Left
+MOVE Home
+MOVE Home
+INSERT Char m
+MOVE End
+INSERT Char m
+REMOVE Backspace
+INSERT Char 5
+MOVE Left
+REMOVE Backspace
+REMOVE Backspace
+INSERT Char O
+MOVE End
+INSERT Char O
+PRINT
+REMOVE Backspace
+INSERT Char k
+INSERT Space
+MOVE End
+PRINT
+REMOVE Backspace
+REMOVE Del
+MOVE Left
+INSERT Char c
+MOVE End
+INSERT Char c
+INSERT Char m
+REMOVE Del
+MOVE End
+INSERT Char O
+INSERT Char %
+INSERT Char m
+PRINT
+PRINT
+PRINT
+PRINT
+REMOVE Del
+REMOVE Backspace
+INSERT Char k
+INSERT Space
+REMOVE Del
+PRINT
+INSERT Char O
+REMOVE Del
+INSERT Char s
+REMOVE Del
+REMOVE Del
+REMOVE Del
+PRINT
+MOVE Left
+INSERT Space
+INSERT Char s
+REMOVE Backspace
+INSERT Char 7
+INSERT Char s
+MOVE Home
+INSERT Char k
+INSERT Char k
+REMOVE Backspace
+MOVE Home
+INSERT Char 5
+MOVE Left
+INSERT Char c
+PRINT
+REMOVE Del
+INSERT Char O
+MOVE End
+REMOVE Del
+INSERT Char c
+INSERT Char s
+REMOVE Backspace
+INSERT Char O
+REMOVE Del
+INSERT Char m
+INSERT Space
+INSERT Char k
+INSERT Char c
+MOVE End
+MOVE End
+PRINT
+REMOVE Del
+PRINT
+REMOVE Backspace
+PRINT
+INSERT Char %
+REMOVE Del
+MOVE Right
+INSERT Char 5
+MOVE Right
+MOVE Home
+INSERT Char c
+REMOVE Del
+INSERT Char O
+REMOVE Backspace
+REMOVE Del
+INSERT Char %
+REMOVE Del
+REMOVE Backspace
+INSERT Char k
+REMOVE Del
+INSERT Space
+PRINT
+INSERT Char m
+INSERT Char m
+MOVE Left
+INSERT Char k
+REMOVE Backspace
+REMOVE Del
+INSERT Char c
+INSERT Char s
+REMOVE Backspace
+REMOVE Backspace
+REMOVE Del
+INSERT Char s
+REMOVE Del
+REMOVE Del
+MOVE Left
+INSERT Char %
+MOVE Right
+INSERT Char c
+INSERT Space
+MOVE Left
+INSERT Space
+MOVE Home
+INSERT Space
+INSERT Char k
+INSERT Char c
+REMOVE Del
+INSERT Char c
+INSERT Char 7
+INSERT Char c
+PRINT
+PRINT
+MOVE End
+REMOVE Backspace
+INSERT Char c
+MOVE Left
+MOVE Left
+INSERT Char c
+REMOVE Del
+INSERT Space
+PRINT
+REMOVE Backspace
+INSERT Char s
+INSERT Space
+INSERT Char 7
+REMOVE Del
+INSERT Char m
+INSERT Char s
+INSERT Space
+INSERT Space
+INSERT Char c
+INSERT Char c
+REMOVE Del
+MOVE Right
+MOVE Left
+MOVE Home
+REMOVE Del
+MOVE End
+REMOVE Backspace
+MOVE Right
+MOVE End
+PRINT
+MOVE Left
+INSERT Char s
+MOVE Left
+REMOVE Backspace
+REMOVE Backspace
+INSERT Char O
+MOVE End
+PRINT
+MOVE Left
+INSERT Space
+MOVE Home
+MOVE Right
+REMOVE Backspace
+REMOVE Backspace
+INSERT Char k
+MOVE End
+REMOVE Backspace
+INSERT Space
+INSERT Char 5
+INSERT Char 7
+REMOVE Del
+MOVE Home
+REMOVE Backspace
+INSERT Char s
+REMOVE Backspace
+INSERT Char %
+PRINT
+MOVE End
+INSERT Char c
+INSERT Char 7
+INSERT Char %
+INSERT Char %
+INSERT Char %
+INSERT Char 7
+MOVE Right
+REMOVE Del
+INSERT Char %
+INSERT Char %
+INSERT Char 7
+INSERT Char 7
+INSERT Space
+INSERT Char k
+INSERT Char k
+INSERT Char O
+INSERT Char k
+MOVE Right
+INSERT Char O
+INSERT Char O
+MOVE Right
+REMOVE Del
+REMOVE Backspace
+INSERT Char 7
+INSERT Char c
+INSERT Char k
+MOVE Right
+INSERT Char O
+REMOVE Del
+PRINT
+MOVE Left
+PRINT
+REMOVE Backspace
+INSERT Char c
+INSERT Char c
+REMOVE Del
+PRINT
+PRINT
+MOVE End
+INSERT Char 7
+INSERT Char %
+INSERT Space
+REMOVE Del
+REMOVE Del
+PRINT
+INSERT Space
+REMOVE Del
+INSERT Char k
+MOVE Right
+INSERT Space
+PRINT
+PRINT
+REMOVE Backspace
+INSERT Char 5
+MOVE Right
+INSERT Space
+REMOVE Del
+INSERT Char O
+PRINT
+INSERT Char s
+INSERT Char k
+MOVE Left
+REMOVE Backspace
+INSERT Char k
+REMOVE Backspace
+INSERT Space
+INSERT Char 5
+INSERT Char k
+INSERT Char c
+INSERT Char s
+REMOVE Backspace
+INSERT Char k
+MOVE End
+REMOVE Del
+PRINT
+MOVE End
+INSERT Space
+REMOVE Backspace
+INSERT Char m
+PRINT
+INSERT Char k
+REMOVE Del
+REMOVE Backspace
+REMOVE Del
+REMOVE Del
+INSERT Char m
+REMOVE Del

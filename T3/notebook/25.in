@@ -1,0 +1,4801 @@
+4800
+INSERT Char ?
+INSERT Char )
+INSERT Char {
+INSERT Space
+MOVE Up
+REMOVE Backspace
+INSERT Char 1
+SHIFT
+SHIFT
+PRINT
+PRINT
+INSERT Enter
+MOVE Right
+INSERT Char {
+INSERT Char {
+INSERT Enter
+INSERT Char [
+INSERT Char )
+PRINT
+MOVE Left
+INSERT Char 1
+REMOVE Del
+INSERT Char {
+INSERT Char ?
+INSERT Enter
+INSERT Char ?
+MOVE Left
+MOVE Right
+INSERT Char {
+INSERT Char ?
+COPY
+INSERT Char {
+INSERT Char ?
+SHIFT
+SHIFT
+INSERT Char [
+REMOVE Del
+INSERT Enter
+INSERT Char 1
+SHIFT
+MOVE Right
+MOVE Up
+MOVE Home
+MOVE Left
+SHIFT
+INSERT Space
+INSERT Char [
+INSERT Char ?
+SHIFT
+MOVE Up
+MOVE Right
+MOVE Down
+MOVE Right
+SHIFT
+INSERT Char ?
+INSERT Char [
+FIND {
+INSERT Char [
+INSERT Space
+PRINT
+INSERT Char )
+INSERT Char 1
+INSERT Char ?
+COUNT
+INSERT Space
+SHIFT
+MOVE Home
+MOVE End
+MOVE Right
+MOVE Down
+MOVE Right
+MOVE Up
+MOVE Home
+MOVE Down
+SHIFT
+INSERT Char [
+SHIFT
+MOVE Down
+SHIFT
+INSERT Char )
+MOVE Home
+INSERT Char )
+INSERT Char )
+INSERT Space
+INSERT Char ?
+REMOVE Del
+REMOVE Del
+INSERT Enter
+INSERT Char ?
+SHIFT
+MOVE End
+MOVE Home
+SHIFT
+INSERT Char ?
+MOVE End
+SHIFT
+MOVE Left
+MOVE Down
+MOVE Up
+MOVE Right
+SHIFT
+REMOVE Backspace
+REMOVE Del
+REMOVE Backspace
+MOVE Home
+REMOVE Backspace
+INSERT Char [
+MOVE Home
+INSERT Char [
+INSERT Char 1
+INSERT Char 1
+REMOVE Backspace
+INSERT Char )
+INSERT Enter
+INSERT Char )
+SHIFT
+MOVE Left
+MOVE Up
+MOVE End
+MOVE End
+SHIFT
+MOVE Up
+INSERT Char {
+SHIFT
+MOVE Left
+MOVE Left
+MOVE Down
+MOVE Down
+MOVE Down
+SHIFT
+MOVE Home
+REMOVE Del
+INSERT Char {
+SHIFT
+MOVE Up
+SHIFT
+SHIFT
+MOVE Left
+MOVE Up
+SHIFT
+INSERT Char 1
+INSERT Char ?
+INSERT Char )
+INSERT Enter
+INSERT Space
+INSERT Char )
+COUNT
+INSERT Enter
+INSERT Space
+MOVE Right
+INSERT Char ?
+REMOVE Del
+MOVE Down
+SHIFT
+MOVE Right
+MOVE End
+MOVE Down
+MOVE Right
+MOVE Home
+MOVE Left
+MOVE Left
+SHIFT
+INSERT Char )
+INSERT Enter
+INSERT Enter
+REMOVE Del
+INSERT Char {
+MOVE End
+INSERT Char {
+INSERT Char 1
+INSERT Char )
+INSERT Char ?
+MOVE Up
+MOVE End
+INSERT Enter
+INSERT Char )
+INSERT Char [
+MOVE Up
+INSERT Enter
+INSERT Char 1
+INSERT Char 1
+REMOVE Del
+FIND ?
+INSERT Char ?
+INSERT Char {
+INSERT Char [
+INSERT Enter
+INSERT Char ?
+INSERT Enter
+INSERT Char )
+INSERT Enter
+INSERT Char [
+SHIFT
+MOVE Left
+MOVE Right
+MOVE Down
+MOVE Home
+MOVE End
+MOVE Left
+SHIFT
+INSERT Char )
+REMOVE Backspace
+INSERT Char ?
+INSERT Char {
+INSERT Char {
+INSERT Char ?
+INSERT Char 1
+INSERT Char [
+INSERT Char {
+SHIFT
+MOVE End
+MOVE Home
+MOVE Left
+MOVE Up
+MOVE Right
+MOVE Down
+SHIFT
+MOVE Up
+REMOVE Backspace
+REMOVE Del
+INSERT Enter
+INSERT Char 1
+INSERT Space
+INSERT Enter
+INSERT Char 1
+INSERT Space
+MOVE Right
+INSERT Enter
+MOVE Down
+INSERT Enter
+MOVE Up
+INSERT Char {
+INSERT Char )
+SHIFT
+MOVE Right
+MOVE Up
+MOVE Left
+MOVE Right
+SHIFT
+FIND 1
+SHIFT
+MOVE Left
+MOVE Left
+SHIFT
+MOVE End
+SHIFT
+MOVE Left
+MOVE Left
+MOVE Down
+MOVE Left
+MOVE End
+MOVE Left
+MOVE Down
+SHIFT
+REMOVE Del
+INSERT Enter
+INSERT Enter
+COUNT
+INSERT Char ?
+MOVE End
+INSERT Enter
+SHIFT
+MOVE Down
+MOVE Right
+SHIFT
+INSERT Enter
+INSERT Char 1
+MOVE Up
+SHIFT
+MOVE End
+MOVE End
+MOVE Home
+MOVE Down
+MOVE Home
+MOVE Right
+MOVE End
+SHIFT
+MOVE Up
+INSERT Space
+MOVE Left
+INSERT Char {
+PRINT
+INSERT Char [
+INSERT Char )
+INSERT Char ?
+INSERT Space
+COPY
+INSERT Char [
+INSERT Char ?
+INSERT Char [
+INSERT Char 1
+MOVE Left
+INSERT Char [
+INSERT Char [
+PRINT
+INSERT Enter
+INSERT Char )
+INSERT Char )
+INSERT Char 1
+PRINT
+MOVE Home
+SHIFT
+MOVE End
+MOVE Right
+MOVE Up
+SHIFT
+MOVE Right
+INSERT Char {
+INSERT Paste
+INSERT Char ?
+INSERT Char )
+MOVE Up
+MOVE Down
+MOVE Home
+MOVE Left
+REMOVE Del
+MOVE End
+REMOVE Backspace
+INSERT Space
+PRINT
+INSERT Char ?
+REMOVE Backspace
+REMOVE Backspace
+INSERT Char [
+INSERT Char {
+SHIFT
+MOVE Right
+MOVE Right
+MOVE Left
+MOVE Right
+MOVE End
+MOVE Right
+MOVE Right
+SHIFT
+MOVE End
+INSERT Enter
+INSERT Paste
+INSERT Char 1
+INSERT Char ?
+INSERT Enter
+REMOVE Backspace
+INSERT Char )
+INSERT Char )
+INSERT Char {
+INSERT Char ?
+PRINT
+REMOVE Del
+PRINT
+INSERT Char ?
+INSERT Space
+INSERT Char ?
+SHIFT
+MOVE Right
+MOVE Home
+MOVE Left
+MOVE Up
+SHIFT
+INSERT Char {
+INSERT Enter
+MOVE Right
+COPY
+INSERT Char 1
+MOVE Left
+INSERT Space
+INSERT Char ?
+INSERT Enter
+COUNT
+INSERT Char {
+INSERT Char )
+REMOVE Del
+INSERT Enter
+INSERT Space
+INSERT Space
+MOVE Left
+MOVE Right
+INSERT Char [
+INSERT Char 1
+COPY
+INSERT Enter
+INSERT Char ?
+INSERT Char [
+MOVE Down
+INSERT Char 1
+FIND [
+PRINT
+REMOVE Del
+REMOVE Backspace
+INSERT Space
+INSERT Enter
+REMOVE Del
+INSERT Char ?
+INSERT Enter
+INSERT Space
+INSERT Space
+INSERT Char )
+MOVE Right
+INSERT Char [
+INSERT Space
+REMOVE Del
+INSERT Char {
+SHIFT
+MOVE End
+MOVE Home
+MOVE Down
+MOVE End
+MOVE Right
+MOVE Right
+MOVE Right
+SHIFT
+INSERT Char {
+REMOVE Del
+PRINT
+MOVE Right
+MOVE Left
+INSERT Space
+MOVE Home
+INSERT Char {
+MOVE Up
+INSERT Enter
+REMOVE Backspace
+MOVE Down
+REMOVE Backspace
+MOVE Right
+INSERT Char )
+INSERT Char 1
+INSERT Char )
+INSERT Char {
+MOVE Home
+INSERT Space
+MOVE Left
+INSERT Enter
+MOVE Right
+INSERT Char {
+INSERT Char {
+INSERT Space
+PRINT
+INSERT Char {
+INSERT Char ?
+INSERT Char {
+INSERT Char 1
+INSERT Char [
+INSERT Enter
+INSERT Paste
+INSERT Char ?
+INSERT Char [
+INSERT Char ?
+INSERT Enter
+INSERT Char )
+INSERT Char ?
+PRINT
+SHIFT
+SHIFT
+INSERT Char [
+INSERT Char )
+INSERT Enter
+SHIFT
+MOVE Up
+MOVE Down
+MOVE Right
+MOVE Left
+MOVE Up
+SHIFT
+COPY
+INSERT Char {
+REMOVE Del
+INSERT Char 1
+INSERT Char 1
+MOVE End
+MOVE Right
+MOVE End
+PRINT
+MOVE Left
+INSERT Char {
+INSERT Space
+INSERT Char 1
+MOVE Down
+INSERT Char {
+SHIFT
+MOVE Up
+MOVE End
+MOVE Home
+SHIFT
+INSERT Char ?
+INSERT Space
+MOVE Left
+COUNT
+MOVE Down
+INSERT Char 1
+INSERT Enter
+MOVE Left
+MOVE Right
+INSERT Space
+PRINT
+REMOVE Del
+INSERT Enter
+INSERT Char 1
+REMOVE Backspace
+INSERT Space
+SHIFT
+MOVE Right
+MOVE End
+MOVE Home
+MOVE Home
+SHIFT
+INSERT Char [
+INSERT Char {
+FIND {
+MOVE Up
+INSERT Enter
+INSERT Char 1
+INSERT Char )
+INSERT Enter
+COPY
+REMOVE Backspace
+INSERT Char [
+MOVE Left
+INSERT Char )
+INSERT Char )
+PRINT
+INSERT Char {
+INSERT Enter
+REMOVE Del
+INSERT Space
+REMOVE Del
+SHIFT
+MOVE Home
+SHIFT
+REMOVE Backspace
+INSERT Space
+INSERT Enter
+INSERT Space
+INSERT Space
+INSERT Enter
+INSERT Space
+INSERT Enter
+INSERT Char 1
+INSERT Char {
+REMOVE Backspace
+REMOVE Del
+MOVE Up
+INSERT Char )
+REMOVE Del
+MOVE Down
+INSERT Char {
+INSERT Char ?
+INSERT Char [
+MOVE Up
+MOVE Left
+INSERT Paste
+INSERT Space
+INSERT Enter
+INSERT Char ?
+INSERT Space
+INSERT Char 1
+INSERT Enter
+INSERT Space
+INSERT Char {
+INSERT Char ?
+SHIFT
+MOVE Right
+MOVE End
+MOVE Left
+MOVE Home
+MOVE End
+MOVE Left
+MOVE Right
+MOVE Right
+SHIFT
+COPY
+INSERT Char )
+PRINT
+INSERT Char 1
+MOVE Home
+INSERT Char [
+REMOVE Del
+INSERT Char [
+INSERT Space
+REMOVE Backspace
+INSERT Paste
+MOVE End
+INSERT Char [
+INSERT Char ?
+INSERT Enter
+INSERT Char {
+MOVE Right
+INSERT Char ?
+MOVE Left
+INSERT Char [
+REMOVE Del
+REMOVE Backspace
+INSERT Enter
+INSERT Char )
+MOVE Home
+REMOVE Backspace
+REMOVE Del
+INSERT Enter
+INSERT Char 1
+MOVE Down
+MOVE Down
+INSERT Char 1
+REMOVE Backspace
+REMOVE Del
+PRINT
+MOVE Home
+INSERT Enter
+MOVE Up
+INSERT Char [
+MOVE Down
+INSERT Space
+INSERT Char ?
+REMOVE Backspace
+INSERT Space
+MOVE End
+INSERT Char ?
+INSERT Char {
+REMOVE Del
+MOVE End
+INSERT Char {
+INSERT Paste
+INSERT Char )
+MOVE Down
+INSERT Space
+INSERT Char [
+INSERT Char 1
+INSERT Enter
+MOVE Up
+REMOVE Backspace
+MOVE Down
+INSERT Space
+MOVE Left
+INSERT Char 1
+INSERT Char 1
+REMOVE Backspace
+INSERT Char ?
+REMOVE Backspace
+MOVE Right
+INSERT Enter
+INSERT Char ?
+INSERT Char 1
+INSERT Char 1
+MOVE Down
+REMOVE Backspace
+MOVE Down
+INSERT Char )
+INSERT Space
+INSERT Enter
+MOVE Home
+INSERT Space
+INSERT Space
+FIND [))
+SHIFT
+MOVE Up
+MOVE End
+MOVE End
+SHIFT
+INSERT Enter
+FIND )
+MOVE Right
+INSERT Char )
+INSERT Space
+INSERT Char )
+INSERT Char {
+INSERT Space
+REMOVE Del
+SHIFT
+MOVE Home
+MOVE Right
+SHIFT
+MOVE End
+COPY
+INSERT Char {
+INSERT Enter
+INSERT Enter
+INSERT Char )
+COUNT
+INSERT Char 1
+INSERT Char )
+MOVE Home
+INSERT Char {
+MOVE Down
+SHIFT
+MOVE Left
+MOVE Right
+MOVE Left
+SHIFT
+INSERT Enter
+INSERT Char [
+REMOVE Del
+INSERT Space
+REMOVE Backspace
+INSERT Enter
+REMOVE Del
+COPY
+INSERT Char [
+MOVE Right
+INSERT Space
+INSERT Enter
+INSERT Enter
+PRINT
+INSERT Char [
+INSERT Space
+INSERT Char 1
+MOVE Right
+INSERT Char [
+INSERT Enter
+MOVE Left
+MOVE Down
+INSERT Enter
+INSERT Char ?
+INSERT Enter
+INSERT Char 1
+INSERT Char )
+PRINT
+INSERT Char ?
+INSERT Char 1
+INSERT Char [
+INSERT Enter
+INSERT Space
+SHIFT
+MOVE Right
+MOVE Down
+MOVE End
+MOVE End
+MOVE Home
+MOVE Home
+SHIFT
+INSERT Char 1
+INSERT Char {
+INSERT Char {
+INSERT Char 1
+INSERT Char 1
+INSERT Char [
+MOVE Left
+INSERT Char )
+MOVE End
+COPY
+MOVE Down
+MOVE End
+MOVE Up
+INSERT Enter
+INSERT Char )
+MOVE Left
+INSERT Char )
+INSERT Char {
+INSERT Char 1
+INSERT Char 1
+INSERT Char 1
+REMOVE Del
+FIND {
+SHIFT
+MOVE Down
+MOVE Down
+MOVE Up
+MOVE Right
+MOVE End
+SHIFT
+MOVE Right
+MOVE Right
+INSERT Enter
+INSERT Char [
+INSERT Char {
+INSERT Space
+INSERT Char ?
+INSERT Char [
+INSERT Char [
+INSERT Enter
+INSERT Char 1
+INSERT Char [
+REMOVE Del
+INSERT Char )
+MOVE Up
+REMOVE Backspace
+INSERT Paste
+INSERT Char ?
+INSERT Char )
+MOVE Up
+INSERT Char [
+INSERT Char {
+INSERT Char ?
+INSERT Space
+INSERT Space
+INSERT Space
+MOVE Down
+FIND [[
+REMOVE Del
+INSERT Char [
+INSERT Enter
+COPY
+INSERT Char [
+INSERT Char {
+MOVE Right
+COPY
+REMOVE Backspace
+MOVE End
+INSERT Space
+INSERT Space
+PRINT
+REMOVE Backspace
+REMOVE Del
+INSERT Char )
+INSERT Enter
+MOVE Home
+INSERT Char {
+INSERT Char ?
+MOVE Home
+MOVE End
+INSERT Char [
+MOVE Home
+INSERT Space
+INSERT Char [
+REMOVE Del
+INSERT Enter
+INSERT Char 1
+INSERT Char ?
+MOVE Down
+INSERT Char ?
+MOVE Left
+INSERT Char ?
+SHIFT
+MOVE Right
+MOVE Left
+MOVE Up
+MOVE Left
+MOVE Up
+MOVE End
+MOVE End
+SHIFT
+INSERT Char )
+INSERT Char [
+MOVE Right
+INSERT Char 1
+INSERT Enter
+MOVE End
+INSERT Enter
+INSERT Char 1
+INSERT Enter
+MOVE Right
+SHIFT
+MOVE Home
+MOVE Right
+MOVE End
+MOVE Down
+MOVE Left
+SHIFT
+SHIFT
+MOVE Down
+MOVE Home
+MOVE Home
+MOVE Down
+MOVE Left
+SHIFT
+COPY
+INSERT Char ?
+MOVE Down
+MOVE Up
+SHIFT
+MOVE Left
+MOVE End
+MOVE Down
+SHIFT
+INSERT Paste
+INSERT Enter
+REMOVE Backspace
+INSERT Char 1
+INSERT Char )
+INSERT Char 1
+MOVE Right
+INSERT Enter
+INSERT Paste
+INSERT Char {
+INSERT Char [
+INSERT Char {
+MOVE Left
+MOVE Right
+INSERT Paste
+INSERT Enter
+MOVE Down
+REMOVE Backspace
+MOVE Left
+INSERT Enter
+INSERT Char )
+INSERT Char ?
+MOVE End
+INSERT Char 1
+REMOVE Del
+INSERT Space
+INSERT Enter
+INSERT Enter
+INSERT Char 1
+INSERT Space
+MOVE Right
+INSERT Char [
+INSERT Char 1
+INSERT Char {
+INSERT Char [
+MOVE Left
+INSERT Enter
+SHIFT
+MOVE End
+MOVE Up
+MOVE Right
+MOVE End
+MOVE Down
+MOVE Up
+SHIFT
+FIND [)[
+COPY
+INSERT Char {
+INSERT Char ?
+INSERT Char [
+INSERT Char {
+INSERT Char ?
+INSERT Char ?
+INSERT Space
+INSERT Enter
+INSERT Enter
+REMOVE Del
+MOVE Right
+MOVE End
+INSERT Char [
+INSERT Enter
+MOVE Right
+INSERT Enter
+INSERT Char [
+INSERT Char 1
+INSERT Char {
+INSERT Char [
+MOVE End
+INSERT Space
+INSERT Char {
+INSERT Enter
+INSERT Char 1
+INSERT Enter
+SHIFT
+MOVE Right
+MOVE Up
+SHIFT
+INSERT Char ?
+MOVE Down
+MOVE Down
+MOVE Down
+INSERT Char [
+COPY
+INSERT Char [
+INSERT Char {
+MOVE Down
+INSERT Paste
+INSERT Enter
+INSERT Char [
+SHIFT
+MOVE Left
+MOVE End
+MOVE Left
+SHIFT
+MOVE Left
+INSERT Char [
+MOVE Up
+INSERT Enter
+MOVE Up
+PRINT
+REMOVE Backspace
+FIND [
+INSERT Char 1
+REMOVE Del
+INSERT Char 1
+INSERT Char )
+INSERT Space
+SHIFT
+SHIFT
+MOVE Down
+INSERT Space
+INSERT Char 1
+INSERT Space
+INSERT Char {
+INSERT Char 1
+MOVE End
+REMOVE Del
+INSERT Space
+INSERT Char 1
+SHIFT
+SHIFT
+REMOVE Backspace
+INSERT Char [
+MOVE Up
+INSERT Enter
+MOVE Down
+INSERT Enter
+MOVE Down
+SHIFT
+MOVE Left
+MOVE Home
+MOVE Left
+SHIFT
+MOVE Right
+INSERT Char {
+INSERT Enter
+INSERT Char )
+MOVE Up
+INSERT Char 1
+MOVE Up
+INSERT Enter
+INSERT Char ?
+INSERT Enter
+INSERT Char )
+REMOVE Backspace
+SHIFT
+MOVE Left
+MOVE Down
+SHIFT
+INSERT Char ?
+INSERT Char {
+FIND 1{
+MOVE End
+INSERT Space
+INSERT Char ?
+REMOVE Del
+INSERT Char 1
+REMOVE Backspace
+INSERT Enter
+INSERT Char )
+INSERT Char )
+COPY
+REMOVE Del
+COUNT
+INSERT Enter
+INSERT Char ?
+COUNT
+MOVE Down
+INSERT Char {
+INSERT Enter
+INSERT Char [
+INSERT Char )
+REMOVE Del
+MOVE Up
+INSERT Char {
+REMOVE Backspace
+INSERT Char )
+INSERT Char ?
+INSERT Char 1
+MOVE Left
+INSERT Space
+INSERT Enter
+SHIFT
+MOVE Up
+SHIFT
+PRINT
+INSERT Char )
+INSERT Char [
+INSERT Char ?
+COPY
+INSERT Enter
+INSERT Char 1
+INSERT Char [
+SHIFT
+MOVE Up
+MOVE End
+MOVE Left
+MOVE End
+MOVE End
+MOVE End
+MOVE End
+SHIFT
+INSERT Enter
+INSERT Paste
+REMOVE Backspace
+MOVE Up
+INSERT Space
+REMOVE Del
+MOVE Up
+SHIFT
+MOVE Up
+MOVE Down
+MOVE Down
+MOVE Right
+MOVE Left
+SHIFT
+INSERT Char [
+INSERT Paste
+INSERT Char 1
+INSERT Space
+INSERT Enter
+INSERT Char 1
+INSERT Paste
+INSERT Space
+INSERT Char {
+INSERT Char 1
+REMOVE Del
+INSERT Enter
+INSERT Char 1
+MOVE Down
+INSERT Space
+MOVE Left
+MOVE Right
+INSERT Char [
+INSERT Char )
+REMOVE Backspace
+COUNT
+INSERT Char )
+INSERT Char )
+MOVE Left
+MOVE Left
+INSERT Char 1
+INSERT Char )
+INSERT Char 1
+MOVE Up
+INSERT Char {
+INSERT Enter
+INSERT Char [
+MOVE Up
+INSERT Char {
+INSERT Enter
+SHIFT
+MOVE Up
+MOVE Home
+MOVE Down
+SHIFT
+INSERT Char )
+INSERT Char [
+INSERT Space
+MOVE Down
+MOVE Down
+SHIFT
+MOVE Left
+MOVE End
+MOVE Left
+MOVE Down
+MOVE Up
+MOVE End
+SHIFT
+INSERT Char 1
+MOVE Up
+INSERT Enter
+INSERT Char [
+INSERT Char ?
+MOVE Home
+MOVE Down
+INSERT Enter
+MOVE Down
+INSERT Char ?
+INSERT Char {
+INSERT Char )
+PRINT
+MOVE Home
+INSERT Enter
+INSERT Char {
+MOVE Home
+MOVE End
+INSERT Enter
+MOVE Right
+REMOVE Backspace
+PRINT
+INSERT Char 1
+REMOVE Backspace
+REMOVE Backspace
+INSERT Enter
+COUNT
+INSERT Enter
+MOVE Up
+REMOVE Backspace
+INSERT Char {
+MOVE Right
+INSERT Char {
+SHIFT
+MOVE Up
+MOVE Left
+MOVE Up
+MOVE Left
+MOVE Up
+SHIFT
+INSERT Char 1
+FIND ?
+INSERT Char [
+FIND ?
+INSERT Char 1
+INSERT Char {
+SHIFT
+MOVE Home
+MOVE Up
+MOVE Up
+MOVE Down
+MOVE Left
+MOVE Left
+MOVE End
+MOVE End
+SHIFT
+COPY
+SHIFT
+MOVE Left
+MOVE Left
+MOVE Up
+MOVE Home
+MOVE Home
+SHIFT
+INSERT Enter
+INSERT Char )
+REMOVE Backspace
+REMOVE Backspace
+COUNT
+INSERT Space
+INSERT Char 1
+SHIFT
+MOVE Up
+MOVE Up
+MOVE Right
+MOVE Home
+SHIFT
+INSERT Char {
+MOVE Right
+INSERT Char )
+REMOVE Del
+MOVE Right
+INSERT Char 1
+INSERT Char ?
+MOVE End
+SHIFT
+MOVE Right
+MOVE Up
+MOVE Right
+MOVE Down
+MOVE Right
+SHIFT
+COPY
+INSERT Char {
+INSERT Enter
+MOVE Home
+INSERT Char {
+INSERT Char )
+INSERT Char {
+REMOVE Del
+MOVE Up
+INSERT Char 1
+INSERT Char 1
+FIND {??
+INSERT Char {
+MOVE Down
+INSERT Char 1
+COPY
+INSERT Enter
+INSERT Char )
+REMOVE Del
+INSERT Enter
+INSERT Char )
+MOVE Right
+INSERT Char {
+SHIFT
+MOVE End
+MOVE Right
+MOVE Right
+MOVE End
+MOVE End
+SHIFT
+REMOVE Del
+INSERT Char )
+INSERT Paste
+INSERT Char {
+INSERT Char )
+INSERT Char 1
+INSERT Char 1
+MOVE Home
+REMOVE Del
+INSERT Char 1
+SHIFT
+MOVE Left
+MOVE Right
+MOVE End
+MOVE Home
+MOVE Home
+MOVE Down
+SHIFT
+INSERT Enter
+COPY
+INSERT Enter
+INSERT Char [
+INSERT Enter
+MOVE End
+INSERT Enter
+INSERT Char ?
+INSERT Char )
+INSERT Char [
+INSERT Char 1
+MOVE Right
+REMOVE Del
+REMOVE Del
+INSERT Space
+INSERT Enter
+REMOVE Del
+INSERT Enter
+MOVE Home
+INSERT Enter
+MOVE Left
+SHIFT
+MOVE Up
+MOVE Right
+MOVE Left
+SHIFT
+INSERT Char {
+INSERT Space
+INSERT Char )
+REMOVE Backspace
+MOVE Up
+INSERT Char [
+MOVE Left
+INSERT Enter
+INSERT Space
+INSERT Char [
+SHIFT
+MOVE Down
+MOVE Home
+MOVE Right
+SHIFT
+INSERT Char ?
+MOVE Left
+REMOVE Del
+INSERT Enter
+INSERT Char {
+COPY
+INSERT Char [
+INSERT Char 1
+SHIFT
+MOVE Right
+MOVE Left
+MOVE Home
+MOVE End
+MOVE Up
+MOVE End
+SHIFT
+REMOVE Backspace
+MOVE Down
+REMOVE Del
+MOVE Up
+INSERT Char )
+INSERT Space
+MOVE Left
+COPY
+INSERT Char ?
+INSERT Char ?
+INSERT Char 1
+INSERT Char )
+INSERT Char {
+INSERT Char ?
+FIND 1
+INSERT Enter
+INSERT Char ?
+INSERT Char ?
+PRINT
+MOVE Left
+INSERT Space
+INSERT Char ?
+INSERT Char 1
+INSERT Char {
+COPY
+PRINT
+INSERT Char [
+MOVE Down
+INSERT Char ?
+INSERT Char )
+REMOVE Del
+REMOVE Backspace
+PRINT
+INSERT Paste
+MOVE End
+REMOVE Del
+INSERT Char {
+MOVE Left
+INSERT Char )
+SHIFT
+MOVE Left
+MOVE End
+MOVE Up
+MOVE Down
+MOVE Left
+SHIFT
+MOVE Left
+INSERT Char [
+INSERT Char )
+INSERT Char ?
+MOVE Up
+REMOVE Backspace
+INSERT Char )
+INSERT Char )
+MOVE Right
+INSERT Enter
+INSERT Space
+SHIFT
+MOVE Home
+MOVE Home
+MOVE Up
+SHIFT
+INSERT Enter
+INSERT Space
+REMOVE Backspace
+REMOVE Backspace
+INSERT Char {
+MOVE End
+COPY
+MOVE Down
+REMOVE Del
+SHIFT
+MOVE Right
+MOVE Up
+MOVE End
+MOVE Down
+MOVE Up
+MOVE Up
+MOVE Home
+MOVE Home
+SHIFT
+INSERT Paste
+REMOVE Del
+INSERT Char )
+INSERT Enter
+INSERT Char )
+SHIFT
+MOVE Home
+MOVE Home
+MOVE Left
+MOVE Right
+MOVE Left
+MOVE Up
+MOVE Right
+SHIFT
+INSERT Char [
+INSERT Enter
+INSERT Enter
+FIND 11{
+INSERT Char )
+INSERT Space
+INSERT Char ?
+MOVE Down
+INSERT Char 1
+INSERT Char ?
+INSERT Enter
+INSERT Char ?
+INSERT Char 1
+INSERT Char {
+INSERT Char {
+INSERT Char ?
+MOVE Right
+MOVE Up
+INSERT Char ?
+MOVE Home
+REMOVE Backspace
+INSERT Enter
+PRINT
+INSERT Enter
+INSERT Char ?
+INSERT Char 1
+COPY
+INSERT Char {
+REMOVE Backspace
+COUNT
+REMOVE Backspace
+INSERT Enter
+INSERT Space
+INSERT Enter
+INSERT Char 1
+INSERT Enter
+MOVE Left
+SHIFT
+MOVE Left
+MOVE Up
+MOVE Up
+MOVE End
+MOVE Left
+MOVE Left
+MOVE End
+SHIFT
+REMOVE Del
+REMOVE Del
+MOVE Down
+SHIFT
+MOVE Up
+MOVE Right
+MOVE Up
+MOVE Home
+SHIFT
+INSERT Char [
+INSERT Space
+INSERT Char )
+INSERT Enter
+MOVE Left
+INSERT Space
+INSERT Enter
+MOVE Down
+INSERT Enter
+INSERT Char {
+COPY
+INSERT Enter
+PRINT
+INSERT Space
+REMOVE Backspace
+INSERT Space
+INSERT Space
+INSERT Space
+REMOVE Backspace
+REMOVE Backspace
+MOVE Left
+INSERT Enter
+MOVE Home
+INSERT Enter
+INSERT Space
+SHIFT
+SHIFT
+MOVE Up
+SHIFT
+MOVE Left
+MOVE End
+MOVE Home
+SHIFT
+PRINT
+INSERT Enter
+INSERT Char ?
+REMOVE Backspace
+INSERT Char {
+INSERT Char {
+INSERT Char {
+REMOVE Del
+INSERT Char ?
+SHIFT
+MOVE Left
+MOVE End
+MOVE Down
+MOVE Up
+SHIFT
+REMOVE Backspace
+INSERT Enter
+INSERT Char [
+INSERT Char 1
+MOVE Left
+PRINT
+INSERT Enter
+INSERT Enter
+MOVE Left
+INSERT Char [
+REMOVE Del
+FIND ){[
+INSERT Char {
+MOVE Home
+INSERT Enter
+INSERT Char )
+INSERT Char [
+REMOVE Backspace
+REMOVE Backspace
+REMOVE Backspace
+INSERT Char ?
+INSERT Char ?
+INSERT Char 1
+INSERT Char )
+PRINT
+INSERT Space
+COPY
+INSERT Char {
+INSERT Char )
+INSERT Char {
+INSERT Char {
+COPY
+INSERT Char [
+INSERT Char [
+INSERT Char [
+INSERT Char )
+COUNT
+INSERT Space
+INSERT Space
+REMOVE Backspace
+INSERT Enter
+PRINT
+INSERT Enter
+INSERT Char 1
+INSERT Enter
+INSERT Enter
+INSERT Char [
+INSERT Char {
+INSERT Char {
+MOVE Up
+INSERT Char [
+COUNT
+MOVE Home
+REMOVE Backspace
+PRINT
+REMOVE Del
+INSERT Char )
+SHIFT
+MOVE Down
+MOVE Home
+MOVE Up
+MOVE Right
+MOVE Up
+MOVE Right
+MOVE Down
+SHIFT
+REMOVE Backspace
+INSERT Char ?
+MOVE Down
+INSERT Space
+INSERT Char )
+INSERT Char ?
+INSERT Char {
+INSERT Enter
+INSERT Char 1
+INSERT Space
+INSERT Char [
+INSERT Space
+INSERT Enter
+INSERT Enter
+MOVE Down
+REMOVE Del
+INSERT Char )
+MOVE Left
+INSERT Enter
+INSERT Char ?
+FIND )1?
+INSERT Char )
+REMOVE Backspace
+MOVE Down
+INSERT Space
+MOVE Up
+INSERT Char )
+INSERT Char ?
+INSERT Char )
+INSERT Char ?
+SHIFT
+MOVE Up
+MOVE Right
+MOVE Home
+MOVE Right
+MOVE Right
+MOVE Up
+SHIFT
+SHIFT
+MOVE Up
+MOVE Down
+MOVE Left
+MOVE End
+MOVE Right
+SHIFT
+INSERT Char )
+INSERT Enter
+MOVE Left
+REMOVE Del
+INSERT Char [
+REMOVE Backspace
+INSERT Enter
+INSERT Char {
+INSERT Paste
+INSERT Char {
+PRINT
+INSERT Char 1
+INSERT Char {
+INSERT Enter
+INSERT Enter
+INSERT Char [
+INSERT Char [
+COPY
+INSERT Char )
+SHIFT
+MOVE Left
+MOVE Home
+MOVE Left
+MOVE Left
+MOVE End
+MOVE Home
+MOVE Home
+SHIFT
+MOVE Up
+INSERT Char {
+MOVE Home
+REMOVE Backspace
+SHIFT
+MOVE Down
+MOVE Home
+MOVE Left
+MOVE Up
+MOVE Right
+MOVE Right
+MOVE Left
+MOVE Left
+SHIFT
+PRINT
+INSERT Enter
+PRINT
+REMOVE Del
+INSERT Enter
+MOVE Home
+INSERT Space
+COPY
+INSERT Paste
+INSERT Char ?
+INSERT Char {
+INSERT Enter
+REMOVE Del
+MOVE Right
+INSERT Char {
+INSERT Space
+INSERT Char 1
+REMOVE Del
+INSERT Space
+INSERT Char )
+INSERT Char 1
+MOVE Right
+MOVE Right
+SHIFT
+MOVE Right
+MOVE Right
+MOVE Left
+MOVE Down
+MOVE End
+MOVE Down
+SHIFT
+INSERT Char [
+INSERT Char 1
+PRINT
+COPY
+MOVE End
+INSERT Char 1
+INSERT Char ?
+INSERT Space
+INSERT Char )
+INSERT Char {
+PRINT
+MOVE Down
+MOVE Home
+INSERT Char ?
+MOVE Up
+INSERT Char )
+INSERT Char [
+SHIFT
+MOVE End
+MOVE End
+MOVE Up
+MOVE Right
+MOVE Left
+MOVE Down
+MOVE Home
+MOVE End
+SHIFT
+SHIFT
+MOVE Left
+SHIFT
+REMOVE Del
+REMOVE Backspace
+MOVE Right
+INSERT Char [
+SHIFT
+MOVE Right
+MOVE Down
+MOVE Home
+MOVE Home
+SHIFT
+INSERT Char ?
+INSERT Enter
+INSERT Char 1
+PRINT
+INSERT Char [
+INSERT Char [
+MOVE Up
+REMOVE Backspace
+INSERT Space
+INSERT Char {
+SHIFT
+MOVE Left
+MOVE Down
+SHIFT
+FIND ?1[
+COPY
+INSERT Char ?
+INSERT Char 1
+INSERT Char 1
+MOVE Up
+INSERT Char 1
+SHIFT
+MOVE Up
+SHIFT
+INSERT Space
+PRINT
+INSERT Char ?
+INSERT Enter
+REMOVE Del
+INSERT Enter
+MOVE Up
+INSERT Enter
+INSERT Space
+MOVE Left
+REMOVE Del
+INSERT Enter
+INSERT Char {
+MOVE Home
+REMOVE Del
+MOVE Down
+INSERT Char [
+INSERT Char [
+MOVE Home
+INSERT Enter
+REMOVE Del
+REMOVE Backspace
+FIND ?
+INSERT Char {
+INSERT Char ?
+INSERT Char {
+INSERT Enter
+INSERT Char [
+INSERT Char ?
+INSERT Enter
+INSERT Char ?
+INSERT Enter
+INSERT Char {
+PRINT
+MOVE Down
+REMOVE Del
+INSERT Enter
+INSERT Enter
+INSERT Enter
+REMOVE Backspace
+INSERT Enter
+INSERT Char )
+INSERT Char 1
+INSERT Space
+INSERT Char ?
+REMOVE Backspace
+MOVE Left
+INSERT Char [
+MOVE End
+MOVE Home
+INSERT Char {
+INSERT Char ?
+INSERT Char [
+MOVE Home
+MOVE Up
+INSERT Char [
+INSERT Enter
+INSERT Char )
+MOVE Home
+INSERT Char [
+PRINT
+REMOVE Del
+FIND ?{)
+SHIFT
+SHIFT
+INSERT Char {
+INSERT Char 1
+MOVE Home
+INSERT Char ?
+MOVE Right
+REMOVE Del
+INSERT Char )
+INSERT Space
+MOVE Left
+INSERT Enter
+INSERT Enter
+INSERT Enter
+INSERT Char )
+INSERT Char )
+INSERT Char )
+INSERT Char {
+INSERT Char 1
+MOVE Down
+MOVE Home
+PRINT
+PRINT
+INSERT Space
+INSERT Space
+INSERT Enter
+PRINT
+REMOVE Del
+INSERT Paste
+REMOVE Del
+INSERT Enter
+MOVE Up
+INSERT Char ?
+MOVE Right
+REMOVE Backspace
+INSERT Char [
+INSERT Char ?
+INSERT Char ?
+COUNT
+INSERT Char 1
+INSERT Enter
+INSERT Enter
+MOVE Home
+MOVE Home
+INSERT Char ?
+INSERT Space
+INSERT Char [
+SHIFT
+MOVE Home
+MOVE End
+MOVE Down
+MOVE Down
+MOVE End
+MOVE Down
+SHIFT
+MOVE Home
+INSERT Char ?
+INSERT Char [
+MOVE Up
+INSERT Char ?
+MOVE Down
+INSERT Char ?
+INSERT Char [
+INSERT Space
+MOVE End
+INSERT Char ?
+INSERT Space
+INSERT Paste
+MOVE Down
+INSERT Char 1
+REMOVE Del
+INSERT Char )
+PRINT
+INSERT Char ?
+REMOVE Del
+PRINT
+SHIFT
+SHIFT
+INSERT Space
+MOVE Right
+INSERT Char ?
+SHIFT
+MOVE Down
+SHIFT
+INSERT Enter
+INSERT Char 1
+INSERT Char 1
+REMOVE Del
+MOVE End
+INSERT Char [
+MOVE Up
+INSERT Char [
+MOVE Left
+INSERT Char )
+INSERT Char {
+INSERT Char {
+MOVE End
+INSERT Char ?
+INSERT Char )
+INSERT Space
+INSERT Paste
+INSERT Char ?
+INSERT Char 1
+INSERT Char 1
+MOVE Left
+INSERT Char ?
+REMOVE Backspace
+INSERT Enter
+INSERT Char {
+REMOVE Backspace
+REMOVE Del
+REMOVE Backspace
+INSERT Space
+REMOVE Del
+REMOVE Backspace
+MOVE End
+REMOVE Backspace
+INSERT Char {
+MOVE Left
+INSERT Enter
+MOVE Up
+MOVE Up
+SHIFT
+MOVE Home
+SHIFT
+REMOVE Backspace
+INSERT Enter
+INSERT Space
+INSERT Enter
+INSERT Enter
+INSERT Char {
+SHIFT
+MOVE End
+MOVE Left
+MOVE Up
+MOVE Down
+SHIFT
+MOVE Up
+REMOVE Backspace
+INSERT Space
+REMOVE Backspace
+MOVE Home
+MOVE Up
+MOVE Home
+INSERT Char )
+INSERT Enter
+INSERT Enter
+INSERT Char ?
+INSERT Char [
+REMOVE Del
+INSERT Char [
+REMOVE Del
+INSERT Paste
+INSERT Char ?
+INSERT Char {
+REMOVE Del
+INSERT Space
+INSERT Enter
+REMOVE Del
+COPY
+INSERT Enter
+INSERT Char {
+SHIFT
+MOVE Home
+MOVE End
+SHIFT
+REMOVE Backspace
+COPY
+INSERT Char {
+MOVE End
+MOVE Right
+INSERT Char ?
+MOVE Home
+INSERT Char [
+MOVE End
+INSERT Char ?
+INSERT Char )
+REMOVE Del
+MOVE Home
+INSERT Space
+REMOVE Backspace
+MOVE Left
+INSERT Space
+INSERT Char {
+REMOVE Backspace
+INSERT Enter
+FIND [
+SHIFT
+MOVE Left
+MOVE Right
+MOVE Left
+MOVE Down
+MOVE Home
+SHIFT
+INSERT Char [
+INSERT Space
+MOVE Left
+INSERT Char ?
+INSERT Char [
+COUNT
+MOVE Left
+INSERT Char ?
+MOVE Down
+INSERT Char {
+INSERT Enter
+REMOVE Del
+INSERT Char 1
+INSERT Space
+INSERT Enter
+INSERT Enter
+INSERT Enter
+REMOVE Backspace
+INSERT Enter
+INSERT Char )
+INSERT Enter
+REMOVE Backspace
+INSERT Char 1
+INSERT Char [
+MOVE Down
+MOVE End
+INSERT Enter
+INSERT Char ?
+INSERT Char ?
+MOVE Right
+INSERT Enter
+INSERT Char )
+MOVE Down
+INSERT Char {
+INSERT Char [
+MOVE Home
+MOVE Down
+INSERT Enter
+INSERT Char {
+MOVE Up
+MOVE Down
+INSERT Char [
+INSERT Char ?
+MOVE Right
+FIND 11
+INSERT Char )
+MOVE Right
+INSERT Enter
+INSERT Char {
+INSERT Char ?
+REMOVE Del
+SHIFT
+MOVE Left
+MOVE Up
+SHIFT
+MOVE Down
+PRINT
+REMOVE Backspace
+MOVE Right
+INSERT Space
+REMOVE Backspace
+INSERT Char {
+INSERT Char [
+MOVE Home
+INSERT Char ?
+PRINT
+INSERT Enter
+INSERT Char [
+INSERT Space
+REMOVE Del
+COPY
+INSERT Space
+INSERT Char [
+INSERT Char {
+MOVE Home
+INSERT Enter
+INSERT Enter
+PRINT
+INSERT Space
+INSERT Enter
+INSERT Char )
+INSERT Char )
+SHIFT
+SHIFT
+PRINT
+INSERT Char [
+INSERT Char [
+INSERT Char 1
+PRINT
+FIND [1?
+INSERT Enter
+INSERT Space
+INSERT Enter
+INSERT Space
+SHIFT
+MOVE Down
+MOVE End
+MOVE Right
+MOVE Down
+MOVE Up
+MOVE Right
+SHIFT
+PRINT
+INSERT Char {
+MOVE Down
+MOVE Right
+MOVE Down
+REMOVE Backspace
+SHIFT
+MOVE Right
+MOVE Right
+MOVE Left
+MOVE Home
+MOVE End
+MOVE Left
+MOVE Home
+SHIFT
+INSERT Char [
+INSERT Enter
+INSERT Space
+SHIFT
+MOVE Home
+SHIFT
+REMOVE Del
+INSERT Char 1
+INSERT Enter
+SHIFT
+MOVE Right
+SHIFT
+INSERT Enter
+INSERT Enter
+INSERT Enter
+MOVE Down
+MOVE Up
+INSERT Enter
+INSERT Char {
+PRINT
+INSERT Char )
+INSERT Paste
+INSERT Enter
+INSERT Char [
+MOVE Right
+INSERT Enter
+MOVE Left
+INSERT Char [
+MOVE End
+SHIFT
+MOVE Left
+MOVE Right
+MOVE Left
+MOVE Home
+MOVE Down
+MOVE Right
+MOVE Down
+MOVE Home
+SHIFT
+REMOVE Del
+MOVE Home
+COPY
+REMOVE Backspace
+INSERT Enter
+REMOVE Backspace
+REMOVE Del
+INSERT Enter
+REMOVE Backspace
+MOVE Home
+INSERT Enter
+INSERT Char ?
+FIND ?1
+INSERT Space
+MOVE Home
+REMOVE Del
+INSERT Char [
+INSERT Char 1
+INSERT Char [
+REMOVE Backspace
+FIND {{
+SHIFT
+MOVE Right
+MOVE Home
+MOVE Right
+SHIFT
+COUNT
+REMOVE Del
+INSERT Char )
+REMOVE Del
+INSERT Char ?
+INSERT Space
+INSERT Space
+INSERT Space
+INSERT Char 1
+INSERT Char )
+REMOVE Del
+INSERT Enter
+INSERT Enter
+MOVE Home
+INSERT Char 1
+SHIFT
+MOVE Down
+MOVE Right
+MOVE Home
+MOVE Right
+MOVE Home
+SHIFT
+REMOVE Backspace
+INSERT Char 1
+INSERT Enter
+INSERT Char [
+INSERT Enter
+INSERT Char ?
+INSERT Char [
+SHIFT
+MOVE Right
+MOVE Up
+MOVE Down
+MOVE Down
+MOVE Down
+SHIFT
+INSERT Enter
+INSERT Char )
+INSERT Space
+INSERT Char {
+INSERT Enter
+FIND ?
+INSERT Enter
+REMOVE Backspace
+MOVE End
+INSERT Space
+REMOVE Backspace
+INSERT Char ?
+INSERT Enter
+SHIFT
+MOVE Right
+MOVE Left
+MOVE End
+MOVE Left
+MOVE End
+MOVE Up
+MOVE End
+SHIFT
+INSERT Char 1
+INSERT Enter
+INSERT Char [
+INSERT Enter
+INSERT Char {
+INSERT Space
+INSERT Char )
+MOVE Down
+REMOVE Backspace
+INSERT Char 1
+SHIFT
+MOVE Left
+MOVE Right
+MOVE Home
+SHIFT
+INSERT Char 1
+COPY
+INSERT Char {
+SHIFT
+MOVE Left
+MOVE Home
+SHIFT
+SHIFT
+MOVE Left
+MOVE Right
+MOVE Right
+MOVE Up
+MOVE Right
+MOVE End
+SHIFT
+PRINT
+INSERT Enter
+INSERT Char [
+REMOVE Backspace
+INSERT Char [
+SHIFT
+MOVE Home
+MOVE Home
+MOVE Up
+MOVE Left
+SHIFT
+INSERT Char [
+MOVE Home
+INSERT Char {
+INSERT Char {
+MOVE Left
+MOVE Up
+INSERT Char ?
+SHIFT
+MOVE Home
+MOVE Down
+MOVE Left
+MOVE Home
+MOVE Left
+MOVE Right
+MOVE Down
+MOVE Down
+SHIFT
+MOVE Down
+REMOVE Del
+INSERT Space
+INSERT Char 1
+INSERT Char )
+INSERT Enter
+SHIFT
+MOVE Left
+MOVE Home
+MOVE Right
+MOVE Right
+MOVE End
+SHIFT
+REMOVE Backspace
+MOVE End
+INSERT Char {
+MOVE Home
+INSERT Enter
+FIND {
+REMOVE Del
+INSERT Enter
+INSERT Space
+INSERT Enter
+INSERT Char {
+REMOVE Del
+MOVE Down
+INSERT Space
+INSERT Char )
+INSERT Enter
+INSERT Paste
+INSERT Char [
+INSERT Char 1
+INSERT Space
+REMOVE Del
+INSERT Char {
+MOVE Down
+MOVE Home
+INSERT Char )
+MOVE Home
+INSERT Char 1
+INSERT Char 1
+INSERT Char 1
+REMOVE Backspace
+INSERT Char 1
+PRINT
+INSERT Enter
+INSERT Char [
+INSERT Enter
+INSERT Char ?
+INSERT Char {
+MOVE Left
+INSERT Char 1
+INSERT Char {
+INSERT Char [
+MOVE Up
+INSERT Char )
+INSERT Enter
+SHIFT
+MOVE Left
+MOVE Right
+MOVE End
+MOVE Up
+MOVE Down
+SHIFT
+MOVE Down
+INSERT Char ?
+REMOVE Del
+INSERT Char {
+COUNT
+PRINT
+INSERT Enter
+MOVE Down
+COPY
+INSERT Enter
+REMOVE Backspace
+INSERT Char ?
+PRINT
+INSERT Char {
+REMOVE Backspace
+INSERT Enter
+MOVE Left
+INSERT Space
+INSERT Char )
+REMOVE Backspace
+INSERT Char {
+MOVE Up
+INSERT Space
+INSERT Enter
+INSERT Char [
+INSERT Enter
+PRINT
+INSERT Char [
+INSERT Char [
+INSERT Char )
+MOVE Up
+INSERT Char {
+INSERT Char [
+INSERT Char 1
+SHIFT
+MOVE Up
+MOVE Down
+MOVE Right
+MOVE Right
+MOVE Home
+MOVE Right
+SHIFT
+INSERT Space
+MOVE Down
+INSERT Enter
+INSERT Char ?
+REMOVE Del
+MOVE Right
+COUNT
+INSERT Enter
+INSERT Enter
+COUNT
+REMOVE Backspace
+INSERT Enter
+INSERT Enter
+INSERT Char [
+INSERT Char [
+INSERT Char {
+MOVE Down
+REMOVE Backspace
+INSERT Char 1
+MOVE Right
+SHIFT
+SHIFT
+INSERT Space
+REMOVE Backspace
+INSERT Char 1
+INSERT Enter
+INSERT Enter
+INSERT Char ?
+INSERT Char 1
+INSERT Char )
+INSERT Space
+INSERT Char [
+INSERT Char {
+SHIFT
+MOVE Home
+SHIFT
+REMOVE Backspace
+MOVE Up
+INSERT Char )
+INSERT Char ?
+MOVE Left
+INSERT Enter
+INSERT Char [
+COPY
+INSERT Char [
+INSERT Char 1
+MOVE Up
+INSERT Paste
+INSERT Space
+INSERT Enter
+INSERT Char ?
+REMOVE Del
+INSERT Space
+INSERT Char ?
+INSERT Space
+INSERT Enter
+REMOVE Backspace
+INSERT Space
+REMOVE Del
+INSERT Space
+SHIFT
+MOVE Home
+MOVE Left
+MOVE Left
+MOVE Left
+MOVE Down
+MOVE Up
+SHIFT
+MOVE Up
+INSERT Enter
+INSERT Enter
+INSERT Char [
+INSERT Space
+MOVE Left
+MOVE Right
+INSERT Char ?
+INSERT Char ?
+COPY
+INSERT Space
+MOVE End
+REMOVE Backspace
+SHIFT
+MOVE Up
+MOVE Up
+SHIFT
+INSERT Char 1
+PRINT
+INSERT Char 1
+MOVE Left
+INSERT Paste
+MOVE Up
+INSERT Enter
+REMOVE Del
+INSERT Char ?
+MOVE Right
+INSERT Char )
+SHIFT
+MOVE Left
+SHIFT
+INSERT Enter
+INSERT Char [
+INSERT Enter
+SHIFT
+SHIFT
+SHIFT
+MOVE Home
+MOVE End
+MOVE End
+MOVE Home
+MOVE Right
+MOVE End
+MOVE End
+MOVE Left
+SHIFT
+MOVE Right
+INSERT Char [
+INSERT Char 1
+INSERT Char ?
+INSERT Char ?
+MOVE Left
+INSERT Paste
+MOVE Down
+INSERT Enter
+SHIFT
+MOVE Up
+MOVE Right
+MOVE Down
+MOVE Left
+MOVE Left
+MOVE Down
+MOVE Down
+MOVE Down
+SHIFT
+INSERT Char 1
+MOVE Down
+SHIFT
+SHIFT
+INSERT Char )
+REMOVE Backspace
+INSERT Char [
+MOVE Right
+INSERT Enter
+REMOVE Backspace
+INSERT Enter
+INSERT Enter
+INSERT Char ?
+MOVE End
+INSERT Enter
+MOVE Down
+INSERT Enter
+INSERT Char [
+INSERT Enter
+REMOVE Del
+PRINT
+INSERT Char )
+INSERT Char {
+INSERT Char {
+REMOVE Del
+MOVE Up
+INSERT Char ?
+INSERT Char {
+INSERT Space
+MOVE Up
+INSERT Char {
+MOVE Down
+REMOVE Backspace
+INSERT Char [
+INSERT Char 1
+INSERT Enter
+INSERT Char ?
+MOVE Left
+INSERT Char )
+INSERT Enter
+MOVE Home
+MOVE Down
+INSERT Char ?
+INSERT Char [
+INSERT Char ?
+INSERT Char 1
+REMOVE Backspace
+INSERT Char {
+INSERT Enter
+INSERT Char {
+INSERT Space
+COUNT
+INSERT Char [
+INSERT Enter
+INSERT Char ?
+INSERT Char {
+INSERT Enter
+INSERT Char )
+INSERT Char {
+SHIFT
+MOVE Home
+MOVE Up
+MOVE End
+MOVE End
+MOVE End
+MOVE Home
+MOVE Left
+MOVE Up
+SHIFT
+INSERT Char 1
+INSERT Space
+INSERT Enter
+INSERT Char )
+MOVE End
+REMOVE Del
+MOVE Left
+INSERT Space
+SHIFT
+MOVE Right
+MOVE Left
+MOVE Right
+MOVE Home
+MOVE Home
+SHIFT
+INSERT Char 1
+REMOVE Del
+MOVE Left
+INSERT Char [
+INSERT Char {
+REMOVE Del
+INSERT Enter
+COUNT
+PRINT
+INSERT Enter
+INSERT Space
+REMOVE Del
+MOVE Down
+INSERT Paste
+COPY
+INSERT Char 1
+REMOVE Backspace
+REMOVE Del
+INSERT Char ?
+MOVE End
+FIND )
+INSERT Char ?
+INSERT Char 1
+REMOVE Backspace
+REMOVE Del
+INSERT Space
+INSERT Enter
+COUNT
+INSERT Enter
+SHIFT
+MOVE Down
+MOVE Right
+SHIFT
+INSERT Space
+MOVE Down
+MOVE Left
+MOVE End
+INSERT Char )
+REMOVE Backspace
+INSERT Char [
+REMOVE Del
+MOVE Home
+INSERT Enter
+INSERT Char {
+REMOVE Del
+INSERT Char ?
+REMOVE Backspace
+MOVE Left
+COPY
+INSERT Space
+MOVE Left
+REMOVE Backspace
+INSERT Char [
+REMOVE Backspace
+MOVE Right
+INSERT Char 1
+SHIFT
+MOVE Left
+SHIFT
+COUNT
+SHIFT
+MOVE Up
+MOVE Down
+MOVE Right
+MOVE Down
+MOVE End
+MOVE Left
+MOVE Left
+SHIFT
+INSERT Char [
+INSERT Char [
+MOVE Up
+INSERT Space
+INSERT Enter
+INSERT Char ?
+MOVE Right
+INSERT Char {
+MOVE Up
+MOVE Right
+SHIFT
+MOVE End
+MOVE End
+MOVE Right
+MOVE Right
+MOVE Right
+MOVE Left
+MOVE Down
+SHIFT
+MOVE Home
+INSERT Paste
+INSERT Space
+COPY
+MOVE Up
+INSERT Char )
+MOVE Down
+INSERT Enter
+MOVE Right
+FIND 1
+MOVE Right
+INSERT Char )
+INSERT Char 1
+INSERT Char )
+INSERT Char [
+MOVE Home
+INSERT Char [
+INSERT Char ?
+INSERT Char [
+INSERT Enter
+INSERT Char 1
+INSERT Char )
+INSERT Char )
+SHIFT
+MOVE Up
+MOVE Up
+SHIFT
+INSERT Enter
+INSERT Char {
+INSERT Space
+INSERT Space
+MOVE Up
+INSERT Char )
+MOVE Home
+REMOVE Del
+SHIFT
+MOVE Home
+MOVE Right
+MOVE End
+SHIFT
+INSERT Paste
+INSERT Char [
+INSERT Char ?
+INSERT Char [
+INSERT Space
+INSERT Enter
+SHIFT
+MOVE Right
+SHIFT
+INSERT Paste
+MOVE Down
+INSERT Enter
+INSERT Space
+REMOVE Backspace
+INSERT Char [
+SHIFT
+MOVE Right
+MOVE Right
+MOVE Home
+MOVE Home
+MOVE Right
+MOVE Right
+MOVE Left
+SHIFT
+INSERT Char )
+REMOVE Backspace
+MOVE Right
+MOVE Down
+INSERT Char ?
+INSERT Char [
+MOVE Up
+MOVE Home
+INSERT Enter
+INSERT Char [
+INSERT Char ?
+INSERT Char {
+INSERT Enter
+INSERT Enter
+INSERT Char )
+INSERT Enter
+INSERT Char )
+INSERT Space
+REMOVE Backspace
+INSERT Char {
+INSERT Char [
+INSERT Enter
+INSERT Char )
+SHIFT
+MOVE Right
+MOVE Left
+MOVE Right
+SHIFT
+PRINT
+INSERT Enter
+INSERT Space
+REMOVE Del
+INSERT Char [
+INSERT Space
+REMOVE Del
+INSERT Enter
+MOVE Up
+INSERT Space
+INSERT Char )
+INSERT Paste
+PRINT
+INSERT Char {
+INSERT Enter
+REMOVE Del
+INSERT Enter
+INSERT Char [
+INSERT Enter
+PRINT
+INSERT Char ?
+MOVE Left
+INSERT Char {
+INSERT Char ?
+MOVE Down
+INSERT Enter
+MOVE Down
+MOVE Home
+INSERT Space
+MOVE Home
+INSERT Char {
+INSERT Char 1
+INSERT Char [
+MOVE Down
+INSERT Enter
+INSERT Char ?
+REMOVE Backspace
+INSERT Char [
+MOVE Right
+INSERT Char ?
+MOVE Right
+INSERT Char ?
+PRINT
+SHIFT
+SHIFT
+MOVE End
+INSERT Char {
+REMOVE Del
+INSERT Enter
+MOVE Up
+INSERT Space
+SHIFT
+MOVE Down
+MOVE Right
+MOVE End
+MOVE End
+MOVE Down
+MOVE Down
+MOVE Left
+MOVE End
+SHIFT
+INSERT Char )
+SHIFT
+MOVE Left
+MOVE Home
+SHIFT
+SHIFT
+MOVE Left
+MOVE Home
+SHIFT
+INSERT Char )
+INSERT Char 1
+MOVE Up
+INSERT Enter
+INSERT Enter
+MOVE Up
+PRINT
+REMOVE Del
+INSERT Char )
+MOVE Right
+MOVE Right
+INSERT Char ?
+FIND ?
+INSERT Enter
+INSERT Char 1
+MOVE Left
+INSERT Char ?
+SHIFT
+MOVE Down
+MOVE Down
+MOVE Down
+MOVE Left
+SHIFT
+MOVE Up
+INSERT Space
+INSERT Char ?
+REMOVE Backspace
+INSERT Char )
+INSERT Paste
+INSERT Char )
+INSERT Char {
+REMOVE Del
+INSERT Enter
+INSERT Enter
+INSERT Space
+REMOVE Backspace
+MOVE Left
+MOVE Up
+MOVE Left
+MOVE Up
+MOVE Right
+REMOVE Del
+INSERT Enter
+INSERT Char )
+INSERT Char {
+INSERT Char ?
+INSERT Space
+MOVE Right
+REMOVE Del
+INSERT Space
+INSERT Char )
+REMOVE Backspace
+MOVE Down
+SHIFT
+MOVE Home
+MOVE Left
+MOVE Home
+MOVE Up
+MOVE Home
+MOVE Up
+MOVE Right
+MOVE Up
+SHIFT
+INSERT Char 1
+INSERT Char {
+REMOVE Backspace
+INSERT Char 1
+REMOVE Backspace
+REMOVE Backspace
+INSERT Space
+MOVE Right
+MOVE Left
+INSERT Char )
+INSERT Char ?
+INSERT Char [
+INSERT Char [
+INSERT Char [
+INSERT Char )
+MOVE Right
+PRINT
+SHIFT
+MOVE Home
+MOVE Up
+MOVE Home
+MOVE Left
+MOVE Up
+MOVE Home
+MOVE Up
+SHIFT
+SHIFT
+MOVE End
+MOVE Right
+SHIFT
+INSERT Char 1
+SHIFT
+MOVE Up
+MOVE Up
+MOVE Right
+MOVE Right
+MOVE Home
+MOVE Down
+SHIFT
+MOVE Left
+MOVE End
+REMOVE Del
+SHIFT
+SHIFT
+REMOVE Backspace
+INSERT Char 1
+MOVE Left
+INSERT Char {
+INSERT Char ?
+INSERT Char [
+INSERT Char ?
+REMOVE Backspace
+INSERT Char {
+REMOVE Backspace
+INSERT Char {
+INSERT Char )
+INSERT Char ?
+INSERT Char ?
+SHIFT
+MOVE End
+MOVE Right
+MOVE Up
+MOVE Home
+SHIFT
+MOVE Right
+REMOVE Del
+SHIFT
+MOVE Up
+MOVE Down
+MOVE Down
+SHIFT
+INSERT Char [
+INSERT Char {
+SHIFT
+MOVE Up
+SHIFT
+INSERT Char 1
+FIND {{
+REMOVE Backspace
+MOVE Home
+INSERT Enter
+SHIFT
+SHIFT
+INSERT Char {
+INSERT Char {
+INSERT Space
+MOVE Down
+INSERT Char 1
+INSERT Char 1
+MOVE Down
+INSERT Char {
+INSERT Enter
+COPY
+INSERT Enter
+INSERT Char {
+MOVE Left
+INSERT Char [
+INSERT Enter
+MOVE Down
+MOVE Right
+MOVE Down
+INSERT Enter
+INSERT Char ?
+MOVE Down
+INSERT Char {
+MOVE Up
+MOVE Up
+INSERT Char ?
+REMOVE Del
+INSERT Enter
+MOVE Home
+INSERT Char {
+SHIFT
+MOVE Down
+SHIFT
+PRINT
+INSERT Space
+INSERT Char {
+INSERT Char )
+INSERT Char {
+MOVE Left
+REMOVE Del
+REMOVE Backspace
+MOVE Up
+INSERT Enter
+MOVE Down
+INSERT Char 1
+INSERT Char {
+INSERT Char [
+REMOVE Del
+INSERT Space
+INSERT Char 1
+MOVE Left
+INSERT Char )
+INSERT Enter
+MOVE Left
+INSERT Enter
+SHIFT
+MOVE Left
+MOVE Up
+MOVE Right
+MOVE Home
+MOVE End
+MOVE Down
+SHIFT
+REMOVE Del
+INSERT Char 1
+INSERT Enter
+MOVE Left
+MOVE Up
+INSERT Enter
+COPY
+INSERT Char 1
+INSERT Char ?
+INSERT Char {
+REMOVE Del
+SHIFT
+MOVE Home
+MOVE Down
+MOVE End
+MOVE Left
+MOVE Home
+MOVE Left
+SHIFT
+INSERT Char [
+INSERT Char )
+INSERT Char [
+SHIFT
+MOVE Right
+MOVE Left
+MOVE Down
+SHIFT
+INSERT Enter
+MOVE Right
+INSERT Enter
+INSERT Enter
+INSERT Enter
+INSERT Enter
+MOVE Left
+INSERT Char {
+INSERT Char ?
+MOVE Right
+REMOVE Del
+INSERT Char )
+INSERT Space
+INSERT Char )
+INSERT Enter
+INSERT Char )
+MOVE Left
+COPY
+INSERT Char 1
+INSERT Enter
+MOVE Left
+REMOVE Del
+INSERT Char {
+INSERT Paste
+REMOVE Del
+REMOVE Del
+REMOVE Del
+INSERT Space
+INSERT Char {
+MOVE Down
+INSERT Char [
+INSERT Char )
+INSERT Space
+INSERT Char )
+INSERT Char ?
+INSERT Enter
+INSERT Char )
+REMOVE Del
+PRINT
+INSERT Char 1
+INSERT Char 1
+INSERT Paste
+MOVE Left
+INSERT Enter
+MOVE Home
+INSERT Char {
+INSERT Char 1
+INSERT Char {
+PRINT
+INSERT Char 1
+MOVE Left
+INSERT Char [
+REMOVE Del
+SHIFT
+SHIFT
+INSERT Char ?
+INSERT Space
+INSERT Char 1
+MOVE Down
+REMOVE Del
+REMOVE Del
+REMOVE Backspace
+INSERT Space
+MOVE Down
+INSERT Char ?
+INSERT Space
+INSERT Char ?
+COUNT
+INSERT Char )
+MOVE Down
+PRINT
+INSERT Space
+INSERT Char [
+MOVE Home
+MOVE Home
+INSERT Char [
+INSERT Char [
+PRINT
+MOVE Down
+INSERT Char {
+INSERT Enter
+INSERT Space
+INSERT Char 1
+SHIFT
+MOVE Home
+MOVE Down
+MOVE Right
+MOVE Down
+MOVE Down
+SHIFT
+MOVE Home
+INSERT Char 1
+INSERT Char )
+REMOVE Backspace
+INSERT Enter
+INSERT Enter
+INSERT Enter
+SHIFT
+MOVE Right
+MOVE End
+MOVE Home
+MOVE Home
+MOVE Down
+MOVE Up
+SHIFT
+MOVE Up
+INSERT Enter
+INSERT Char 1
+INSERT Char [
+MOVE Down
+INSERT Space
+INSERT Space
+SHIFT
+MOVE Up
+MOVE Down
+MOVE End
+MOVE Right
+MOVE Home
+MOVE Right
+MOVE Down
+MOVE Up
+SHIFT
+INSERT Space
+INSERT Char ?
+INSERT Char )
+REMOVE Del
+MOVE Up
+INSERT Char )
+PRINT
+INSERT Char 1
+INSERT Char )
+MOVE Left
+SHIFT
+MOVE Up
+MOVE Home
+MOVE Right
+SHIFT
+INSERT Char 1
+INSERT Char 1
+INSERT Char {
+INSERT Char {
+PRINT
+MOVE Right
+INSERT Space
+INSERT Char {
+REMOVE Del
+INSERT Space
+MOVE Down
+INSERT Enter
+SHIFT
+MOVE End
+MOVE Up
+MOVE Left
+SHIFT
+MOVE Left
+REMOVE Del
+SHIFT
+MOVE Up
+MOVE Up
+MOVE End
+MOVE End
+MOVE Left
+MOVE Left
+SHIFT
+INSERT Space
+REMOVE Del
+SHIFT
+MOVE Down
+MOVE Home
+SHIFT
+INSERT Char )
+INSERT Char [
+INSERT Enter
+COUNT
+INSERT Char {
+INSERT Char {
+MOVE Home
+SHIFT
+MOVE End
+MOVE Down
+SHIFT
+INSERT Char [
+MOVE Right
+MOVE End
+INSERT Char )
+MOVE Right
+INSERT Char ?
+INSERT Char 1
+INSERT Char )
+REMOVE Backspace
+INSERT Char ?
+MOVE Home
+INSERT Char 1
+INSERT Char {
+INSERT Enter
+REMOVE Backspace
+REMOVE Backspace
+INSERT Char )
+PRINT
+MOVE Right
+INSERT Char )
+COUNT
+INSERT Char )
+INSERT Enter
+INSERT Char {
+INSERT Char {
+INSERT Char [
+MOVE Up
+INSERT Enter
+SHIFT
+SHIFT
+INSERT Char ?
+REMOVE Del
+INSERT Space
+SHIFT
+MOVE Down
+MOVE Up
+MOVE Down
+MOVE End
+SHIFT
+INSERT Char {
+PRINT
+MOVE Left
+MOVE Home
+MOVE Up
+INSERT Char )
+MOVE Right
+INSERT Char )
+MOVE Left
+INSERT Enter
+MOVE Right
+INSERT Space
+INSERT Char ?
+INSERT Char 1
+INSERT Char {
+MOVE Left
+INSERT Char [
+INSERT Space
+INSERT Enter
+INSERT Space
+PRINT
+COPY
+INSERT Char 1
+INSERT Char 1
+INSERT Char [
+INSERT Char {
+MOVE Right
+INSERT Char )
+MOVE End
+REMOVE Del
+INSERT Enter
+INSERT Char [
+SHIFT
+MOVE Right
+MOVE Right
+MOVE Up
+SHIFT
+MOVE Up
+REMOVE Del
+INSERT Char 1
+INSERT Char [
+MOVE Right
+INSERT Space
+INSERT Enter
+MOVE Up
+COPY
+INSERT Enter
+INSERT Char [
+INSERT Char [
+INSERT Char ?
+MOVE Up
+INSERT Char )
+PRINT
+INSERT Enter
+MOVE Left
+SHIFT
+MOVE Home
+MOVE Home
+SHIFT
+FIND )
+MOVE End
+INSERT Enter
+REMOVE Del
+INSERT Char [
+REMOVE Del
+MOVE Up
+INSERT Char 1
+INSERT Char )
+REMOVE Backspace
+MOVE Home
+MOVE End
+INSERT Enter
+COPY
+INSERT Enter
+MOVE End
+INSERT Space
+INSERT Enter
+INSERT Enter
+MOVE End
+PRINT
+INSERT Char )
+INSERT Char [
+INSERT Char {
+INSERT Enter
+INSERT Char {
+MOVE End
+MOVE Home
+INSERT Char [
+INSERT Char )
+INSERT Char [
+INSERT Char 1
+REMOVE Backspace
+INSERT Enter
+REMOVE Backspace
+INSERT Char {
+MOVE Down
+INSERT Char [
+INSERT Char {
+INSERT Char 1
+INSERT Char 1
+INSERT Enter
+PRINT
+MOVE Left
+REMOVE Backspace
+COPY
+REMOVE Backspace
+INSERT Char {
+REMOVE Del
+MOVE Down
+INSERT Char ?
+REMOVE Del
+INSERT Enter
+INSERT Char [
+MOVE Left
+INSERT Char ?
+INSERT Char ?
+INSERT Char [
+FIND {1
+REMOVE Backspace
+INSERT Enter
+MOVE Down
+INSERT Space
+INSERT Enter
+INSERT Char 1
+INSERT Char 1
+SHIFT
+MOVE Up
+SHIFT
+MOVE Home
+REMOVE Backspace
+COUNT
+INSERT Space
+INSERT Space
+INSERT Space
+INSERT Char {
+INSERT Enter
+SHIFT
+MOVE Left
+MOVE Up
+MOVE Right
+MOVE Down
+MOVE End
+SHIFT
+PRINT
+SHIFT
+MOVE Home
+MOVE Left
+MOVE Left
+SHIFT
+SHIFT
+MOVE Down
+MOVE Right
+SHIFT
+INSERT Char ?
+INSERT Char 1
+REMOVE Del
+INSERT Char ?
+INSERT Char )
+INSERT Char [
+REMOVE Del
+INSERT Char [
+FIND ?)
+INSERT Char 1
+INSERT Char ?
+INSERT Enter
+INSERT Char {
+INSERT Enter
+MOVE End
+COPY
+MOVE Home
+INSERT Char 1
+REMOVE Backspace
+MOVE End
+INSERT Char 1
+REMOVE Del
+INSERT Char [
+INSERT Char )
+INSERT Enter
+SHIFT
+MOVE Down
+MOVE Down
+MOVE Down
+MOVE Left
+MOVE Left
+MOVE Up
+MOVE Right
+SHIFT
+INSERT Char )
+INSERT Enter
+INSERT Enter
+INSERT Enter
+INSERT Paste
+INSERT Char )
+INSERT Char [
+MOVE End
+INSERT Char {
+INSERT Char 1
+SHIFT
+MOVE Right
+MOVE End
+MOVE Left
+MOVE Right
+MOVE Right
+MOVE Home
+MOVE Home
+MOVE End
+SHIFT
+MOVE End
+INSERT Char ?
+INSERT Char ?
+REMOVE Del
+COPY
+COPY
+SHIFT
+MOVE Home
+MOVE Up
+SHIFT
+INSERT Space
+INSERT Char ?
+INSERT Char )
+MOVE Left
+REMOVE Del
+SHIFT
+MOVE Up
+MOVE Right
+MOVE Left
+MOVE End
+MOVE Left
+MOVE Down
+SHIFT
+SHIFT
+MOVE Down
+MOVE End
+MOVE Home
+MOVE Home
+MOVE Right
+MOVE Left
+SHIFT
+INSERT Char {
+SHIFT
+MOVE Up
+SHIFT
+INSERT Char )
+INSERT Char [
+INSERT Char ?
+INSERT Char [
+MOVE Left
+INSERT Enter
+REMOVE Backspace
+MOVE Home
+MOVE End
+INSERT Char [
+FIND ?1)
+MOVE Home
+INSERT Char [
+INSERT Enter
+INSERT Char ?
+REMOVE Del
+INSERT Paste
+MOVE Right
+INSERT Char [
+MOVE Home
+INSERT Char [
+FIND {?
+INSERT Enter
+PRINT
+REMOVE Del
+INSERT Char [
+INSERT Char )
+INSERT Char ?
+INSERT Enter
+MOVE Right
+INSERT Enter
+INSERT Char 1
+SHIFT
+MOVE Home
+MOVE Right
+MOVE Up
+MOVE Down
+SHIFT
+MOVE Up
+REMOVE Del
+INSERT Paste
+MOVE End
+MOVE Right
+MOVE Down
+INSERT Enter
+SHIFT
+SHIFT
+REMOVE Backspace
+INSERT Paste
+PRINT
+INSERT Char )
+REMOVE Backspace
+INSERT Char ?
+MOVE Up
+MOVE Left
+MOVE Down
+COUNT
+INSERT Char [
+INSERT Enter
+REMOVE Del
+INSERT Char {
+COUNT
+SHIFT
+MOVE End
+MOVE Right
+MOVE Up
+MOVE Home
+MOVE Home
+SHIFT
+INSERT Char )
+INSERT Enter
+INSERT Char ?
+INSERT Char {
+MOVE Up
+INSERT Char ?
+INSERT Char )
+MOVE Down
+INSERT Char )
+REMOVE Del
+PRINT
+INSERT Char [
+SHIFT
+MOVE End
+SHIFT
+MOVE Left
+INSERT Space
+MOVE End
+MOVE Up
+INSERT Char )
+INSERT Enter
+INSERT Char {
+INSERT Char {
+INSERT Space
+REMOVE Del
+MOVE Right
+INSERT Char 1
+INSERT Char {
+INSERT Char )
+MOVE Home
+SHIFT
+MOVE End
+MOVE End
+MOVE Home
+MOVE End
+SHIFT
+REMOVE Backspace
+PRINT
+INSERT Char 1
+REMOVE Backspace
+INSERT Char 1
+PRINT
+INSERT Enter
+REMOVE Backspace
+FIND [[{
+INSERT Char )
+COPY
+MOVE Right
+SHIFT
+MOVE Up
+MOVE Down
+MOVE Right
+MOVE Down
+MOVE Up
+MOVE Left
+MOVE Right
+MOVE Right
+SHIFT
+INSERT Char ?
+SHIFT
+MOVE Up
+MOVE Right
+MOVE End
+MOVE Down
+MOVE End
+MOVE Down
+MOVE Right
+SHIFT
+SHIFT
+MOVE End
+MOVE Home
+SHIFT
+MOVE Home
+INSERT Enter
+REMOVE Backspace
+INSERT Char ?
+INSERT Enter
+REMOVE Del
+REMOVE Del
+INSERT Space
+INSERT Enter
+MOVE Up
+REMOVE Backspace
+INSERT Enter
+MOVE Down
+INSERT Char {
+REMOVE Del
+MOVE Right
+MOVE Right
+REMOVE Backspace
+MOVE Down
+INSERT Enter
+REMOVE Del
+INSERT Enter
+INSERT Char ?
+INSERT Char {
+REMOVE Del
+INSERT Char ?
+INSERT Char ?
+INSERT Char {
+MOVE Left
+INSERT Char {
+INSERT Paste
+INSERT Char )
+INSERT Enter
+INSERT Char 1
+REMOVE Del
+MOVE Left
+INSERT Char 1
+REMOVE Backspace
+INSERT Char 1
+INSERT Char )
+INSERT Char {
+INSERT Space
+INSERT Char ?
+MOVE Up
+MOVE End
+INSERT Char {
+REMOVE Del
+INSERT Char [
+SHIFT
+MOVE Left
+MOVE Right
+MOVE Left
+MOVE Right
+MOVE Up
+MOVE Left
+MOVE Left
+MOVE Home
+SHIFT
+INSERT Char [
+INSERT Paste
+MOVE Left
+INSERT Enter
+MOVE Home
+SHIFT
+MOVE Home
+MOVE Right
+MOVE Down
+SHIFT
+INSERT Char )
+INSERT Space
+SHIFT
+MOVE End
+MOVE Down
+MOVE Left
+MOVE Up
+MOVE Up
+SHIFT
+SHIFT
+MOVE Down
+MOVE Left
+MOVE Down
+MOVE Left
+MOVE Up
+MOVE Up
+MOVE End
+MOVE Up
+SHIFT
+INSERT Char ?
+INSERT Char ?
+INSERT Space
+REMOVE Del
+INSERT Char ?
+INSERT Space
+REMOVE Del
+INSERT Enter
+MOVE Left
+INSERT Char ?
+SHIFT
+MOVE Home
+MOVE End
+MOVE Home
+SHIFT
+MOVE End
+INSERT Char 1
+MOVE Up
+MOVE Down
+INSERT Char )
+INSERT Enter
+MOVE End
+INSERT Char [
+MOVE Right
+INSERT Char ?
+INSERT Space
+INSERT Enter
+INSERT Enter
+INSERT Space
+INSERT Char {
+INSERT Char [
+INSERT Char 1
+MOVE Up
+INSERT Space
+INSERT Char )
+INSERT Char ?
+INSERT Enter
+INSERT Space
+INSERT Char {
+INSERT Char 1
+INSERT Char ?
+INSERT Enter
+MOVE End
+INSERT Char [
+REMOVE Del
+INSERT Char 1
+INSERT Char [
+INSERT Char )
+INSERT Paste
+INSERT Char )
+INSERT Char 1
+REMOVE Backspace
+INSERT Char 1
+MOVE Up
+INSERT Char {
+INSERT Char ?
+MOVE Home
+REMOVE Del
+INSERT Char )
+INSERT Char [
+INSERT Char [
+INSERT Char )
+SHIFT
+SHIFT
+INSERT Space
+MOVE Right
+INSERT Enter
+INSERT Char [
+INSERT Char {
+INSERT Char [
+INSERT Enter
+INSERT Char {
+INSERT Enter
+INSERT Char ?
+REMOVE Backspace
+INSERT Char [
+MOVE Right
+INSERT Char {
+SHIFT
+MOVE Down
+MOVE Up
+MOVE Up
+MOVE Right
+MOVE Left
+SHIFT
+INSERT Enter
+INSERT Space
+SHIFT
+MOVE Right
+MOVE Right
+MOVE Home
+MOVE Down
+MOVE Left
+SHIFT
+INSERT Space
+INSERT Char {
+REMOVE Backspace
+INSERT Enter
+REMOVE Backspace
+INSERT Space
+MOVE Up
+INSERT Char [
+REMOVE Backspace
+INSERT Char 1
+INSERT Space
+INSERT Char 1
+INSERT Char {
+INSERT Char 1
+INSERT Char )
+SHIFT
+MOVE Up
+MOVE Left
+MOVE Left
+MOVE Right
+MOVE Up
+MOVE Left
+MOVE Home
+SHIFT
+INSERT Char )
+INSERT Enter
+INSERT Char [
+MOVE Right
+INSERT Enter
+FIND {
+INSERT Paste
+REMOVE Backspace
+INSERT Char [
+INSERT Enter
+INSERT Char [
+INSERT Char ?
+INSERT Char {
+MOVE Down
+REMOVE Backspace
+INSERT Char [
+REMOVE Backspace
+SHIFT
+MOVE Home
+SHIFT
+INSERT Char 1
+PRINT
+COPY
+INSERT Char {
+REMOVE Del
+MOVE Left
+COUNT
+SHIFT
+MOVE Right
+MOVE Up
+MOVE Home
+MOVE Up
+MOVE Home
+SHIFT
+REMOVE Backspace
+SHIFT
+MOVE Up
+MOVE End
+MOVE Left
+MOVE Left
+SHIFT
+REMOVE Backspace
+INSERT Enter
+INSERT Space
+REMOVE Del
+INSERT Char )
+REMOVE Del
+INSERT Char ?
+INSERT Enter
+MOVE Right
+MOVE End
+INSERT Enter
+MOVE Home
+MOVE Left
+INSERT Space
+REMOVE Backspace
+INSERT Char 1
+INSERT Char {
+MOVE Down
+INSERT Char ?
+PRINT
+INSERT Char 1
+MOVE Up
+INSERT Char 1
+COUNT
+INSERT Enter
+INSERT Space
+MOVE Left
+INSERT Enter
+INSERT Space
+SHIFT
+MOVE End
+MOVE End
+MOVE Down
+MOVE Right
+MOVE Up
+SHIFT
+INSERT Char ?
+INSERT Enter
+SHIFT
+MOVE Right
+MOVE Up
+MOVE Home
+MOVE Home
+MOVE Right
+SHIFT
+PRINT
+INSERT Char )
+REMOVE Backspace
+INSERT Space
+MOVE Up
+INSERT Char {
+INSERT Enter
+INSERT Enter
+INSERT Char [
+SHIFT
+MOVE End
+MOVE End
+MOVE End
+MOVE Up
+MOVE Right
+MOVE Up
+MOVE Right
+MOVE Down
+SHIFT
+MOVE Home
+INSERT Char 1
+MOVE Down
+MOVE Down
+INSERT Char )
+INSERT Char {
+REMOVE Del
+INSERT Char {
+INSERT Char 1
+MOVE Up
+MOVE Up
+INSERT Char )
+REMOVE Backspace
+REMOVE Backspace
+INSERT Char )
+INSERT Char [
+MOVE Down
+MOVE Up
+MOVE Left
+INSERT Char {
+MOVE Left
+PRINT
+COUNT
+INSERT Enter
+INSERT Space
+MOVE Home
+INSERT Char 1
+PRINT
+INSERT Paste
+INSERT Enter
+REMOVE Del
+INSERT Char )
+REMOVE Del
+MOVE Right
+MOVE Right
+MOVE End
+REMOVE Del
+MOVE End
+INSERT Char [
+INSERT Paste
+MOVE Left
+INSERT Space
+MOVE Left
+INSERT Char [
+SHIFT
+MOVE Home
+MOVE Home
+MOVE Right
+MOVE Down
+SHIFT
+INSERT Enter
+INSERT Char ?
+INSERT Space
+FIND 1?{
+MOVE Up
+REMOVE Del
+INSERT Enter
+INSERT Char 1
+REMOVE Del
+REMOVE Del
+SHIFT
+MOVE Up
+SHIFT
+INSERT Char [
+PRINT
+MOVE Down
+INSERT Char )
+INSERT Char [
+INSERT Char 1
+INSERT Char {
+MOVE Left
+PRINT
+REMOVE Del
+INSERT Space
+MOVE Left
+INSERT Enter
+INSERT Char [
+INSERT Enter
+INSERT Char ?
+INSERT Char [
+INSERT Char [
+REMOVE Del
+INSERT Char )
+INSERT Char [
+MOVE Right
+INSERT Char 1
+INSERT Char [
+PRINT
+MOVE Home
+INSERT Char 1
+INSERT Char ?
+INSERT Space
+INSERT Char )
+REMOVE Del
+INSERT Char ?
+REMOVE Backspace
+INSERT Char [
+MOVE Left
+MOVE Up
+INSERT Char 1
+MOVE Up
+INSERT Enter
+MOVE End
+MOVE End
+MOVE Right
+REMOVE Del
+INSERT Char ?
+MOVE Home
+REMOVE Backspace
+REMOVE Del
+INSERT Char 1
+INSERT Char ?
+INSERT Char ?
+SHIFT
+MOVE End
+SHIFT
+MOVE Left
+INSERT Char ?
+INSERT Char {
+COUNT
+INSERT Char [
+INSERT Char {
+MOVE End
+INSERT Char ?
+PRINT
+INSERT Char )
+INSERT Enter
+REMOVE Backspace
+REMOVE Del
+MOVE Right
+INSERT Char ?
+INSERT Char )
+MOVE End
+INSERT Char {
+INSERT Char ?
+MOVE Down
+MOVE End
+PRINT
+INSERT Char [
+MOVE Down
+MOVE End
+SHIFT
+MOVE Down
+MOVE Right
+MOVE Up
+SHIFT
+INSERT Enter
+INSERT Char {
+PRINT
+INSERT Enter
+INSERT Enter
+REMOVE Del
+INSERT Enter
+MOVE Down
+INSERT Space
+INSERT Char 1
+INSERT Char [
+MOVE Up
+MOVE Up
+INSERT Char {
+MOVE Down
+INSERT Space
+INSERT Char )
+INSERT Char {
+INSERT Char ?
+INSERT Enter
+INSERT Char {
+INSERT Space
+REMOVE Del
+MOVE End
+INSERT Char ?
+INSERT Enter
+PRINT
+INSERT Char {
+MOVE Right
+SHIFT
+MOVE Right
+MOVE End
+MOVE Right
+MOVE Up
+MOVE End
+SHIFT
+REMOVE Backspace
+REMOVE Backspace
+INSERT Char )
+INSERT Char [
+MOVE End
+MOVE Left
+MOVE Right
+SHIFT
+MOVE Left
+MOVE Left
+MOVE Down
+MOVE Left
+SHIFT
+REMOVE Del
+INSERT Char )
+INSERT Char {
+SHIFT
+MOVE End
+MOVE Home
+SHIFT
+INSERT Enter
+REMOVE Del
+PRINT
+INSERT Space
+SHIFT
+MOVE End
+MOVE Home
+MOVE Up
+MOVE Up
+MOVE End
+MOVE End
+MOVE Down
+SHIFT
+INSERT Enter
+INSERT Enter
+INSERT Enter
+MOVE Down
+MOVE Up
+INSERT Char [
+INSERT Enter
+REMOVE Backspace
+INSERT Char 1
+INSERT Char ?
+INSERT Char 1
+MOVE Up
+REMOVE Del
+REMOVE Del
+INSERT Char 1
+REMOVE Backspace
+PRINT
+REMOVE Del
+REMOVE Del
+PRINT
+PRINT
+REMOVE Del
+INSERT Space
+REMOVE Del
+MOVE Up
+REMOVE Backspace
+INSERT Char ?
+INSERT Char ?
+INSERT Char ?
+SHIFT
+MOVE Down
+MOVE Up
+MOVE Left
+MOVE Home
+MOVE Up
+MOVE Left
+MOVE Right
+SHIFT
+MOVE End
+MOVE Right
+INSERT Char ?
+INSERT Char [
+INSERT Char )
+MOVE Home
+INSERT Char 1
+REMOVE Backspace
+INSERT Char {
+INSERT Char [
+INSERT Enter
+INSERT Paste
+INSERT Char [
+INSERT Char ?
+MOVE Left
+INSERT Char 1
+REMOVE Backspace
+INSERT Char 1
+INSERT Char [
+PRINT
+MOVE End
+INSERT Enter
+MOVE Home
+MOVE Right
+INSERT Space
+INSERT Char [
+INSERT Char ?
+MOVE End
+INSERT Char 1
+PRINT
+FIND [
+MOVE Up
+SHIFT
+MOVE Left
+MOVE Left
+MOVE Right
+MOVE Left
+MOVE End
+MOVE Up
+MOVE Down
+MOVE Up
+SHIFT
+REMOVE Del
+INSERT Char ?
+INSERT Enter
+INSERT Char 1
+INSERT Char ?
+INSERT Char 1
+REMOVE Del
+INSERT Char [
+SHIFT
+MOVE Right
+MOVE Right
+MOVE Up
+MOVE Right
+MOVE Home
+MOVE Home
+SHIFT
+MOVE Up
+REMOVE Del
+REMOVE Backspace
+INSERT Char {
+INSERT Char {
+INSERT Char {
+REMOVE Del
+REMOVE Del
+INSERT Char {
+INSERT Enter
+MOVE Down
+MOVE Down
+SHIFT
+MOVE Right
+MOVE Left
+SHIFT
+MOVE Left
+INSERT Char {
+MOVE End
+INSERT Char [
+INSERT Char )
+SHIFT
+MOVE Up
+MOVE Left
+SHIFT
+INSERT Char ?
+INSERT Enter
+REMOVE Backspace
+MOVE Right
+INSERT Char {
+INSERT Space
+INSERT Space
+INSERT Enter
+MOVE Right
+REMOVE Del
+REMOVE Del
+MOVE Home
+INSERT Char )
+INSERT Space
+REMOVE Del
+INSERT Space
+REMOVE Del
+INSERT Char ?
+INSERT Enter
+REMOVE Backspace
+REMOVE Backspace
+REMOVE Backspace
+MOVE Down
+COPY
+INSERT Char [
+INSERT Enter
+PRINT
+INSERT Enter
+INSERT Paste
+MOVE Home
+MOVE Up
+INSERT Char ?
+MOVE Up
+INSERT Char 1
+REMOVE Backspace
+INSERT Space
+PRINT
+MOVE End
+INSERT Char [
+INSERT Space
+MOVE Right
+INSERT Char [
+SHIFT
+MOVE End
+MOVE Right
+MOVE End
+SHIFT
+INSERT Char [
+PRINT
+MOVE Right
+INSERT Enter
+MOVE Right
+INSERT Char )
+INSERT Char )
+INSERT Enter
+REMOVE Backspace
+INSERT Enter
+REMOVE Del
+INSERT Char [
+INSERT Char [
+INSERT Char ?
+INSERT Char )
+INSERT Char {
+REMOVE Del
+INSERT Space
+INSERT Char )
+INSERT Enter
+MOVE Up
+INSERT Enter
+INSERT Space
+MOVE Right
+INSERT Char )
+INSERT Space
+FIND [[?
+SHIFT
+MOVE Left
+MOVE End
+MOVE Left
+MOVE Right
+MOVE Home
+MOVE Right
+MOVE Left
+SHIFT
+INSERT Char 1
+REMOVE Backspace
+MOVE Right
+INSERT Enter
+INSERT Char {
+INSERT Char )
+INSERT Enter
+INSERT Char )
+MOVE Down
+INSERT Char [
+REMOVE Del
+INSERT Char 1
+INSERT Char {
+PRINT
+INSERT Char 1
+INSERT Char [
+INSERT Enter
+MOVE Up
+INSERT Char 1
+INSERT Char )
+MOVE End
+INSERT Char [
+PRINT
+SHIFT
+MOVE Home
+MOVE Left
+MOVE Down
+MOVE Down
+MOVE Left
+MOVE Down
+MOVE Left
+SHIFT
+INSERT Enter
+INSERT Space
+MOVE End
+INSERT Char {
+MOVE End
+COUNT
+REMOVE Del
+MOVE Right
+INSERT Char 1
+SHIFT
+MOVE Down
+MOVE Down
+MOVE Left
+SHIFT
+MOVE Left
+INSERT Char )
+MOVE Left
+INSERT Paste
+INSERT Char ?
+REMOVE Backspace
+MOVE End
+COUNT
+INSERT Enter
+INSERT Char {
+INSERT Char {
+MOVE Home
+INSERT Char [
+PRINT
+INSERT Char [
+INSERT Enter
+SHIFT
+MOVE Up
+MOVE Home
+MOVE Up
+MOVE Home
+SHIFT
+REMOVE Del
+PRINT
+INSERT Char )
+SHIFT
+SHIFT
+FIND ?[?
+INSERT Char [
+SHIFT
+MOVE Right
+SHIFT
+MOVE Home
+INSERT Char )
+INSERT Char )
+INSERT Char ?
+INSERT Enter
+REMOVE Del
+INSERT Space
+SHIFT
+MOVE Home
+MOVE Home
+MOVE Home
+MOVE End
+SHIFT
+INSERT Char {
+INSERT Enter
+REMOVE Del
+REMOVE Backspace
+INSERT Enter
+INSERT Char {
+INSERT Space
+INSERT Space
+INSERT Char [
+INSERT Space
+PRINT
+MOVE Home
+INSERT Char {
+SHIFT
+MOVE End
+MOVE Left
+MOVE Right
+MOVE End
+MOVE End
+MOVE Home
+SHIFT
+INSERT Enter
+INSERT Char )
+MOVE Right
+INSERT Char )
+MOVE Right
+INSERT Char [
+MOVE Down
+INSERT Enter
+INSERT Char [
+SHIFT
+MOVE Home
+MOVE End
+SHIFT
+INSERT Enter
+INSERT Char )
+REMOVE Del
+INSERT Enter
+INSERT Char [
+FIND )
+MOVE End
+INSERT Space
+REMOVE Backspace
+REMOVE Backspace
+MOVE Home
+COUNT
+COUNT
+INSERT Enter
+INSERT Char ?
+MOVE End
+INSERT Enter
+MOVE Home
+INSERT Char )
+SHIFT
+MOVE Right
+MOVE Right
+MOVE End
+MOVE Home
+MOVE Down
+MOVE End
+SHIFT
+INSERT Char )
+REMOVE Backspace
+INSERT Char 1
+REMOVE Del
+INSERT Enter
+INSERT Space
+INSERT Enter
+INSERT Enter
+INSERT Space
+INSERT Enter
+COUNT
+INSERT Char [
+REMOVE Backspace
+REMOVE Backspace
+INSERT Enter
+INSERT Enter
+MOVE Up
+REMOVE Del
+INSERT Space
+MOVE Down
+SHIFT
+MOVE Down
+MOVE Up
+MOVE Left
+MOVE End
+MOVE End
+SHIFT
+INSERT Char )
+INSERT Char 1
+PRINT
+REMOVE Del
+INSERT Char )
+COUNT
+MOVE Right
+PRINT
+INSERT Char {
+REMOVE Del
+MOVE Left
+MOVE Down
+MOVE Left
+INSERT Char )
+INSERT Char ?
+INSERT Char ?
+INSERT Enter
+SHIFT
+MOVE End
+MOVE End
+MOVE End
+MOVE Home
+MOVE Left
+MOVE Left
+MOVE Right
+MOVE Home
+SHIFT
+INSERT Char ?
+INSERT Char ?
+MOVE Down
+INSERT Char {
+REMOVE Backspace
+INSERT Char ?
+INSERT Enter
+MOVE Up
+INSERT Char 1
+INSERT Space
+INSERT Char )
+MOVE Down
+REMOVE Backspace
+FIND [
+INSERT Enter
+INSERT Char 1
+INSERT Char [
+INSERT Enter
+INSERT Char )
+INSERT Char )
+INSERT Enter
+INSERT Char [
+INSERT Char [
+INSERT Space
+MOVE Right
+INSERT Char ?
+MOVE End
+INSERT Char )
+MOVE Right
+INSERT Char ?
+COPY
+MOVE Up
+MOVE End
+INSERT Enter
+INSERT Char {
+MOVE Home
+INSERT Char ?
+REMOVE Backspace
+INSERT Char 1
+INSERT Char 1
+PRINT
+INSERT Char ?
+INSERT Char )
+INSERT Char 1
+INSERT Char ?
+MOVE Right
+MOVE Home
+MOVE Home
+INSERT Char )
+SHIFT
+MOVE End
+SHIFT
+INSERT Char 1
+INSERT Char [
+INSERT Char 1
+INSERT Char ?
+INSERT Char 1
+SHIFT
+MOVE Right
+MOVE Right
+SHIFT
+MOVE Home
+INSERT Char {
+INSERT Enter
+MOVE Left
+INSERT Char {
+INSERT Space
+SHIFT
+MOVE Up
+SHIFT
+REMOVE Backspace
+INSERT Space
+INSERT Enter
+INSERT Space
+INSERT Char 1
+MOVE Left
+MOVE Home
+INSERT Char 1
+INSERT Char [
+REMOVE Backspace
+INSERT Enter
+REMOVE Backspace
+COUNT
+INSERT Char 1
+INSERT Char ?
+INSERT Char [
+MOVE Left
+REMOVE Backspace
+COPY
+INSERT Char {
+REMOVE Del
+INSERT Char {
+REMOVE Backspace
+REMOVE Backspace
+INSERT Space
+INSERT Char ?
+INSERT Char [
+INSERT Char )
+PRINT
+PRINT
+REMOVE Del
+INSERT Paste
+INSERT Char 1
+REMOVE Del
+INSERT Char 1
+MOVE Left
+MOVE Up
+REMOVE Del
+REMOVE Backspace
+SHIFT
+SHIFT
+SHIFT
+MOVE Up
+MOVE Down
+MOVE End
+SHIFT
+INSERT Char {
+SHIFT
+MOVE End
+MOVE Left
+MOVE End
+MOVE Home
+MOVE Right
+MOVE Home
+MOVE Left
+SHIFT
+PRINT

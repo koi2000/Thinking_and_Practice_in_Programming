@@ -1,0 +1,4801 @@
+4800
+INSERT Char H
+INSERT Char .
+INSERT Char 1
+MOVE Home
+MOVE Right
+PRINT
+INSERT Char k
+INSERT Char k
+MOVE Right
+PRINT
+PRINT
+INSERT Char H
+MOVE Right
+MOVE End
+PRINT
+INSERT Char 1
+MOVE Right
+INSERT Char H
+MOVE End
+INSERT Char H
+PRINT
+INSERT Char d
+INSERT Char k
+MOVE Left
+INSERT Char .
+INSERT Char k
+MOVE End
+INSERT Char k
+PRINT
+INSERT Char d
+MOVE Left
+MOVE Left
+MOVE Right
+INSERT Char d
+INSERT Char H
+PRINT
+MOVE End
+MOVE Right
+MOVE Right
+PRINT
+INSERT Space
+INSERT Char 1
+MOVE Right
+INSERT Char n
+INSERT Char L
+INSERT Char 1
+MOVE End
+MOVE Right
+MOVE Left
+MOVE Left
+INSERT Char d
+MOVE Home
+INSERT Char H
+MOVE Home
+INSERT Char 1
+MOVE Left
+INSERT Char 1
+PRINT
+INSERT Char d
+INSERT Char L
+INSERT Char 1
+INSERT Char 1
+PRINT
+MOVE Left
+PRINT
+PRINT
+MOVE Left
+PRINT
+INSERT Char n
+MOVE Left
+INSERT Space
+MOVE Right
+PRINT
+INSERT Char d
+PRINT
+INSERT Char +
+INSERT Char d
+MOVE Home
+PRINT
+MOVE Home
+INSERT Char 1
+INSERT Char .
+MOVE Right
+MOVE Home
+INSERT Char V
+PRINT
+INSERT Char .
+INSERT Char L
+INSERT Char k
+INSERT Char d
+INSERT Space
+MOVE Home
+MOVE End
+INSERT Char +
+PRINT
+INSERT Char H
+INSERT Char L
+MOVE Left
+MOVE End
+INSERT Space
+MOVE Left
+PRINT
+INSERT Char .
+MOVE End
+INSERT Char H
+INSERT Space
+INSERT Space
+MOVE Left
+MOVE Right
+PRINT
+INSERT Char 1
+INSERT Char V
+INSERT Char n
+MOVE Right
+MOVE Right
+INSERT Char V
+INSERT Char k
+INSERT Char +
+MOVE Right
+INSERT Char 1
+MOVE End
+MOVE Left
+INSERT Char +
+INSERT Char k
+PRINT
+INSERT Char 1
+INSERT Char 1
+INSERT Char k
+INSERT Char L
+INSERT Char V
+INSERT Char k
+INSERT Char d
+MOVE Right
+INSERT Char n
+MOVE Home
+PRINT
+MOVE End
+INSERT Char n
+MOVE Right
+INSERT Space
+PRINT
+INSERT Char L
+INSERT Space
+INSERT Space
+INSERT Char k
+MOVE Home
+INSERT Char +
+MOVE Left
+INSERT Char H
+INSERT Char n
+INSERT Space
+MOVE End
+MOVE Left
+INSERT Char H
+MOVE Home
+MOVE End
+MOVE Right
+PRINT
+INSERT Char .
+INSERT Char .
+MOVE Left
+INSERT Char k
+INSERT Char k
+INSERT Char H
+INSERT Char n
+MOVE Right
+PRINT
+INSERT Char d
+MOVE Left
+MOVE End
+MOVE Right
+INSERT Char 1
+PRINT
+PRINT
+INSERT Char 1
+INSERT Space
+MOVE Left
+INSERT Char d
+MOVE Left
+PRINT
+MOVE Left
+MOVE Left
+MOVE Home
+MOVE Right
+INSERT Char V
+MOVE Home
+INSERT Char n
+INSERT Char 1
+MOVE Home
+PRINT
+INSERT Space
+INSERT Char H
+MOVE End
+PRINT
+MOVE Left
+MOVE Left
+INSERT Char L
+MOVE Home
+INSERT Char d
+INSERT Char d
+INSERT Char H
+INSERT Char n
+INSERT Char V
+INSERT Char .
+MOVE Home
+INSERT Char +
+PRINT
+MOVE End
+INSERT Char d
+PRINT
+INSERT Char L
+INSERT Char d
+INSERT Char H
+INSERT Char k
+INSERT Char +
+INSERT Char n
+INSERT Char 1
+MOVE Home
+INSERT Char n
+MOVE Left
+INSERT Char d
+MOVE Home
+MOVE Home
+MOVE Home
+INSERT Char .
+MOVE Right
+PRINT
+INSERT Space
+MOVE Home
+INSERT Char k
+INSERT Char H
+MOVE Left
+INSERT Char .
+INSERT Char k
+INSERT Space
+INSERT Space
+INSERT Char H
+PRINT
+INSERT Char .
+PRINT
+MOVE Left
+INSERT Char L
+INSERT Char k
+PRINT
+MOVE Right
+MOVE Right
+MOVE Home
+PRINT
+MOVE End
+MOVE Left
+INSERT Char +
+INSERT Char 1
+INSERT Char 1
+PRINT
+PRINT
+INSERT Char k
+INSERT Char V
+INSERT Char +
+INSERT Char .
+MOVE Right
+INSERT Char 1
+INSERT Char V
+MOVE Home
+MOVE Right
+INSERT Char n
+INSERT Char V
+MOVE Left
+PRINT
+INSERT Char .
+MOVE End
+INSERT Char .
+MOVE Left
+MOVE Home
+MOVE End
+INSERT Char d
+PRINT
+MOVE Left
+INSERT Char 1
+INSERT Char L
+PRINT
+MOVE Home
+MOVE Right
+INSERT Char H
+PRINT
+PRINT
+INSERT Char 1
+MOVE Left
+PRINT
+INSERT Char k
+PRINT
+INSERT Char 1
+INSERT Char d
+PRINT
+PRINT
+MOVE Left
+INSERT Char +
+INSERT Char n
+MOVE Left
+PRINT
+MOVE Right
+MOVE End
+MOVE Left
+MOVE End
+INSERT Char n
+INSERT Char +
+INSERT Char L
+INSERT Char L
+INSERT Char k
+INSERT Char H
+MOVE Left
+MOVE Home
+PRINT
+MOVE End
+MOVE Home
+INSERT Char .
+INSERT Char n
+PRINT
+MOVE End
+INSERT Char V
+PRINT
+MOVE Right
+MOVE Left
+INSERT Char d
+INSERT Char .
+MOVE Right
+MOVE Right
+MOVE Left
+MOVE Right
+MOVE End
+INSERT Char 1
+MOVE Left
+INSERT Char V
+MOVE Left
+MOVE Right
+INSERT Char V
+PRINT
+PRINT
+INSERT Char 1
+INSERT Char V
+MOVE Right
+INSERT Char n
+INSERT Char +
+INSERT Char +
+INSERT Char V
+MOVE Left
+PRINT
+INSERT Char V
+INSERT Char k
+PRINT
+INSERT Char H
+PRINT
+MOVE Left
+INSERT Char H
+INSERT Char d
+MOVE Left
+PRINT
+MOVE Home
+INSERT Space
+PRINT
+PRINT
+PRINT
+MOVE Home
+MOVE Home
+PRINT
+MOVE Home
+INSERT Char +
+MOVE End
+MOVE Right
+INSERT Char n
+INSERT Char +
+INSERT Char d
+INSERT Char +
+INSERT Char V
+MOVE End
+INSERT Char 1
+MOVE Left
+PRINT
+MOVE End
+INSERT Char k
+INSERT Char L
+MOVE Left
+PRINT
+MOVE Right
+INSERT Space
+INSERT Char n
+MOVE Right
+PRINT
+PRINT
+MOVE Home
+MOVE End
+INSERT Char L
+MOVE Home
+INSERT Char d
+INSERT Char k
+INSERT Char .
+MOVE Home
+INSERT Char d
+MOVE Home
+MOVE Right
+MOVE End
+INSERT Char L
+MOVE Home
+INSERT Char n
+MOVE Home
+MOVE Home
+MOVE End
+PRINT
+INSERT Char 1
+MOVE End
+PRINT
+MOVE End
+INSERT Char .
+INSERT Char H
+INSERT Char d
+MOVE Home
+PRINT
+PRINT
+MOVE End
+INSERT Char 1
+PRINT
+PRINT
+MOVE Home
+PRINT
+INSERT Char H
+MOVE Left
+INSERT Char V
+INSERT Space
+MOVE End
+INSERT Char 1
+MOVE Right
+INSERT Char L
+INSERT Char .
+INSERT Char H
+MOVE Right
+INSERT Char n
+PRINT
+MOVE End
+INSERT Space
+INSERT Char d
+INSERT Char 1
+INSERT Char n
+MOVE End
+INSERT Char k
+MOVE Home
+MOVE Home
+INSERT Space
+INSERT Char n
+INSERT Char 1
+PRINT
+INSERT Char k
+PRINT
+INSERT Char .
+INSERT Char .
+INSERT Char k
+INSERT Char d
+INSERT Char d
+INSERT Char L
+INSERT Char n
+INSERT Char H
+INSERT Space
+PRINT
+MOVE End
+INSERT Char n
+PRINT
+PRINT
+MOVE Left
+INSERT Char L
+MOVE Home
+INSERT Space
+INSERT Space
+INSERT Char n
+PRINT
+INSERT Char k
+INSERT Char .
+INSERT Char +
+MOVE Left
+INSERT Space
+MOVE Home
+INSERT Space
+MOVE End
+INSERT Char .
+PRINT
+INSERT Char L
+INSERT Space
+MOVE End
+INSERT Char 1
+MOVE Left
+INSERT Char H
+INSERT Char k
+INSERT Char 1
+INSERT Char .
+MOVE End
+INSERT Char .
+INSERT Char +
+MOVE Home
+MOVE Left
+INSERT Char n
+MOVE Left
+MOVE Right
+INSERT Char n
+MOVE End
+PRINT
+INSERT Char 1
+INSERT Char 1
+MOVE Left
+MOVE End
+INSERT Char n
+MOVE Home
+INSERT Char +
+INSERT Char .
+PRINT
+INSERT Char +
+MOVE Right
+MOVE End
+MOVE Home
+INSERT Char 1
+MOVE Right
+MOVE Home
+PRINT
+MOVE Right
+INSERT Char d
+INSERT Char k
+MOVE Left
+INSERT Char .
+MOVE Right
+MOVE Right
+PRINT
+INSERT Char H
+INSERT Char k
+MOVE End
+MOVE Left
+MOVE Right
+MOVE End
+INSERT Char n
+INSERT Char L
+INSERT Char H
+PRINT
+MOVE Right
+INSERT Char L
+MOVE Home
+MOVE Home
+MOVE Left
+INSERT Char .
+INSERT Char k
+INSERT Char L
+INSERT Char n
+INSERT Char d
+INSERT Char n
+MOVE Left
+INSERT Char d
+PRINT
+MOVE Home
+MOVE End
+MOVE Home
+MOVE Right
+INSERT Char n
+MOVE Home
+MOVE Left
+INSERT Char H
+MOVE Right
+PRINT
+MOVE Left
+MOVE End
+INSERT Char .
+MOVE End
+MOVE Right
+MOVE Home
+INSERT Char V
+MOVE Home
+MOVE Left
+MOVE End
+INSERT Char H
+MOVE Left
+INSERT Char d
+INSERT Char V
+INSERT Space
+MOVE Home
+MOVE Right
+INSERT Char .
+INSERT Char d
+INSERT Char .
+MOVE Left
+MOVE Left
+MOVE Right
+INSERT Char .
+INSERT Char n
+MOVE End
+INSERT Space
+MOVE Right
+MOVE Left
+PRINT
+MOVE End
+PRINT
+MOVE Home
+INSERT Space
+PRINT
+INSERT Space
+INSERT Char V
+INSERT Char H
+MOVE Home
+MOVE Right
+INSERT Char V
+MOVE End
+INSERT Char 1
+MOVE Left
+INSERT Char 1
+INSERT Char V
+INSERT Char +
+MOVE Left
+MOVE Home
+INSERT Char d
+INSERT Char k
+MOVE Home
+INSERT Space
+MOVE Right
+INSERT Char n
+MOVE End
+MOVE Left
+MOVE End
+INSERT Char .
+MOVE Right
+MOVE Left
+INSERT Char H
+MOVE Home
+INSERT Char .
+INSERT Char V
+INSERT Char n
+MOVE End
+INSERT Space
+INSERT Char V
+MOVE End
+MOVE End
+MOVE Right
+MOVE Right
+MOVE Left
+INSERT Char k
+INSERT Char 1
+MOVE End
+INSERT Char k
+INSERT Char L
+INSERT Char .
+MOVE Home
+MOVE Left
+MOVE Right
+INSERT Char L
+INSERT Space
+MOVE Home
+PRINT
+MOVE Home
+INSERT Char V
+MOVE Right
+INSERT Char d
+MOVE Left
+INSERT Char +
+PRINT
+INSERT Char k
+INSERT Char 1
+INSERT Char V
+INSERT Char L
+MOVE End
+MOVE Left
+INSERT Char k
+MOVE Left
+MOVE Home
+MOVE Left
+INSERT Char +
+INSERT Space
+MOVE End
+MOVE End
+INSERT Char L
+INSERT Char .
+INSERT Char L
+MOVE Right
+MOVE Right
+INSERT Char V
+MOVE Home
+INSERT Char k
+MOVE End
+MOVE Right
+PRINT
+PRINT
+INSERT Char 1
+INSERT Char V
+MOVE Right
+INSERT Char n
+PRINT
+MOVE Right
+INSERT Char n
+MOVE Left
+MOVE End
+PRINT
+MOVE End
+MOVE End
+MOVE Home
+MOVE Home
+INSERT Char V
+INSERT Char d
+PRINT
+MOVE Right
+INSERT Char L
+INSERT Char V
+INSERT Char 1
+INSERT Char k
+INSERT Char d
+INSERT Char d
+INSERT Char n
+MOVE End
+INSERT Space
+MOVE End
+MOVE Home
+MOVE Left
+INSERT Char L
+INSERT Char 1
+INSERT Char V
+MOVE Right
+INSERT Char +
+INSERT Space
+INSERT Char 1
+INSERT Char k
+INSERT Char +
+INSERT Char k
+INSERT Char d
+INSERT Char V
+INSERT Char L
+INSERT Char H
+PRINT
+MOVE Left
+MOVE Home
+INSERT Char n
+INSERT Char d
+INSERT Char d
+MOVE End
+MOVE Home
+INSERT Char +
+MOVE Right
+INSERT Char n
+INSERT Char .
+INSERT Char n
+MOVE Home
+INSERT Char k
+MOVE Right
+MOVE End
+MOVE Right
+INSERT Char +
+INSERT Char H
+MOVE End
+INSERT Char n
+MOVE Left
+INSERT Char d
+INSERT Char L
+INSERT Char V
+PRINT
+MOVE Right
+INSERT Char +
+PRINT
+INSERT Char L
+MOVE End
+INSERT Char 1
+INSERT Char d
+PRINT
+PRINT
+INSERT Char k
+MOVE Left
+INSERT Char +
+MOVE Left
+MOVE Right
+MOVE Left
+INSERT Char H
+INSERT Char 1
+INSERT Char H
+MOVE Home
+INSERT Char n
+INSERT Char k
+MOVE Right
+MOVE End
+MOVE Home
+INSERT Char .
+MOVE Left
+PRINT
+INSERT Char L
+INSERT Char n
+MOVE Left
+MOVE End
+INSERT Char d
+MOVE End
+INSERT Char L
+MOVE Home
+INSERT Char .
+INSERT Char +
+INSERT Char H
+INSERT Char k
+INSERT Char V
+MOVE Home
+MOVE Left
+INSERT Char d
+MOVE Left
+MOVE Home
+INSERT Char H
+INSERT Char d
+MOVE Home
+PRINT
+MOVE Left
+MOVE Home
+INSERT Char +
+INSERT Char L
+INSERT Char d
+INSERT Char 1
+PRINT
+INSERT Char 1
+MOVE End
+PRINT
+MOVE Left
+INSERT Char n
+INSERT Char 1
+INSERT Char +
+MOVE Home
+INSERT Char 1
+INSERT Char k
+INSERT Char d
+INSERT Char n
+INSERT Space
+MOVE End
+INSERT Char d
+INSERT Char +
+INSERT Char k
+INSERT Char k
+MOVE Home
+INSERT Char +
+PRINT
+PRINT
+MOVE Home
+MOVE Left
+INSERT Char H
+PRINT
+INSERT Char d
+PRINT
+INSERT Char H
+MOVE Right
+INSERT Char +
+INSERT Char k
+INSERT Char L
+INSERT Char k
+INSERT Char .
+MOVE Right
+MOVE Left
+INSERT Char .
+INSERT Char n
+MOVE Right
+INSERT Char k
+INSERT Char d
+INSERT Char d
+INSERT Space
+MOVE Home
+MOVE Left
+INSERT Char +
+PRINT
+PRINT
+INSERT Char .
+MOVE Left
+MOVE Right
+MOVE End
+INSERT Space
+INSERT Char +
+INSERT Char k
+INSERT Char 1
+MOVE Left
+INSERT Char n
+INSERT Char H
+MOVE End
+INSERT Char k
+PRINT
+INSERT Char +
+INSERT Char .
+MOVE Right
+MOVE Home
+PRINT
+MOVE Right
+INSERT Char 1
+INSERT Char +
+INSERT Char k
+INSERT Char V
+INSERT Char H
+INSERT Char k
+PRINT
+PRINT
+INSERT Space
+INSERT Char k
+MOVE End
+MOVE Home
+PRINT
+INSERT Char k
+MOVE Home
+INSERT Char +
+INSERT Char k
+MOVE Left
+INSERT Char n
+MOVE End
+INSERT Space
+PRINT
+INSERT Char H
+MOVE Right
+INSERT Char .
+PRINT
+INSERT Char +
+INSERT Char 1
+MOVE Right
+INSERT Char L
+MOVE Home
+INSERT Char H
+INSERT Char V
+INSERT Char n
+MOVE Home
+MOVE Left
+MOVE Right
+PRINT
+PRINT
+INSERT Space
+INSERT Char H
+INSERT Space
+PRINT
+INSERT Char +
+MOVE Left
+INSERT Space
+INSERT Char .
+INSERT Char 1
+INSERT Space
+MOVE Right
+INSERT Char d
+MOVE Left
+INSERT Char +
+MOVE Right
+MOVE Left
+MOVE Left
+INSERT Char V
+INSERT Char +
+MOVE Left
+MOVE Home
+MOVE Right
+INSERT Char H
+INSERT Char n
+INSERT Char +
+INSERT Char L
+MOVE End
+MOVE End
+INSERT Char .
+PRINT
+INSERT Char n
+MOVE Left
+INSERT Space
+MOVE Right
+INSERT Space
+PRINT
+MOVE Home
+MOVE Left
+INSERT Char k
+MOVE Right
+INSERT Char +
+INSERT Char V
+PRINT
+INSERT Char n
+MOVE End
+INSERT Char H
+INSERT Char n
+PRINT
+MOVE Left
+INSERT Space
+MOVE Home
+INSERT Space
+MOVE Home
+MOVE Right
+MOVE Left
+INSERT Char 1
+INSERT Space
+MOVE Home
+INSERT Char H
+PRINT
+INSERT Char L
+MOVE Left
+INSERT Char d
+MOVE Home
+INSERT Char n
+INSERT Char +
+MOVE Right
+MOVE Home
+INSERT Char d
+INSERT Char d
+PRINT
+PRINT
+PRINT
+PRINT
+INSERT Char .
+INSERT Space
+INSERT Char +
+INSERT Char V
+INSERT Char +
+MOVE End
+MOVE Home
+INSERT Char +
+PRINT
+INSERT Space
+MOVE Left
+MOVE Left
+MOVE Left
+MOVE End
+PRINT
+INSERT Char n
+MOVE End
+MOVE Left
+INSERT Char +
+MOVE Home
+MOVE Left
+MOVE Left
+MOVE Home
+MOVE Right
+INSERT Char V
+MOVE Left
+INSERT Space
+PRINT
+INSERT Char n
+PRINT
+MOVE End
+MOVE Right
+PRINT
+INSERT Char n
+INSERT Char V
+INSERT Char 1
+MOVE Home
+INSERT Space
+INSERT Char k
+INSERT Char H
+PRINT
+INSERT Char L
+MOVE Home
+MOVE Right
+INSERT Char .
+INSERT Char d
+INSERT Char +
+MOVE Home
+INSERT Char +
+INSERT Char V
+MOVE Home
+INSERT Char +
+MOVE Left
+INSERT Char L
+MOVE End
+MOVE End
+INSERT Char +
+MOVE End
+INSERT Char .
+INSERT Char +
+INSERT Char H
+MOVE Left
+MOVE Right
+INSERT Char H
+INSERT Char n
+PRINT
+INSERT Char +
+MOVE Left
+INSERT Char V
+PRINT
+PRINT
+MOVE Left
+MOVE Left
+INSERT Char V
+MOVE Left
+MOVE Home
+INSERT Char .
+MOVE Home
+MOVE Right
+PRINT
+INSERT Char .
+MOVE Left
+INSERT Char k
+MOVE Right
+INSERT Char k
+MOVE End
+MOVE Home
+MOVE Right
+INSERT Char d
+INSERT Char L
+PRINT
+INSERT Char 1
+INSERT Char n
+PRINT
+INSERT Char L
+MOVE Right
+INSERT Char .
+INSERT Char H
+MOVE End
+INSERT Char +
+MOVE Left
+INSERT Char 1
+MOVE End
+MOVE Home
+MOVE Home
+INSERT Char k
+INSERT Char H
+INSERT Char L
+INSERT Space
+MOVE End
+MOVE Home
+MOVE Right
+INSERT Char k
+INSERT Char V
+MOVE Right
+INSERT Char k
+MOVE End
+PRINT
+MOVE Left
+INSERT Char H
+MOVE Home
+MOVE Right
+INSERT Char H
+INSERT Space
+MOVE Home
+INSERT Char V
+MOVE Home
+INSERT Char L
+INSERT Char H
+MOVE End
+INSERT Char H
+MOVE Home
+INSERT Char H
+INSERT Char V
+INSERT Char +
+INSERT Char n
+INSERT Char .
+INSERT Char .
+INSERT Char H
+INSERT Char L
+INSERT Char +
+INSERT Char k
+MOVE End
+INSERT Char .
+MOVE Home
+MOVE Left
+PRINT
+INSERT Char +
+INSERT Char H
+MOVE Right
+INSERT Char V
+MOVE Right
+MOVE End
+PRINT
+MOVE Left
+MOVE Right
+MOVE Home
+MOVE Left
+PRINT
+INSERT Char 1
+MOVE End
+PRINT
+MOVE End
+INSERT Char 1
+MOVE Home
+INSERT Char .
+MOVE Left
+MOVE Home
+MOVE Left
+MOVE End
+INSERT Char d
+INSERT Char .
+MOVE End
+INSERT Char L
+INSERT Char +
+MOVE Left
+INSERT Char V
+INSERT Space
+MOVE Home
+INSERT Char k
+PRINT
+PRINT
+MOVE End
+INSERT Char H
+INSERT Char H
+MOVE Home
+MOVE End
+INSERT Char +
+MOVE End
+PRINT
+INSERT Char k
+INSERT Char V
+INSERT Char 1
+INSERT Char n
+PRINT
+INSERT Char V
+INSERT Char H
+MOVE End
+INSERT Char +
+INSERT Char .
+MOVE End
+INSERT Char n
+MOVE Left
+INSERT Char H
+INSERT Char k
+INSERT Char d
+MOVE End
+INSERT Char k
+INSERT Char V
+INSERT Char +
+INSERT Char d
+INSERT Char +
+PRINT
+INSERT Char L
+INSERT Char L
+PRINT
+MOVE Right
+MOVE End
+INSERT Space
+MOVE Home
+MOVE Home
+INSERT Char L
+INSERT Char n
+PRINT
+MOVE Home
+INSERT Char +
+INSERT Char .
+INSERT Char k
+INSERT Char V
+INSERT Char 1
+INSERT Space
+INSERT Char .
+MOVE Right
+INSERT Char 1
+MOVE Right
+INSERT Char 1
+MOVE End
+INSERT Char 1
+MOVE End
+MOVE Home
+MOVE End
+INSERT Char d
+MOVE End
+INSERT Char k
+INSERT Char H
+PRINT
+PRINT
+PRINT
+MOVE End
+MOVE Left
+INSERT Space
+INSERT Char .
+MOVE End
+MOVE Right
+INSERT Char d
+PRINT
+MOVE Left
+MOVE Left
+MOVE Home
+INSERT Space
+INSERT Char k
+INSERT Char d
+MOVE End
+MOVE Home
+INSERT Char 1
+INSERT Char 1
+INSERT Char +
+MOVE Home
+INSERT Char V
+INSERT Char H
+INSERT Char k
+MOVE Home
+INSERT Char d
+MOVE End
+INSERT Char +
+PRINT
+MOVE Left
+MOVE End
+INSERT Char n
+INSERT Char +
+MOVE Left
+INSERT Char d
+INSERT Space
+MOVE End
+MOVE Right
+INSERT Char V
+PRINT
+MOVE End
+INSERT Char H
+INSERT Char n
+INSERT Char L
+MOVE Left
+MOVE Home
+MOVE Home
+INSERT Char H
+PRINT
+MOVE Left
+MOVE End
+INSERT Char k
+MOVE Left
+MOVE Right
+INSERT Char H
+INSERT Char n
+MOVE Home
+MOVE Left
+MOVE Right
+MOVE End
+INSERT Space
+INSERT Space
+INSERT Char L
+MOVE Left
+MOVE Left
+MOVE Right
+MOVE Home
+INSERT Char L
+INSERT Char d
+INSERT Char 1
+MOVE Left
+INSERT Space
+INSERT Char H
+INSERT Char H
+MOVE End
+MOVE Right
+INSERT Space
+MOVE End
+MOVE Right
+INSERT Char n
+MOVE Left
+MOVE Right
+INSERT Char L
+INSERT Char L
+PRINT
+MOVE End
+MOVE End
+MOVE Left
+INSERT Space
+MOVE Home
+MOVE Left
+PRINT
+INSERT Char +
+INSERT Char .
+INSERT Char .
+INSERT Char 1
+INSERT Char L
+INSERT Space
+INSERT Char V
+MOVE End
+MOVE Left
+PRINT
+INSERT Char +
+INSERT Char 1
+INSERT Char L
+MOVE Home
+MOVE Home
+MOVE Home
+INSERT Char d
+MOVE End
+INSERT Char d
+INSERT Char V
+PRINT
+INSERT Char V
+INSERT Char d
+INSERT Char n
+MOVE Home
+INSERT Space
+PRINT
+INSERT Char +
+MOVE Left
+INSERT Char L
+MOVE Home
+MOVE Left
+MOVE Left
+INSERT Space
+INSERT Char n
+PRINT
+INSERT Space
+MOVE Home
+INSERT Char .
+PRINT
+MOVE End
+INSERT Char H
+INSERT Char L
+INSERT Char n
+MOVE Right
+INSERT Char V
+MOVE Home
+MOVE Home
+INSERT Char L
+MOVE Left
+INSERT Char d
+INSERT Char L
+PRINT
+INSERT Space
+MOVE Right
+PRINT
+INSERT Char 1
+INSERT Char +
+PRINT
+MOVE End
+INSERT Char H
+PRINT
+INSERT Char n
+PRINT
+MOVE Home
+INSERT Char .
+INSERT Char 1
+INSERT Char 1
+MOVE End
+MOVE Left
+INSERT Char .
+INSERT Char 1
+INSERT Char L
+INSERT Char L
+PRINT
+MOVE Left
+MOVE Right
+MOVE End
+PRINT
+INSERT Char L
+MOVE Right
+MOVE End
+MOVE Left
+MOVE Left
+PRINT
+INSERT Char H
+MOVE Left
+MOVE End
+INSERT Space
+INSERT Char 1
+INSERT Char L
+INSERT Char +
+MOVE Right
+MOVE Home
+INSERT Char d
+INSERT Char n
+INSERT Char d
+MOVE Home
+MOVE Left
+INSERT Char +
+PRINT
+MOVE End
+PRINT
+MOVE Home
+INSERT Char H
+INSERT Char +
+MOVE Home
+MOVE Home
+INSERT Char +
+INSERT Char +
+INSERT Char +
+MOVE Right
+PRINT
+MOVE Home
+INSERT Char d
+MOVE Left
+MOVE Left
+INSERT Char H
+INSERT Char 1
+MOVE Home
+MOVE End
+MOVE Right
+INSERT Char H
+INSERT Char +
+MOVE Left
+INSERT Char .
+MOVE Left
+INSERT Space
+MOVE Right
+INSERT Char k
+MOVE Left
+PRINT
+MOVE End
+PRINT
+MOVE Home
+MOVE Right
+INSERT Char n
+MOVE Home
+INSERT Char d
+MOVE End
+INSERT Char k
+MOVE Right
+INSERT Char 1
+INSERT Char V
+MOVE Left
+INSERT Char L
+INSERT Char d
+MOVE Right
+PRINT
+INSERT Char H
+INSERT Char +
+INSERT Char 1
+INSERT Char +
+INSERT Space
+PRINT
+INSERT Char d
+INSERT Char +
+INSERT Char H
+INSERT Char k
+INSERT Char H
+MOVE Home
+INSERT Char d
+INSERT Space
+INSERT Char k
+PRINT
+INSERT Char d
+INSERT Char L
+INSERT Char d
+INSERT Char .
+INSERT Char d
+PRINT
+INSERT Char n
+PRINT
+MOVE Right
+PRINT
+MOVE Right
+INSERT Char d
+INSERT Char +
+INSERT Char d
+MOVE End
+INSERT Char .
+MOVE Home
+INSERT Char L
+INSERT Char n
+PRINT
+MOVE Home
+MOVE Left
+INSERT Char +
+PRINT
+INSERT Char 1
+INSERT Char V
+MOVE End
+PRINT
+MOVE End
+INSERT Char V
+INSERT Char d
+INSERT Char L
+MOVE Left
+INSERT Char L
+INSERT Char .
+MOVE Home
+MOVE Home
+INSERT Char +
+MOVE Left
+MOVE Left
+INSERT Char k
+INSERT Char +
+INSERT Char L
+PRINT
+MOVE End
+INSERT Char d
+PRINT
+PRINT
+INSERT Char 1
+MOVE Left
+INSERT Char k
+INSERT Char 1
+INSERT Char H
+INSERT Char n
+MOVE End
+INSERT Char .
+INSERT Char .
+PRINT
+MOVE End
+INSERT Char d
+MOVE Right
+INSERT Char d
+MOVE Home
+MOVE End
+INSERT Char d
+INSERT Char L
+INSERT Char L
+INSERT Char V
+MOVE Right
+INSERT Char .
+MOVE Home
+MOVE Right
+MOVE Left
+MOVE Right
+MOVE Left
+INSERT Space
+MOVE End
+MOVE Left
+MOVE Right
+INSERT Char k
+INSERT Char 1
+INSERT Char n
+MOVE Right
+MOVE Home
+INSERT Char L
+INSERT Char k
+MOVE Left
+MOVE End
+INSERT Char 1
+INSERT Char .
+INSERT Char k
+MOVE Left
+INSERT Char n
+INSERT Char 1
+INSERT Char H
+INSERT Char L
+PRINT
+INSERT Char n
+INSERT Char k
+INSERT Char .
+INSERT Char V
+MOVE End
+INSERT Char .
+INSERT Char H
+INSERT Char L
+MOVE Home
+INSERT Char n
+INSERT Char .
+INSERT Char 1
+INSERT Char d
+MOVE End
+INSERT Char L
+PRINT
+INSERT Char d
+INSERT Char 1
+PRINT
+MOVE Left
+INSERT Char H
+MOVE Right
+MOVE Right
+MOVE End
+MOVE Home
+INSERT Char n
+INSERT Char +
+MOVE Right
+MOVE Right
+MOVE Right
+INSERT Char n
+INSERT Char d
+INSERT Char +
+INSERT Char +
+MOVE Home
+PRINT
+PRINT
+MOVE End
+INSERT Char n
+PRINT
+INSERT Char +
+INSERT Char V
+MOVE Right
+INSERT Char k
+INSERT Char .
+INSERT Char +
+INSERT Char H
+INSERT Char .
+MOVE Right
+INSERT Char L
+MOVE Home
+INSERT Char 1
+MOVE Left
+INSERT Char 1
+INSERT Char d
+INSERT Char H
+INSERT Space
+PRINT
+INSERT Char d
+MOVE Right
+MOVE End
+MOVE Right
+PRINT
+INSERT Char H
+MOVE Home
+MOVE Right
+INSERT Char +
+MOVE End
+INSERT Char +
+INSERT Char n
+INSERT Char L
+INSERT Char k
+INSERT Space
+MOVE Left
+INSERT Char +
+PRINT
+INSERT Space
+INSERT Char H
+MOVE Right
+INSERT Char d
+MOVE Left
+INSERT Char V
+MOVE Home
+MOVE Left
+MOVE Home
+INSERT Char 1
+MOVE End
+PRINT
+INSERT Char +
+INSERT Char H
+INSERT Char n
+INSERT Char L
+INSERT Space
+INSERT Space
+MOVE Left
+INSERT Char 1
+PRINT
+MOVE Left
+INSERT Char 1
+PRINT
+PRINT
+INSERT Char k
+INSERT Char 1
+INSERT Char V
+MOVE End
+PRINT
+MOVE Home
+INSERT Char 1
+MOVE End
+MOVE Home
+INSERT Char V
+INSERT Char +
+INSERT Char k
+MOVE End
+MOVE Home
+INSERT Char V
+MOVE Right
+INSERT Char n
+INSERT Char +
+INSERT Char V
+INSERT Char 1
+INSERT Char +
+PRINT
+MOVE Left
+MOVE End
+MOVE Left
+MOVE Home
+MOVE End
+INSERT Char +
+MOVE Right
+INSERT Char k
+PRINT
+INSERT Char H
+PRINT
+INSERT Char V
+MOVE Right
+PRINT
+INSERT Char H
+MOVE End
+PRINT
+INSERT Char n
+INSERT Char L
+MOVE Right
+INSERT Char n
+INSERT Char +
+PRINT
+INSERT Char L
+INSERT Char V
+MOVE Left
+INSERT Char n
+MOVE End
+INSERT Char k
+MOVE Home
+INSERT Char H
+INSERT Char n
+INSERT Char d
+PRINT
+PRINT
+INSERT Char L
+MOVE Left
+INSERT Char H
+INSERT Char V
+MOVE Right
+MOVE Home
+MOVE Left
+MOVE End
+PRINT
+MOVE Home
+MOVE Left
+MOVE End
+INSERT Char L
+INSERT Char L
+INSERT Char n
+INSERT Char k
+PRINT
+MOVE End
+PRINT
+INSERT Char H
+INSERT Char V
+MOVE Home
+INSERT Char H
+MOVE End
+MOVE Home
+INSERT Char H
+INSERT Char .
+INSERT Char n
+MOVE Right
+MOVE Home
+INSERT Char n
+INSERT Char 1
+INSERT Char d
+INSERT Char d
+INSERT Char H
+INSERT Char k
+INSERT Char H
+PRINT
+MOVE End
+MOVE End
+PRINT
+MOVE Right
+MOVE Left
+INSERT Char d
+PRINT
+MOVE Right
+INSERT Char k
+PRINT
+MOVE End
+MOVE Right
+INSERT Char n
+INSERT Char L
+INSERT Char k
+INSERT Char d
+PRINT
+INSERT Char n
+INSERT Char .
+PRINT
+MOVE Home
+PRINT
+PRINT
+INSERT Char V
+MOVE Right
+INSERT Char k
+INSERT Char d
+INSERT Char d
+PRINT
+PRINT
+MOVE End
+PRINT
+MOVE End
+MOVE Home
+MOVE Home
+INSERT Char k
+INSERT Char H
+INSERT Char V
+MOVE Left
+INSERT Char d
+INSERT Char 1
+MOVE Home
+INSERT Char H
+INSERT Char 1
+PRINT
+MOVE Home
+INSERT Char V
+INSERT Char +
+INSERT Char L
+INSERT Char d
+INSERT Char d
+PRINT
+INSERT Char k
+INSERT Char k
+INSERT Char +
+MOVE End
+MOVE End
+MOVE Home
+INSERT Char n
+PRINT
+INSERT Char n
+INSERT Char V
+MOVE Right
+INSERT Char 1
+PRINT
+INSERT Char +
+MOVE End
+INSERT Char L
+INSERT Char d
+INSERT Char H
+MOVE End
+MOVE Right
+PRINT
+PRINT
+MOVE End
+INSERT Char H
+MOVE Left
+MOVE End
+INSERT Space
+PRINT
+MOVE Right
+PRINT
+INSERT Char d
+PRINT
+PRINT
+INSERT Space
+MOVE Left
+MOVE Home
+MOVE Right
+INSERT Space
+MOVE Left
+MOVE Left
+MOVE End
+MOVE Right
+MOVE Left
+PRINT
+INSERT Char L
+PRINT
+INSERT Char d
+PRINT
+INSERT Char 1
+INSERT Char L
+MOVE End
+MOVE Home
+INSERT Char n
+PRINT
+MOVE Home
+INSERT Char +
+PRINT
+PRINT
+INSERT Space
+MOVE Left
+PRINT
+MOVE Right
+INSERT Char L
+INSERT Char +
+INSERT Char 1
+MOVE End
+MOVE Right
+INSERT Char +
+MOVE End
+INSERT Char .
+MOVE End
+INSERT Char 1
+MOVE End
+INSERT Char L
+PRINT
+INSERT Char 1
+MOVE End
+MOVE Right
+INSERT Char k
+MOVE End
+INSERT Char V
+PRINT
+MOVE Home
+MOVE Right
+MOVE Home
+PRINT
+MOVE End
+INSERT Space
+MOVE End
+MOVE Left
+INSERT Char +
+INSERT Char L
+INSERT Char 1
+MOVE Left
+MOVE Right
+INSERT Char 1
+MOVE End
+MOVE Left
+MOVE Right
+INSERT Char n
+INSERT Char H
+PRINT
+MOVE Home
+MOVE Home
+MOVE Home
+INSERT Char L
+MOVE Left
+MOVE End
+INSERT Char V
+INSERT Char V
+INSERT Char n
+MOVE Left
+MOVE Left
+MOVE Left
+INSERT Char V
+MOVE Left
+MOVE Home
+INSERT Space
+INSERT Char n
+INSERT Char d
+INSERT Char H
+MOVE Right
+INSERT Char H
+PRINT
+MOVE Home
+INSERT Char d
+MOVE End
+MOVE End
+INSERT Char V
+PRINT
+MOVE End
+INSERT Char 1
+INSERT Space
+INSERT Char +
+MOVE Left
+MOVE Right
+INSERT Char 1
+INSERT Char L
+MOVE Home
+INSERT Char +
+INSERT Char H
+MOVE Home
+MOVE End
+MOVE End
+PRINT
+INSERT Char n
+INSERT Char H
+INSERT Char V
+MOVE Left
+MOVE Home
+INSERT Char 1
+MOVE End
+INSERT Char n
+MOVE Home
+INSERT Char V
+MOVE Home
+PRINT
+INSERT Char H
+INSERT Char n
+PRINT
+INSERT Char 1
+INSERT Char L
+MOVE Home
+INSERT Char .
+PRINT
+INSERT Char .
+MOVE Left
+INSERT Char H
+PRINT
+MOVE Right
+MOVE Right
+PRINT
+INSERT Char .
+INSERT Space
+MOVE End
+MOVE Right
+MOVE Home
+MOVE Home
+MOVE Right
+INSERT Char L
+INSERT Char .
+INSERT Char +
+MOVE Left
+INSERT Char +
+INSERT Char H
+INSERT Char V
+MOVE Home
+INSERT Space
+INSERT Char d
+MOVE Right
+INSERT Char L
+INSERT Char d
+INSERT Char d
+INSERT Char d
+MOVE Left
+INSERT Char 1
+MOVE Left
+MOVE Right
+INSERT Char V
+MOVE End
+MOVE Left
+PRINT
+PRINT
+MOVE End
+MOVE Left
+INSERT Char n
+PRINT
+INSERT Char 1
+INSERT Char +
+INSERT Space
+MOVE End
+MOVE Home
+INSERT Char L
+INSERT Char k
+INSERT Char k
+INSERT Char n
+INSERT Char n
+INSERT Char d
+INSERT Char H
+INSERT Char d
+INSERT Char d
+MOVE Left
+MOVE Left
+INSERT Space
+MOVE Right
+MOVE Home
+MOVE End
+INSERT Char .
+MOVE Right
+MOVE End
+INSERT Char n
+INSERT Char 1
+INSERT Char H
+INSERT Char V
+INSERT Char H
+INSERT Char +
+MOVE End
+MOVE Left
+MOVE End
+INSERT Char d
+MOVE Right
+INSERT Char d
+INSERT Char n
+MOVE Left
+INSERT Char n
+INSERT Char .
+MOVE End
+INSERT Char H
+MOVE Home
+INSERT Space
+INSERT Char n
+MOVE Right
+MOVE Home
+MOVE Home
+INSERT Char V
+INSERT Char +
+INSERT Space
+PRINT
+INSERT Char n
+INSERT Char H
+MOVE Right
+INSERT Char L
+MOVE Left
+MOVE Right
+INSERT Char d
+INSERT Char n
+INSERT Space
+INSERT Char .
+MOVE Right
+MOVE Left
+MOVE Left
+MOVE Right
+INSERT Char H
+INSERT Char V
+INSERT Char H
+INSERT Space
+INSERT Char V
+INSERT Char L
+PRINT
+PRINT
+INSERT Space
+MOVE Home
+INSERT Char k
+INSERT Space
+PRINT
+MOVE Home
+MOVE Left
+MOVE Right
+MOVE End
+MOVE End
+PRINT
+MOVE Home
+MOVE End
+INSERT Char V
+PRINT
+INSERT Char V
+MOVE Home
+MOVE End
+MOVE Right
+INSERT Char d
+INSERT Char .
+INSERT Char +
+INSERT Char n
+MOVE Right
+MOVE Right
+PRINT
+MOVE Right
+MOVE End
+INSERT Char L
+PRINT
+MOVE Home
+INSERT Char d
+INSERT Char n
+MOVE Right
+MOVE End
+MOVE End
+INSERT Char 1
+INSERT Char n
+MOVE Left
+MOVE Left
+MOVE Home
+INSERT Char L
+INSERT Char L
+INSERT Char .
+INSERT Char d
+MOVE Right
+PRINT
+INSERT Char H
+INSERT Char .
+PRINT
+INSERT Char 1
+MOVE Left
+INSERT Space
+MOVE Home
+MOVE Left
+MOVE Right
+INSERT Char 1
+INSERT Char 1
+PRINT
+MOVE End
+PRINT
+MOVE Right
+MOVE End
+MOVE Left
+INSERT Char 1
+PRINT
+MOVE Left
+INSERT Char d
+PRINT
+INSERT Space
+MOVE Right
+MOVE Left
+PRINT
+INSERT Char L
+INSERT Char d
+MOVE Left
+INSERT Space
+MOVE Right
+INSERT Char n
+INSERT Space
+MOVE Right
+INSERT Char H
+MOVE End
+INSERT Char V
+MOVE Left
+INSERT Char .
+MOVE Home
+MOVE Right
+MOVE End
+INSERT Char d
+INSERT Char L
+MOVE Home
+INSERT Space
+INSERT Char L
+MOVE Right
+INSERT Space
+MOVE End
+MOVE Home
+MOVE End
+INSERT Char 1
+INSERT Char d
+INSERT Char d
+MOVE End
+MOVE Home
+MOVE Home
+PRINT
+MOVE End
+INSERT Space
+INSERT Char H
+MOVE End
+INSERT Char +
+INSERT Char +
+MOVE Right
+INSERT Char d
+INSERT Char +
+PRINT
+INSERT Char V
+INSERT Char +
+INSERT Char V
+PRINT
+INSERT Char L
+INSERT Char k
+INSERT Char k
+INSERT Char k
+MOVE Home
+MOVE Right
+INSERT Char +
+MOVE Left
+INSERT Char k
+PRINT
+PRINT
+MOVE Right
+MOVE Home
+MOVE Home
+MOVE Home
+INSERT Char 1
+INSERT Char d
+PRINT
+MOVE Home
+MOVE Home
+MOVE Right
+INSERT Char k
+INSERT Char n
+INSERT Char H
+MOVE Left
+INSERT Char H
+INSERT Char V
+MOVE Left
+INSERT Char H
+INSERT Char H
+MOVE End
+MOVE Left
+INSERT Char V
+PRINT
+INSERT Char +
+MOVE Left
+MOVE End
+MOVE End
+INSERT Char d
+INSERT Space
+INSERT Char 1
+INSERT Char n
+INSERT Char .
+MOVE End
+INSERT Char V
+MOVE Left
+INSERT Char V
+INSERT Char L
+PRINT
+INSERT Char .
+MOVE End
+MOVE End
+INSERT Char L
+MOVE Left
+MOVE Home
+INSERT Space
+INSERT Char V
+INSERT Space
+INSERT Char 1
+MOVE Home
+MOVE End
+INSERT Char V
+INSERT Char H
+INSERT Char L
+MOVE Left
+MOVE Right
+INSERT Space
+MOVE Right
+INSERT Char +
+INSERT Char +
+INSERT Space
+INSERT Char H
+INSERT Char +
+INSERT Char 1
+INSERT Char n
+MOVE Right
+MOVE End
+INSERT Char n
+INSERT Char n
+MOVE End
+INSERT Char .
+INSERT Char d
+MOVE Left
+MOVE Left
+INSERT Char k
+MOVE Left
+INSERT Space
+INSERT Char d
+MOVE Home
+MOVE Home
+INSERT Char L
+INSERT Char 1
+INSERT Char k
+INSERT Char d
+INSERT Char +
+INSERT Char d
+MOVE Right
+PRINT
+INSERT Char 1
+MOVE Right
+INSERT Char n
+INSERT Char 1
+PRINT
+MOVE Right
+MOVE Home
+MOVE End
+INSERT Char n
+MOVE Right
+MOVE Left
+PRINT
+INSERT Char k
+PRINT
+PRINT
+MOVE Left
+MOVE Left
+INSERT Char H
+MOVE Right
+MOVE Right
+PRINT
+INSERT Char d
+PRINT
+INSERT Char +
+MOVE Home
+MOVE Home
+MOVE Right
+INSERT Char 1
+INSERT Char d
+MOVE Left
+MOVE Right
+MOVE Home
+PRINT
+INSERT Space
+MOVE End
+INSERT Char k
+INSERT Char V
+MOVE End
+INSERT Char L
+PRINT
+MOVE Home
+INSERT Char .
+INSERT Char H
+MOVE Left
+INSERT Char V
+INSERT Char .
+INSERT Char .
+INSERT Char d
+INSERT Char n
+MOVE Home
+INSERT Char .
+MOVE Home
+MOVE Home
+INSERT Char L
+MOVE Home
+INSERT Char H
+MOVE Home
+MOVE Right
+INSERT Space
+INSERT Char +
+MOVE Right
+MOVE End
+INSERT Char n
+INSERT Char n
+MOVE Right
+MOVE End
+MOVE End
+INSERT Char d
+INSERT Char 1
+INSERT Char +
+INSERT Char .
+INSERT Char +
+MOVE End
+INSERT Char +
+PRINT
+INSERT Char H
+INSERT Char k
+MOVE Home
+MOVE Right
+MOVE Right
+MOVE Right
+INSERT Char 1
+INSERT Char L
+INSERT Char d
+INSERT Space
+INSERT Char 1
+INSERT Char H
+INSERT Char n
+MOVE Right
+INSERT Char .
+MOVE Left
+INSERT Char k
+MOVE End
+MOVE Left
+INSERT Char .
+INSERT Char +
+INSERT Space
+INSERT Char L
+INSERT Char H
+MOVE Left
+INSERT Char V
+INSERT Char +
+MOVE Right
+INSERT Char H
+INSERT Char L
+INSERT Char +
+MOVE Right
+MOVE End
+INSERT Char .
+MOVE Left
+MOVE Home
+MOVE Right
+INSERT Char k
+INSERT Char n
+PRINT
+INSERT Char n
+MOVE End
+MOVE End
+INSERT Char +
+INSERT Char d
+INSERT Char .
+INSERT Char .
+MOVE Right
+PRINT
+PRINT
+MOVE End
+PRINT
+INSERT Space
+INSERT Char H
+MOVE End
+INSERT Char .
+INSERT Char H
+MOVE End
+INSERT Space
+MOVE Left
+MOVE Left
+MOVE Left
+MOVE End
+MOVE Home
+INSERT Char d
+MOVE End
+MOVE Home
+INSERT Char .
+PRINT
+INSERT Char n
+MOVE End
+MOVE End
+INSERT Char H
+INSERT Space
+MOVE Left
+MOVE Right
+MOVE End
+INSERT Char +
+INSERT Char +
+INSERT Char L
+MOVE Home
+INSERT Char V
+INSERT Char L
+MOVE Right
+MOVE Right
+INSERT Char L
+MOVE Right
+INSERT Space
+MOVE End
+INSERT Char d
+MOVE Left
+MOVE Left
+PRINT
+MOVE Home
+INSERT Space
+MOVE Home
+MOVE Home
+INSERT Char d
+MOVE Right
+INSERT Char H
+PRINT
+PRINT
+MOVE End
+MOVE Home
+MOVE Home
+INSERT Char n
+INSERT Char 1
+INSERT Char k
+PRINT
+MOVE Left
+INSERT Char n
+INSERT Char +
+INSERT Char +
+INSERT Space
+MOVE Right
+INSERT Char 1
+MOVE End
+INSERT Char H
+MOVE Left
+MOVE End
+INSERT Char H
+MOVE Home
+INSERT Char H
+INSERT Char n
+PRINT
+MOVE End
+INSERT Char n
+MOVE Right
+INSERT Char .
+INSERT Char H
+INSERT Char k
+PRINT
+INSERT Char n
+MOVE Home
+INSERT Char H
+INSERT Char +
+MOVE End
+INSERT Char d
+INSERT Space
+INSERT Char .
+INSERT Space
+INSERT Char 1
+MOVE End
+INSERT Char .
+INSERT Space
+MOVE Right
+INSERT Char H
+INSERT Char H
+INSERT Char H
+INSERT Char V
+INSERT Char k
+MOVE Right
+MOVE Right
+INSERT Char V
+INSERT Char 1
+MOVE Home
+MOVE Right
+MOVE End
+INSERT Char V
+INSERT Char H
+PRINT
+INSERT Char L
+MOVE Home
+INSERT Char 1
+PRINT
+MOVE Home
+MOVE End
+PRINT
+PRINT
+INSERT Space
+INSERT Char 1
+MOVE Left
+INSERT Char +
+INSERT Space
+MOVE Left
+INSERT Char n
+MOVE Home
+MOVE End
+MOVE End
+MOVE End
+INSERT Char L
+INSERT Char k
+MOVE Home
+INSERT Char L
+INSERT Char 1
+INSERT Char .
+MOVE Home
+INSERT Space
+MOVE Left
+MOVE End
+INSERT Char d
+MOVE End
+INSERT Char V
+PRINT
+INSERT Char V
+INSERT Char d
+MOVE Home
+PRINT
+MOVE Home
+MOVE Left
+INSERT Char k
+PRINT
+INSERT Char +
+INSERT Char 1
+MOVE Home
+MOVE End
+MOVE Right
+INSERT Space
+INSERT Char +
+INSERT Char L
+PRINT
+MOVE Home
+INSERT Char H
+INSERT Char +
+MOVE Left
+INSERT Char k
+INSERT Char d
+INSERT Char L
+MOVE Left
+INSERT Char n
+MOVE Right
+MOVE End
+INSERT Char H
+MOVE End
+INSERT Char +
+MOVE Left
+INSERT Char 1
+MOVE Left
+INSERT Char d
+MOVE Left
+INSERT Char .
+INSERT Char .
+INSERT Char d
+PRINT
+INSERT Char L
+PRINT
+INSERT Char +
+MOVE Home
+MOVE Home
+MOVE Left
+MOVE End
+INSERT Char .
+INSERT Char L
+INSERT Char V
+INSERT Char V
+INSERT Space
+MOVE Right
+INSERT Char L
+MOVE End
+INSERT Char n
+MOVE Right
+MOVE Home
+INSERT Char .
+INSERT Char d
+MOVE Right
+MOVE Home
+INSERT Char V
+MOVE End
+INSERT Char V
+MOVE Home
+PRINT
+MOVE Right
+INSERT Char 1
+MOVE Home
+INSERT Char .
+INSERT Char +
+INSERT Char L
+INSERT Char k
+PRINT
+INSERT Space
+MOVE Home
+MOVE Home
+INSERT Char L
+PRINT
+MOVE Home
+MOVE Home
+PRINT
+PRINT
+PRINT
+INSERT Char 1
+INSERT Char d
+MOVE Home
+INSERT Char d
+MOVE Home
+INSERT Char k
+MOVE End
+MOVE Right
+MOVE Left
+INSERT Space
+MOVE End
+INSERT Char d
+PRINT
+PRINT
+INSERT Space
+INSERT Char k
+INSERT Char L
+MOVE End
+INSERT Char 1
+INSERT Space
+PRINT
+INSERT Char V
+INSERT Char V
+MOVE End
+MOVE Home
+MOVE Right
+INSERT Char .
+INSERT Char H
+INSERT Char k
+INSERT Char k
+MOVE Left
+INSERT Char k
+MOVE End
+INSERT Space
+INSERT Char L
+MOVE Left
+INSERT Char L
+PRINT
+MOVE Right
+MOVE End
+INSERT Char d
+INSERT Char +
+PRINT
+MOVE Right
+INSERT Space
+MOVE End
+MOVE Home
+INSERT Char +
+PRINT
+INSERT Char d
+INSERT Char V
+INSERT Char +
+INSERT Char k
+INSERT Char k
+INSERT Char d
+INSERT Char 1
+PRINT
+INSERT Space
+INSERT Char +
+INSERT Char .
+MOVE End
+INSERT Char 1
+INSERT Char 1
+INSERT Char H
+MOVE End
+INSERT Char d
+INSERT Char 1
+MOVE End
+MOVE Right
+MOVE Home
+PRINT
+INSERT Char d
+PRINT
+INSERT Char L
+INSERT Char d
+INSERT Char H
+INSERT Char 1
+INSERT Space
+MOVE Home
+MOVE End
+PRINT
+INSERT Char +
+INSERT Char H
+INSERT Char V
+PRINT
+INSERT Char .
+PRINT
+INSERT Char .
+MOVE Home
+INSERT Char V
+INSERT Char H
+PRINT
+INSERT Char d
+INSERT Char k
+INSERT Char +
+INSERT Char L
+MOVE Right
+INSERT Char +
+INSERT Char 1
+INSERT Space
+MOVE Home
+INSERT Char n
+PRINT
+MOVE Home
+INSERT Char .
+MOVE End
+INSERT Space
+MOVE Home
+MOVE Left
+INSERT Char L
+MOVE Right
+INSERT Char L
+INSERT Char n
+MOVE Right
+INSERT Char L
+MOVE End
+INSERT Char n
+INSERT Char n
+INSERT Char H
+PRINT
+MOVE End
+INSERT Char .
+MOVE Left
+PRINT
+MOVE Home
+MOVE Right
+MOVE Home
+INSERT Char L
+PRINT
+INSERT Char k
+INSERT Char V
+INSERT Char 1
+MOVE Left
+MOVE End
+MOVE Left
+INSERT Char k
+MOVE End
+INSERT Char d
+INSERT Char L
+MOVE Left
+INSERT Char L
+INSERT Char .
+MOVE End
+MOVE End
+PRINT
+MOVE Home
+INSERT Char n
+MOVE Home
+INSERT Space
+MOVE Left
+INSERT Char 1
+MOVE End
+INSERT Char L
+INSERT Char d
+PRINT
+INSERT Char .
+MOVE Right
+MOVE Left
+INSERT Char 1
+INSERT Char V
+INSERT Char k
+INSERT Char n
+MOVE Right
+INSERT Char V
+INSERT Space
+MOVE Home
+MOVE Left
+MOVE End
+PRINT
+INSERT Char .
+MOVE Right
+INSERT Char 1
+INSERT Char H
+MOVE End
+INSERT Char k
+PRINT
+MOVE End
+INSERT Char L
+MOVE Right
+MOVE Home
+MOVE Right
+INSERT Char H
+MOVE Left
+MOVE Left
+INSERT Space
+INSERT Char L
+INSERT Char L
+MOVE Home
+MOVE Left
+MOVE Left
+INSERT Char .
+INSERT Char L
+MOVE End
+PRINT
+INSERT Char V
+MOVE Left
+PRINT
+INSERT Char +
+INSERT Char L
+INSERT Space
+MOVE End
+PRINT
+MOVE Right
+MOVE Right
+INSERT Space
+PRINT
+MOVE Left
+INSERT Space
+PRINT
+MOVE End
+INSERT Char 1
+INSERT Char d
+INSERT Space
+INSERT Space
+PRINT
+MOVE Left
+MOVE Left
+INSERT Char H
+INSERT Char V
+INSERT Char V
+PRINT
+INSERT Char L
+MOVE Right
+MOVE End
+INSERT Char d
+INSERT Char V
+MOVE Left
+PRINT
+INSERT Char H
+INSERT Char V
+INSERT Char .
+INSERT Char 1
+INSERT Char H
+INSERT Char 1
+MOVE Right
+MOVE Right
+MOVE Left
+MOVE End
+MOVE End
+INSERT Char +
+MOVE Left
+PRINT
+INSERT Char H
+INSERT Char d
+INSERT Char V
+MOVE Right
+MOVE End
+MOVE Left
+MOVE Left
+INSERT Char +
+MOVE Right
+MOVE Home
+MOVE Right
+MOVE End
+INSERT Char +
+MOVE Left
+INSERT Char n
+PRINT
+INSERT Char V
+MOVE Home
+INSERT Char V
+INSERT Space
+MOVE Right
+INSERT Char d
+MOVE Right
+INSERT Char 1
+INSERT Char d
+PRINT
+MOVE Right
+INSERT Char .
+PRINT
+INSERT Char n
+PRINT
+INSERT Char 1
+INSERT Char 1
+INSERT Char d
+PRINT
+INSERT Char 1
+INSERT Char V
+MOVE End
+INSERT Char +
+INSERT Char H
+INSERT Char 1
+MOVE Left
+INSERT Char d
+MOVE Right
+INSERT Char k
+MOVE Left
+MOVE Home
+PRINT
+INSERT Char H
+MOVE Left
+INSERT Char 1
+MOVE Right
+INSERT Char +
+INSERT Space
+MOVE Home
+PRINT
+MOVE Left
+INSERT Char 1
+MOVE Home
+MOVE Home
+MOVE End
+INSERT Char V
+PRINT
+INSERT Char L
+INSERT Char 1
+PRINT
+MOVE End
+MOVE Right
+INSERT Space
+INSERT Char L
+MOVE End
+INSERT Char k
+MOVE Right
+MOVE Right
+PRINT
+PRINT
+MOVE Home
+INSERT Char V
+INSERT Char d
+INSERT Char H
+MOVE Left
+PRINT
+PRINT
+MOVE Left
+PRINT
+PRINT
+INSERT Char V
+MOVE End
+INSERT Char +
+INSERT Char H
+INSERT Char n
+INSERT Char n
+PRINT
+MOVE End
+MOVE Right
+INSERT Char +
+PRINT
+INSERT Space
+INSERT Char 1
+MOVE Home
+MOVE Left
+MOVE Home
+INSERT Char d
+MOVE Left
+PRINT
+PRINT
+MOVE Home
+MOVE Left
+INSERT Char k
+INSERT Char k
+INSERT Char n
+PRINT
+INSERT Char L
+INSERT Char H
+MOVE Home
+MOVE Right
+INSERT Char H
+MOVE Home
+PRINT
+PRINT
+INSERT Space
+MOVE Left
+MOVE Right
+MOVE Right
+PRINT
+INSERT Char d
+INSERT Space
+INSERT Char 1
+MOVE Home
+INSERT Char L
+MOVE Home
+INSERT Char .
+PRINT
+INSERT Char +
+INSERT Char d
+MOVE End
+INSERT Char n
+INSERT Char n
+MOVE Home
+INSERT Char H
+MOVE Home
+INSERT Char n
+INSERT Char H
+INSERT Char +
+INSERT Char +
+PRINT
+MOVE Right
+MOVE Home
+INSERT Char n
+MOVE Left
+INSERT Char H
+MOVE Right
+INSERT Char +
+MOVE Home
+INSERT Char +
+MOVE Right
+INSERT Char n
+INSERT Char 1
+INSERT Char n
+INSERT Char k
+PRINT
+MOVE Right
+MOVE End
+MOVE Left
+MOVE End
+MOVE Right
+INSERT Char d
+MOVE Left
+MOVE End
+INSERT Space
+PRINT
+MOVE Right
+INSERT Space
+INSERT Char 1
+INSERT Char .
+MOVE End
+INSERT Char k
+MOVE Home
+MOVE Left
+PRINT
+MOVE Right
+MOVE Right
+INSERT Space
+INSERT Space
+INSERT Char V
+INSERT Char L
+INSERT Char V
+MOVE Right
+PRINT
+INSERT Char .
+INSERT Char n
+INSERT Char n
+INSERT Char H
+MOVE Right
+PRINT
+INSERT Char .
+PRINT
+INSERT Char k
+INSERT Char +
+INSERT Char +
+PRINT
+INSERT Char k
+INSERT Space
+INSERT Char n
+INSERT Char +
+INSERT Char V
+INSERT Char 1
+MOVE Right
+PRINT
+MOVE Right
+INSERT Char L
+MOVE Home
+MOVE Right
+MOVE Right
+MOVE Right
+MOVE Home
+INSERT Char V
+INSERT Char V
+MOVE Home
+INSERT Char L
+MOVE Home
+PRINT
+MOVE Home
+INSERT Char .
+MOVE Left
+INSERT Char .
+MOVE Right
+MOVE End
+MOVE Right
+INSERT Char V
+PRINT
+MOVE Left
+INSERT Char H
+MOVE Home
+INSERT Char +
+INSERT Char .
+INSERT Char n
+MOVE Left
+MOVE Home
+MOVE Right
+INSERT Char 1
+INSERT Char 1
+MOVE Left
+INSERT Space
+PRINT
+MOVE End
+MOVE Left
+MOVE End
+INSERT Char V
+INSERT Char .
+MOVE Right
+INSERT Char d
+INSERT Char 1
+MOVE Right
+INSERT Char V
+INSERT Char k
+PRINT
+INSERT Char +
+INSERT Char +
+INSERT Char k
+MOVE Left
+INSERT Char n
+PRINT
+MOVE Right
+MOVE End
+INSERT Space
+MOVE End
+INSERT Char V
+INSERT Char +
+INSERT Char d
+PRINT
+PRINT
+INSERT Char +
+MOVE Left
+MOVE Left
+MOVE Left
+INSERT Char +
+INSERT Char H
+INSERT Char k
+MOVE Right
+INSERT Char n
+INSERT Char +
+MOVE Home
+PRINT
+MOVE End
+INSERT Char +
+INSERT Char d
+INSERT Char d
+MOVE Home
+MOVE Home
+INSERT Char H
+INSERT Char n
+INSERT Char 1
+PRINT
+PRINT
+MOVE End
+INSERT Char L
+INSERT Char k
+INSERT Space
+MOVE End
+INSERT Space
+PRINT
+INSERT Char 1
+INSERT Char L
+MOVE Home
+INSERT Char H
+INSERT Char d
+INSERT Char +
+INSERT Char k
+INSERT Char .
+PRINT
+INSERT Char .
+INSERT Space
+INSERT Char k
+INSERT Char +
+MOVE End
+MOVE Home
+MOVE Left
+INSERT Char H
+MOVE Left
+INSERT Char k
+MOVE End
+INSERT Char .
+PRINT
+MOVE End
+MOVE Left
+MOVE Right
+MOVE Home
+PRINT
+MOVE Left
+MOVE Left
+INSERT Char k
+MOVE Home
+INSERT Char d
+PRINT
+INSERT Char n
+INSERT Char .
+INSERT Char d
+MOVE Right
+MOVE End
+MOVE Home
+MOVE End
+MOVE Home
+MOVE End
+INSERT Char k
+INSERT Space
+PRINT
+PRINT
+INSERT Char H
+INSERT Char H
+INSERT Char 1
+INSERT Char L
+MOVE Right
+MOVE Home
+INSERT Space
+MOVE Right
+MOVE Left
+INSERT Char L
+INSERT Space
+INSERT Char n
+MOVE End
+MOVE End
+INSERT Char k
+INSERT Char V
+INSERT Char +
+INSERT Char .
+MOVE Right
+INSERT Space
+INSERT Char d
+INSERT Char V
+MOVE Right
+MOVE Left
+INSERT Char d
+PRINT
+INSERT Char H
+MOVE Left
+INSERT Char V
+PRINT
+MOVE Right
+PRINT
+MOVE Left
+MOVE End
+PRINT
+INSERT Char k
+INSERT Char d
+INSERT Char k
+PRINT
+INSERT Char L
+MOVE Left
+PRINT
+MOVE Right
+INSERT Char n
+INSERT Char H
+INSERT Char +
+INSERT Char n
+MOVE Right
+MOVE End
+INSERT Char n
+MOVE End
+INSERT Char +
+MOVE End
+MOVE End
+MOVE End
+MOVE Right
+INSERT Char H
+MOVE Right
+INSERT Char k
+MOVE Right
+PRINT
+INSERT Space
+MOVE Left
+MOVE Right
+INSERT Char 1
+MOVE Left
+MOVE Left
+MOVE Home
+MOVE Left
+MOVE Right
+INSERT Char L
+PRINT
+INSERT Char H
+MOVE Right
+PRINT
+INSERT Char .
+INSERT Char n
+MOVE Right
+INSERT Space
+PRINT
+INSERT Char k
+INSERT Char L
+PRINT
+INSERT Char n
+INSERT Char +
+INSERT Char k
+MOVE Left
+MOVE Home
+INSERT Char k
+MOVE Home
+MOVE End
+MOVE Left
+INSERT Char 1
+INSERT Char V
+MOVE Home
+INSERT Char H
+MOVE Right
+MOVE Home
+INSERT Char .
+INSERT Char +
+INSERT Char 1
+INSERT Space
+MOVE Left
+INSERT Char +
+PRINT
+MOVE Left
+MOVE Home
+INSERT Char 1
+INSERT Char n
+INSERT Char V
+PRINT
+MOVE End
+INSERT Space
+MOVE Right
+INSERT Char 1
+INSERT Char H
+MOVE Home
+INSERT Char V
+INSERT Char L
+MOVE Right
+INSERT Space
+MOVE Left
+INSERT Char n
+INSERT Char H
+INSERT Char +
+PRINT
+MOVE Right
+INSERT Char n
+INSERT Char 1
+INSERT Char d
+MOVE Right
+MOVE Left
+MOVE End
+INSERT Char k
+INSERT Char 1
+MOVE End
+INSERT Char d
+MOVE Left
+MOVE Home
+INSERT Char H
+INSERT Space
+INSERT Char n
+INSERT Space
+INSERT Char +
+INSERT Char V
+INSERT Space
+INSERT Char V
+INSERT Char V
+MOVE Left
+MOVE End
+INSERT Char L
+MOVE Right
+INSERT Char k
+MOVE End
+INSERT Space
+MOVE Right
+MOVE Right
+INSERT Char 1
+MOVE Right
+INSERT Char d
+INSERT Char L
+MOVE Right
+INSERT Char L
+MOVE Right
+INSERT Char n
+MOVE Right
+MOVE Left
+INSERT Char L
+MOVE Left
+MOVE Right
+INSERT Char k
+INSERT Char +
+INSERT Char +
+MOVE Home
+INSERT Char k
+INSERT Char n
+MOVE Left
+INSERT Char H
+INSERT Space
+INSERT Char V
+MOVE Right
+MOVE Home
+MOVE Left
+INSERT Char V
+MOVE Right
+INSERT Char n
+INSERT Char L
+MOVE Home
+INSERT Char .
+INSERT Char n
+INSERT Char .
+MOVE Left
+INSERT Char d
+INSERT Char n
+MOVE End
+MOVE Home
+INSERT Char k
+MOVE Home
+PRINT
+INSERT Char k
+INSERT Char d
+INSERT Char k
+INSERT Space
+MOVE Right
+MOVE Home
+INSERT Space
+MOVE End
+INSERT Char 1
+INSERT Char .
+MOVE Right
+PRINT
+INSERT Char n
+MOVE Home
+MOVE Right
+INSERT Char V
+MOVE Right
+MOVE Left
+INSERT Char .
+MOVE Left
+INSERT Char .
+INSERT Char H
+MOVE End
+INSERT Char k
+INSERT Char d
+MOVE End
+PRINT
+MOVE End
+INSERT Char d
+MOVE Home
+PRINT
+INSERT Char k
+INSERT Char d
+MOVE End
+PRINT
+PRINT
+MOVE Right
+INSERT Char d
+MOVE Right
+MOVE End
+INSERT Char L
+INSERT Char d
+INSERT Char 1
+MOVE Right
+MOVE Right
+MOVE Home
+MOVE Right
+INSERT Char +
+MOVE Left
+MOVE End
+INSERT Char 1
+MOVE Home
+INSERT Space
+INSERT Char d
+MOVE Right
+PRINT
+MOVE Left
+PRINT
+PRINT
+MOVE Home
+INSERT Char L
+MOVE Left
+MOVE Left
+INSERT Char H
+MOVE Left
+INSERT Char L
+PRINT
+INSERT Char .
+MOVE End
+MOVE Home
+INSERT Char +
+MOVE Right
+MOVE Right
+MOVE End
+MOVE Left
+MOVE End
+MOVE End
+INSERT Char n
+PRINT
+MOVE End
+MOVE Home
+PRINT
+INSERT Char H
+INSERT Char n
+INSERT Char V
+INSERT Char n
+INSERT Char d
+MOVE Left
+MOVE Right
+INSERT Char V
+INSERT Char n
+MOVE Right
+PRINT
+MOVE Home
+MOVE Left
+MOVE Left
+INSERT Char k
+MOVE End
+INSERT Char +
+MOVE Left
+INSERT Space
+INSERT Char 1
+MOVE Home
+PRINT
+MOVE End
+MOVE Right
+MOVE Left
+INSERT Char n
+INSERT Char V
+PRINT
+INSERT Char L
+INSERT Char .
+INSERT Char L
+INSERT Char d
+MOVE Home
+PRINT
+INSERT Char +
+INSERT Char d
+INSERT Space
+INSERT Space
+MOVE Home
+MOVE Right
+INSERT Char V
+MOVE Right
+INSERT Char V
+INSERT Char d
+MOVE Right
+MOVE Home
+PRINT
+INSERT Char +
+INSERT Char .
+MOVE Left
+MOVE Right
+MOVE Right
+PRINT
+INSERT Char H
+MOVE Right
+INSERT Char n
+INSERT Char H
+MOVE Right
+MOVE End
+MOVE Home
+MOVE Right
+INSERT Char k
+MOVE Home
+MOVE Left
+INSERT Char n
+INSERT Char H
+MOVE Left
+INSERT Char n
+INSERT Char +
+MOVE Left
+INSERT Char k
+MOVE Right
+PRINT
+MOVE Home
+INSERT Char H
+MOVE Left
+MOVE End
+INSERT Char .
+MOVE Home
+INSERT Char .
+MOVE Home
+INSERT Space
+MOVE Home
+INSERT Char n
+INSERT Char d
+MOVE End
+INSERT Space
+MOVE Left
+PRINT
+MOVE Home
+MOVE End
+INSERT Char k
+MOVE End
+MOVE End
+MOVE Right
+MOVE End
+INSERT Char n
+INSERT Char 1
+MOVE Left
+INSERT Char 1
+INSERT Char k
+INSERT Char d
+MOVE Left
+INSERT Char .
+INSERT Space
+MOVE Home
+INSERT Char V
+INSERT Char d
+MOVE Home
+MOVE End
+INSERT Space
+MOVE Left
+INSERT Char 1
+MOVE Home
+INSERT Char n
+INSERT Char n
+INSERT Char n
+MOVE Right
+INSERT Char H
+MOVE Right
+INSERT Char k
+INSERT Char d
+MOVE Home
+MOVE Right
+INSERT Space
+MOVE End
+INSERT Char H
+INSERT Char H
+INSERT Char L
+MOVE Right
+INSERT Char d
+INSERT Char k
+INSERT Char d
+INSERT Char .
+INSERT Char k
+MOVE Home
+MOVE Home
+INSERT Char .
+INSERT Char +
+INSERT Char .
+MOVE Home
+INSERT Char k
+MOVE Right
+INSERT Char 1
+INSERT Char +
+PRINT
+INSERT Char d
+INSERT Space
+MOVE Home
+INSERT Char 1
+INSERT Char k
+INSERT Char n
+MOVE Left
+PRINT
+INSERT Char L
+MOVE Home
+MOVE Right
+INSERT Char n
+MOVE Right
+INSERT Space
+INSERT Space
+INSERT Char .
+INSERT Char 1
+INSERT Char d
+PRINT
+MOVE End
+MOVE Left
+INSERT Char V
+MOVE End
+INSERT Char V
+INSERT Char n
+INSERT Space
+MOVE Home
+MOVE End
+INSERT Char k
+INSERT Space
+INSERT Space
+INSERT Char n
+INSERT Char L
+MOVE Left
+INSERT Char 1
+INSERT Char k
+INSERT Char .
+INSERT Char k
+PRINT
+INSERT Space
+MOVE Left
+MOVE Left
+INSERT Space
+INSERT Char V
+INSERT Space
+MOVE Right
+INSERT Space
+INSERT Char +
+INSERT Char 1
+INSERT Char d
+INSERT Char L
+INSERT Char .
+INSERT Char d
+MOVE Right
+PRINT
+INSERT Char .
+MOVE Right
+INSERT Char V
+MOVE Left
+INSERT Char L
+PRINT
+MOVE Left
+INSERT Char L
+MOVE Home
+INSERT Char +
+MOVE End
+MOVE Right
+INSERT Char n
+MOVE Home
+MOVE Left
+MOVE Home
+MOVE Right
+INSERT Char V
+MOVE Right
+MOVE Right
+INSERT Space
+INSERT Space
+PRINT
+INSERT Space
+MOVE Right
+MOVE Right
+INSERT Char H
+INSERT Char 1
+INSERT Char H
+MOVE Home
+PRINT
+INSERT Char k
+INSERT Char +
+INSERT Char .
+MOVE End
+INSERT Char k
+PRINT
+INSERT Char k
+MOVE Home
+MOVE Right
+INSERT Char +
+INSERT Char k
+INSERT Char V
+MOVE Right
+INSERT Char d
+INSERT Char +
+PRINT
+INSERT Char n
+MOVE Right
+MOVE Left
+INSERT Char k
+INSERT Char .
+MOVE Home
+MOVE End
+MOVE Left
+MOVE Left
+MOVE Left
+MOVE Right
+PRINT
+MOVE End
+PRINT
+MOVE Right
+INSERT Char L
+MOVE Right
+INSERT Char L
+INSERT Char n
+MOVE Right
+INSERT Char V
+INSERT Char L
+INSERT Char H
+INSERT Char H
+MOVE Right
+MOVE Right
+MOVE Home
+INSERT Char H
+PRINT
+INSERT Char H
+MOVE Home
+INSERT Char 1
+INSERT Char L
+INSERT Char n
+PRINT
+INSERT Char +
+INSERT Char .
+MOVE End
+MOVE End
+INSERT Char +
+MOVE Left
+INSERT Char n
+INSERT Char L
+INSERT Char d
+PRINT
+INSERT Space
+PRINT
+INSERT Char +
+INSERT Char n
+MOVE End
+MOVE Right
+INSERT Space
+INSERT Char H
+INSERT Char V
+MOVE Right
+MOVE Home
+MOVE End
+MOVE Home
+MOVE Left
+INSERT Char V
+INSERT Char k
+INSERT Char d
+INSERT Char k
+INSERT Char .
+PRINT
+INSERT Char V
+MOVE Left
+INSERT Char 1
+MOVE End
+MOVE Left
+INSERT Char H
+MOVE Left
+MOVE Right
+MOVE Home
+INSERT Char k
+PRINT
+INSERT Char V
+INSERT Char H
+INSERT Char .
+MOVE Home
+MOVE Left
+MOVE End
+INSERT Char V
+MOVE End
+INSERT Char +
+PRINT
+MOVE Right
+MOVE Left
+INSERT Char +
+INSERT Char H
+MOVE Home
+INSERT Char +
+MOVE End
+MOVE Home
+MOVE Right
+INSERT Char H
+MOVE Right
+PRINT
+INSERT Char +
+INSERT Char 1
+INSERT Char H
+INSERT Char +
+MOVE Home
+INSERT Char n
+INSERT Char n
+INSERT Char 1
+MOVE Home
+MOVE Left
+MOVE End
+INSERT Space
+PRINT
+PRINT
+MOVE Home
+INSERT Char V
+MOVE Right
+INSERT Char +
+INSERT Char H
+INSERT Char 1
+INSERT Char 1
+MOVE Left
+PRINT
+MOVE Home
+PRINT
+MOVE Left
+INSERT Char d
+MOVE Right
+MOVE Right
+MOVE Right
+INSERT Space
+MOVE Right
+MOVE End
+INSERT Char L
+MOVE Left
+INSERT Space
+MOVE Right
+MOVE End
+INSERT Char H
+MOVE Right
+INSERT Char 1
+INSERT Char k
+INSERT Char H
+INSERT Char k
+PRINT
+MOVE Right
+MOVE Right
+INSERT Char n
+MOVE Left
+INSERT Char +
+INSERT Char k
+PRINT
+MOVE End
+PRINT
+INSERT Char L
+MOVE Right
+INSERT Char n
+MOVE End
+PRINT
+INSERT Char 1
+INSERT Char d
+MOVE Home
+MOVE Left
+INSERT Char 1
+INSERT Space
+MOVE End
+MOVE Home
+INSERT Char 1
+INSERT Char d
+MOVE Left
+MOVE Home
+INSERT Char L
+INSERT Char V
+INSERT Char .
+MOVE Left
+INSERT Char d
+INSERT Char n
+INSERT Char L
+PRINT
+PRINT
+INSERT Char +
+MOVE Left
+INSERT Char k
+PRINT
+INSERT Char 1
+INSERT Char 1
+INSERT Char V
+INSERT Space
+MOVE End
+MOVE Right
+MOVE End
+MOVE End
+INSERT Char L
+MOVE Right
+INSERT Char .
+MOVE End
+INSERT Char L
+INSERT Char V
+PRINT
+MOVE Home
+MOVE Home
+INSERT Char L
+INSERT Char n
+PRINT
+MOVE End
+INSERT Space
+INSERT Char d
+INSERT Char V
+MOVE End
+INSERT Space
+INSERT Space
+MOVE Home
+MOVE Right
+MOVE End
+INSERT Char L
+MOVE Right
+INSERT Char 1
+PRINT
+MOVE Left
+INSERT Char d
+MOVE End
+INSERT Char k
+INSERT Char V
+INSERT Space
+MOVE Right
+MOVE End
+INSERT Char k
+PRINT
+INSERT Char V
+INSERT Char .
+MOVE Right
+INSERT Char n
+MOVE Right
+PRINT
+INSERT Char d
+MOVE Left
+INSERT Char n
+INSERT Char L
+INSERT Char d
+MOVE Left
+INSERT Char n
+INSERT Char L
+INSERT Char 1
+MOVE Home
+INSERT Char 1
+INSERT Char k
+MOVE Right
+INSERT Char +
+INSERT Char k
+PRINT
+MOVE Right
+PRINT
+PRINT
+MOVE Left
+INSERT Char k
+MOVE Left
+MOVE Left
+MOVE Right
+INSERT Char V
+PRINT
+INSERT Char n
+INSERT Char 1
+MOVE Left
+MOVE Left
+INSERT Char 1
+MOVE Right
+MOVE End
+MOVE End
+INSERT Char L
+INSERT Char L
+INSERT Char 1
+MOVE End
+INSERT Space
+INSERT Char H
+MOVE End
+MOVE Left
+PRINT
+INSERT Char .
+INSERT Char k
+PRINT
+INSERT Char H
+INSERT Char k
+INSERT Space
+PRINT
+MOVE Left
+INSERT Char +
+INSERT Char +
+INSERT Char V
+MOVE End
+INSERT Space
+MOVE Right
+INSERT Char L
+PRINT
+INSERT Char d
+MOVE Right
+MOVE Left
+INSERT Char H
+MOVE Right
+INSERT Char 1
+MOVE Home
+INSERT Char .
+INSERT Char k
+MOVE Home
+MOVE Left
+MOVE Right
+INSERT Char k
+INSERT Char d
+PRINT
+INSERT Char L
+MOVE End
+INSERT Space
+MOVE Right
+MOVE End
+MOVE Right
+MOVE Home
+MOVE Right
+INSERT Char n
+INSERT Char H
+PRINT
+INSERT Char V
+INSERT Char V
+INSERT Char H
+MOVE End
+INSERT Space
+INSERT Char V
+INSERT Char .
+MOVE Right
+INSERT Char n
+INSERT Char +
+MOVE Right
+MOVE Home
+INSERT Char V
+PRINT
+INSERT Char V
+MOVE Home
+INSERT Char H
+MOVE Right
+INSERT Char .
+INSERT Space
+MOVE Left
+INSERT Char k
+INSERT Char H
+MOVE End
+MOVE Left
+MOVE Left
+MOVE Right
+MOVE Home
+PRINT
+MOVE Home
+MOVE Home
+INSERT Char V
+MOVE Left
+MOVE End
+MOVE Home
+INSERT Char +
+INSERT Char 1
+PRINT
+INSERT Char k
+INSERT Char +
+PRINT
+MOVE End
+INSERT Char +
+INSERT Char +
+INSERT Char d
+INSERT Char L
+MOVE End
+INSERT Char k
+INSERT Char d
+INSERT Char k
+PRINT
+INSERT Char d
+INSERT Char +
+INSERT Char L
+INSERT Char L
+INSERT Char L
+INSERT Char H
+INSERT Char H
+PRINT
+INSERT Char k
+INSERT Char k
+MOVE End
+INSERT Char V
+INSERT Char +
+PRINT
+INSERT Char d
+MOVE End
+MOVE Right
+MOVE End
+MOVE Home
+INSERT Char n
+MOVE Left
+INSERT Space
+INSERT Char d
+PRINT
+INSERT Char H
+INSERT Char +
+MOVE Left
+INSERT Char d
+INSERT Char n
+MOVE Home
+INSERT Char 1
+INSERT Char d
+INSERT Char H
+INSERT Char d
+INSERT Char L
+MOVE Home
+MOVE Home
+INSERT Char .
+INSERT Space
+INSERT Char k
+INSERT Char 1
+MOVE End
+MOVE End
+PRINT
+INSERT Char n
+MOVE Left
+MOVE End
+INSERT Char +
+INSERT Char k
+INSERT Char d
+INSERT Char n
+MOVE Left
+INSERT Char d
+MOVE Left
+PRINT
+MOVE Left
+PRINT
+PRINT
+INSERT Char d
+PRINT
+INSERT Char k
+INSERT Char n
+PRINT
+INSERT Char .
+MOVE End
+MOVE Left
+INSERT Char L
+INSERT Char k
+MOVE Right
+MOVE Right
+INSERT Char L
+MOVE Left
+MOVE Left
+MOVE Right
+PRINT
+MOVE Home
+PRINT
+MOVE End
+INSERT Char 1
+MOVE Home
+INSERT Space
+MOVE End
+INSERT Char 1
+INSERT Char 1
+INSERT Char V
+MOVE Right
+INSERT Char n
+PRINT
+MOVE Right
+PRINT
+MOVE Right
+INSERT Char V
+INSERT Char n
+INSERT Char L
+MOVE Home
+INSERT Char k
+PRINT
+MOVE Home
+INSERT Char n
+PRINT
+INSERT Char 1
+INSERT Char .
+MOVE Home
+INSERT Char 1
+INSERT Char k
+INSERT Char .
+MOVE Home
+MOVE Home
+INSERT Char d
+INSERT Char H
+MOVE Right
+INSERT Char H
+INSERT Char H
+MOVE Home
+INSERT Char +
+MOVE End
+MOVE Home
+PRINT
+INSERT Char n
+INSERT Char n
+PRINT
+INSERT Char n
+MOVE End
+INSERT Char n
+INSERT Char V
+MOVE End
+MOVE End
+MOVE Home
+INSERT Char H
+INSERT Char d
+INSERT Char .
+INSERT Char H
+MOVE Right
+INSERT Char +
+MOVE End
+INSERT Char k
+MOVE Left
+INSERT Char k
+INSERT Char n
+MOVE End
+MOVE Home
+INSERT Char n
+MOVE Home
+INSERT Char H
+MOVE Left
+PRINT
+INSERT Char k
+INSERT Char 1
+MOVE Left
+INSERT Char L
+MOVE Left
+INSERT Char k
+MOVE Left
+MOVE Left
+INSERT Space
+INSERT Char V
+MOVE Left
+MOVE Left
+MOVE Left
+INSERT Char H
+INSERT Char n
+MOVE Home
+MOVE Right
+INSERT Char +
+INSERT Char n
+INSERT Char V
+MOVE Right
+INSERT Char L
+INSERT Char n
+INSERT Char L
+MOVE Right
+MOVE Left
+INSERT Space
+INSERT Char d
+MOVE Left
+INSERT Space
+MOVE Home
+INSERT Char d
+MOVE Home
+INSERT Char 1
+INSERT Char +
+INSERT Char +
+INSERT Char d
+INSERT Char .
+INSERT Char V
+PRINT
+MOVE Right
+INSERT Char .
+INSERT Char L
+PRINT
+MOVE Home
+MOVE Right
+MOVE Right
+INSERT Space
+MOVE End
+MOVE Home
+INSERT Char d
+MOVE Left
+MOVE Right
+PRINT
+INSERT Char 1
+INSERT Char +
+INSERT Char V
+PRINT
+MOVE Left
+INSERT Char 1
+INSERT Char 1
+PRINT
+MOVE End
+INSERT Space
+MOVE Right
+INSERT Char .
+INSERT Char H
+INSERT Char 1
+MOVE Left
+INSERT Space
+INSERT Char d
+INSERT Char V
+MOVE Right
+MOVE Left
+INSERT Char V
+INSERT Char V
+INSERT Char L
+MOVE Right
+INSERT Char +
+INSERT Char d
+PRINT
+INSERT Char k
+MOVE Left
+INSERT Char n
+INSERT Char .
+INSERT Char +
+INSERT Char 1
+INSERT Char n
+INSERT Char .
+PRINT
+INSERT Space
+MOVE Left
+INSERT Char .
+MOVE Left
+INSERT Char +
+INSERT Space
+MOVE Home
+INSERT Char L
+INSERT Char n
+INSERT Char d
+INSERT Char H
+MOVE Left
+INSERT Char n
+INSERT Char .
+MOVE Home
+MOVE Left
+INSERT Space
+INSERT Char H
+INSERT Char V
+MOVE Right
+INSERT Char n
+MOVE Left
+INSERT Char d
+MOVE Right
+INSERT Char H
+PRINT
+INSERT Space
+PRINT
+INSERT Char k
+INSERT Char .
+PRINT
+MOVE End
+MOVE Left
+MOVE Right
+MOVE Home
+PRINT
+INSERT Char +
+INSERT Char n
+PRINT
+INSERT Char L
+PRINT
+MOVE Left
+INSERT Space
+INSERT Char V
+PRINT
+INSERT Char n
+INSERT Char d
+INSERT Char H
+INSERT Char n
+INSERT Char n
+INSERT Char L
+MOVE Right
+PRINT
+MOVE Left
+MOVE Right
+INSERT Char .
+INSERT Char k
+INSERT Char L
+MOVE Home
+MOVE Home
+INSERT Char V
+MOVE Left
+MOVE End
+PRINT
+INSERT Space
+INSERT Space
+MOVE Left
+PRINT
+MOVE Right
+MOVE Right
+INSERT Char H
+INSERT Char H
+PRINT
+MOVE Right
+MOVE Right
+INSERT Char H
+MOVE Left
+MOVE Left
+INSERT Char k
+INSERT Space
+INSERT Char L
+INSERT Char L
+PRINT
+INSERT Char d
+MOVE Right
+MOVE Left
+MOVE Left
+PRINT
+MOVE Right
+INSERT Char k
+MOVE End
+INSERT Char L
+MOVE Left
+PRINT
+INSERT Char +
+INSERT Char L
+PRINT
+MOVE Left
+INSERT Char 1
+MOVE Left
+MOVE End
+INSERT Char +
+INSERT Char .
+INSERT Char d
+MOVE Right
+INSERT Space
+MOVE Left
+MOVE Home
+MOVE Right
+INSERT Char n
+PRINT
+MOVE Right
+PRINT
+MOVE Left
+INSERT Char .
+MOVE Left
+INSERT Char k
+MOVE Left
+MOVE End
+INSERT Char H
+PRINT
+INSERT Char V
+INSERT Char L
+INSERT Char L
+MOVE Left
+INSERT Char k
+MOVE Home
+INSERT Char k
+INSERT Char L
+MOVE Home
+MOVE Home
+PRINT
+INSERT Char +
+PRINT
+MOVE End
+INSERT Space
+INSERT Char +
+MOVE Left
+INSERT Char V
+MOVE Left
+MOVE Left
+MOVE Left
+PRINT
+MOVE Home
+MOVE Right
+MOVE Home
+INSERT Char d
+INSERT Char V
+INSERT Space
+MOVE End
+MOVE Right
+MOVE End
+INSERT Char k
+MOVE Right
+PRINT
+PRINT
+MOVE End
+INSERT Space
+INSERT Char V
+INSERT Char .
+MOVE Left
+MOVE Left
+INSERT Space
+MOVE End
+MOVE End
+MOVE Right
+MOVE Home
+INSERT Char V
+PRINT
+MOVE Home
+INSERT Char V
+MOVE Left
+MOVE End
+INSERT Char k
+PRINT
+MOVE Home
+INSERT Char 1
+INSERT Space
+MOVE Left
+MOVE Left
+PRINT
+INSERT Char 1
+INSERT Char V
+INSERT Char 1
+INSERT Char 1
+MOVE Left
+MOVE End
+MOVE Left
+INSERT Char .
+MOVE Home
+INSERT Char d
+INSERT Char +
+INSERT Char L
+INSERT Char H
+MOVE Right
+MOVE Left
+PRINT
+INSERT Char +
+INSERT Char V
+MOVE End
+MOVE Right
+INSERT Char V
+INSERT Char V
+MOVE Right
+MOVE Right
+MOVE End
+INSERT Char 1
+INSERT Char L
+INSERT Char k
+INSERT Char .
+INSERT Char .
+INSERT Char .
+MOVE End
+INSERT Char H
+INSERT Char .
+PRINT
+INSERT Char L
+MOVE Right
+INSERT Char k
+INSERT Char L
+INSERT Char L
+MOVE Home
+MOVE Right
+INSERT Char L
+INSERT Char d
+MOVE Left
+INSERT Char L
+INSERT Char V
+INSERT Char .
+INSERT Char H
+INSERT Char k
+INSERT Char 1
+INSERT Char k
+PRINT
+INSERT Char .
+MOVE Right
+INSERT Char H
+MOVE End
+MOVE End
+INSERT Char n
+MOVE End
+INSERT Char H
+INSERT Char H
+MOVE Left
+MOVE Left
+MOVE Left
+MOVE Home
+INSERT Char d
+MOVE Left
+MOVE Home
+INSERT Char L
+INSERT Char k
+INSERT Char d
+MOVE Right
+INSERT Char L
+MOVE Home
+INSERT Char n
+MOVE Right
+INSERT Char d
+MOVE End
+INSERT Char k
+INSERT Char V
+PRINT
+INSERT Char 1
+INSERT Char n
+PRINT
+INSERT Char V
+INSERT Char 1
+MOVE Home
+INSERT Char k
+INSERT Char d
+PRINT
+MOVE Right
+MOVE Left
+INSERT Char +
+INSERT Char +
+INSERT Space
+INSERT Char +
+INSERT Char n
+MOVE End
+PRINT
+INSERT Char +
+MOVE Right
+INSERT Char 1
+MOVE End
+MOVE End
+MOVE End
+INSERT Char n
+MOVE End
+INSERT Char 1
+PRINT
+INSERT Space
+INSERT Char L
+PRINT
+MOVE Right
+MOVE Home
+INSERT Char +
+INSERT Char L
+PRINT
+PRINT
+INSERT Char L
+MOVE Right
+MOVE Right
+INSERT Char +
+MOVE Left
+INSERT Char d
+INSERT Char +
+MOVE Left
+MOVE Home
+INSERT Char k
+INSERT Char 1
+INSERT Char H
+INSERT Char .
+MOVE End
+MOVE Right
+INSERT Char +
+INSERT Char n
+MOVE Home
+MOVE Left
+INSERT Char L
+MOVE Left
+INSERT Char d
+INSERT Char k
+INSERT Char n
+MOVE Right
+INSERT Char d
+INSERT Char L
+MOVE Left
+MOVE End
+INSERT Char V
+MOVE Home
+INSERT Char 1
+INSERT Char +
+INSERT Char 1
+MOVE Left
+INSERT Char k
+INSERT Char n
+INSERT Char V
+INSERT Char V
+MOVE Home
+INSERT Char d
+MOVE Home
+MOVE Left
+PRINT
+PRINT
+MOVE Right
+INSERT Char V
+INSERT Char k
+MOVE Left
+PRINT
+INSERT Char .
+INSERT Space
+INSERT Char +
+INSERT Char V
+INSERT Char k
+INSERT Space
+MOVE Right
+INSERT Char n
+INSERT Char .
+INSERT Char .
+MOVE Right
+PRINT
+MOVE Right
+MOVE Home
+PRINT
+INSERT Char n
+INSERT Char L
+MOVE Right
+INSERT Char d
+INSERT Char L
+INSERT Char V
+INSERT Char +
+INSERT Char +
+MOVE End
+MOVE End
+INSERT Char L
+MOVE Left
+MOVE Home
+INSERT Char k
+INSERT Char V
+INSERT Char n
+PRINT
+INSERT Char d
+INSERT Char 1
+PRINT
+INSERT Char V
