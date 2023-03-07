@@ -177,7 +177,25 @@ void output() {
     }
 }
 
+int exgcd(int a, int b, int &x, int &y) {
+    if (a < b) return exgcd(b, a, y, x);
+    if (b == 0) {
+        x = 1;
+        y = 0;
+        return a;
+    } else {
+        int x1;
+        int d = exgcd(b, a % b, x1, x);
+        y = x1 - a / b * x;
+        return d;
+    }
+}
+
 int main() {
-    init();
-    output();
+    //init();
+    int x = 1;
+    int y = 0;
+    cout << exgcd(1759, 550, x, y) << endl;
+    cout << x << " " << y << endl;
+    //output();
 }

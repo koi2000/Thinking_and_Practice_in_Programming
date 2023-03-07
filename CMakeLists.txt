@@ -6,6 +6,7 @@ set(CMAKE_CXX_STANDARD 11)
 #add_executable(project2 E1/A.cpp)
 
 add_executable(project2 main.cpp)
+add_executable(projecttp tp.cpp)
 add_executable(project2-1 main2.cpp)
 
 add_executable(H3A H3/A.cpp)
